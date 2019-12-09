@@ -951,3 +951,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-19.49.55:107][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
 [2019.12.09-19.49.55:149][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2019.12.09-19.49.55:163][287]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.09-19.53.35:290][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.53.35:329][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.09-19.53.35:701][299]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/House_Auto2D8B9342F4807D630CE019EA70BAB7607.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Maps/House_Auto2.umap'
+[2019.12.09-19.53.35:703][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/House' took 0.405
+[2019.12.09-19.53.35:703][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2019.12.09-19.53.35:705][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy] ([1] browsable assets)...
+[2019.12.09-19.53.35:716][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy.Enemy]
+[2019.12.09-19.53.35:716][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy]
+[2019.12.09-19.53.35:761][299]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Enemy_Auto2C88805374AA5B2F62F9904ACDA460818.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Auto2.uasset'
+[2019.12.09-19.53.35:762][299]LogFileHelpers: Auto-saving content packages took 0.059
