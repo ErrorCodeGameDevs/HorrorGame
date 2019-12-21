@@ -1466,3 +1466,759 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.21-20.47.20:996][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant]
 [2019.12.21-20.47.21:078][103]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Enemy_Mutant_Auto34A7CEC8C4BE33280B74B42B429D72400.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant_Auto3.uasset'
 [2019.12.21-20.47.21:080][103]LogFileHelpers: Auto-saving content packages took 0.104
+[2019.12.21-21.05.26:452][213]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Tyson\Downloads\Warrior Idle.fbx)
+[2019.12.21-21.05.26:469][213]LogFbx: Loading FBX Scene from C:\Users\Tyson\Downloads\Warrior Idle.fbx
+[2019.12.21-21.05.26:520][213]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.21-21.05.28:712][213]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.21-21.05.28:745][213]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Tyson\Downloads\Walking (1).fbx)
+[2019.12.21-21.05.28:748][213]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Tyson\Downloads\Running (1).fbx)
+[2019.12.21-21.05.33:187][583]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Tyson\Downloads\Ch18_nonPBR.fbx)
+[2019.12.21-21.05.33:229][583]LogFbx: Loading FBX Scene from C:\Users\Tyson\Downloads\Ch18_nonPBR.fbx
+[2019.12.21-21.05.33:338][583]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.21-21.05.37:325][583]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.21-21.05.37:367][583]LogFbx: =================================================
+[2019.12.21-21.05.37:367][583]LogFbx: Dumping Node START [Ch18] 
+[2019.12.21-21.05.37:367][583]LogFbx: 	Total Deformer Count 464065472.
+[2019.12.21-21.05.37:367][583]LogFbx: 		[Node 1]  (Type Skin).
+[2019.12.21-21.05.37:367][583]LogFbx: =================================================
+[2019.12.21-21.05.37:367][583]LogFbx: 	Attribute () Type (4).
+[2019.12.21-21.05.37:367][583]LogFbx: 		[Node Attribute Child 1] Ch18 (Type Mesh).
+[2019.12.21-21.05.37:367][583]LogFbx: Dumping Node END [Ch18]
+[2019.12.21-21.05.37:367][583]LogFbx: =================================================
+[2019.12.21-21.05.37:367][583]LogFbx: Dumping Node START [Ch18] 
+[2019.12.21-21.05.37:367][583]LogFbx: 	Total Deformer Count 464065472.
+[2019.12.21-21.05.37:367][583]LogFbx: 		[Node 1]  (Type Skin).
+[2019.12.21-21.05.37:367][583]LogFbx: =================================================
+[2019.12.21-21.05.37:367][583]LogFbx: 	Attribute () Type (4).
+[2019.12.21-21.05.37:367][583]LogFbx: 		[Node Attribute Child 1] Ch18 (Type Mesh).
+[2019.12.21-21.05.37:367][583]LogFbx: Dumping Node END [Ch18]
+[2019.12.21-21.05.37:376][583]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch18 : The relative matrices do not match
+[2019.12.21-21.05.37:376][583]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.12.21-21.05.37:376][583]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch18
+[2019.12.21-21.05.37:376][583]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.12.21-21.05.37:629][583]LogMaterial: Warning: Material /Game/Characters/Alex/Ch18_Body.Ch18_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2019.12.21-21.05.37:631][583]LogMaterial: Display: Missing cached shader map for material Ch18_Body, compiling. 
+[2019.12.21-21.05.37:665][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Diffuse'
+[2019.12.21-21.05.37:666][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Diffuse'
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.21-21.05.37:768][583]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.21-21.05.37:775][583]LogTexture: Display: Building textures: Ch18_1001_Diffuse (AutoDXT, 2048X2048)
+[2019.12.21-21.05.38:375][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Specular'
+[2019.12.21-21.05.38:376][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Specular'
+[2019.12.21-21.05.38:447][583]LogTexture: Display: Building textures: Ch18_1001_Specular (AutoDXT, 2048X2048)
+[2019.12.21-21.05.38:630][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Glossiness'
+[2019.12.21-21.05.38:631][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Glossiness'
+[2019.12.21-21.05.38:705][583]LogTexture: Display: Building textures: Ch18_1001_Glossiness (AutoDXT, 2048X2048)
+[2019.12.21-21.05.39:269][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Normal'
+[2019.12.21-21.05.39:270][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_1001_Normal'
+[2019.12.21-21.05.39:445][583]LogTexture: Display: Building textures: Ch18_1001_Normal (BC5, 2048X2048)
+[2019.12.21-21.05.39:672][583]LogMaterial: Display: Missing cached shader map for material Ch18_Body, compiling. 
+[2019.12.21-21.05.39:723][583]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.21-21.05.39:723][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.21-21.05.39:723][583]LogFbx: Triangulating skeletal mesh Ch18
+[2019.12.21-21.05.42:025][583]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.21-21.05.42:025][583]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.21-21.05.42:025][583]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.21-21.05.42:025][583]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.21-21.05.42:025][583]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2019.12.21-21.05.43:389][583]LogSkeletalMesh: Section 0: 23939 vertices, 52 active bones
+[2019.12.21-21.05.43:393][583]LogSkeletalMesh: Section 0: Material=0, 41526 triangles
+[2019.12.21-21.05.43:433][583]LogSkeletalMesh: Building Skeletal Mesh Ch18_nonPBR...
+[2019.12.21-21.05.43:498][583]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/Alex/Ch18_nonPBR.Ch18_nonPBR
+[2019.12.21-21.05.43:515][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Skeleton'
+[2019.12.21-21.05.43:516][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Skeleton'
+[2019.12.21-21.05.43:521][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset'
+[2019.12.21-21.05.43:522][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset'
+[2019.12.21-21.05.43:556][583]LogFbx: =================================================
+[2019.12.21-21.05.43:556][583]LogFbx: Dumping Node START [Ch18] 
+[2019.12.21-21.05.43:556][583]LogFbx: 	Total Deformer Count 227631376.
+[2019.12.21-21.05.43:556][583]LogFbx: 		[Node 1]  (Type Skin).
+[2019.12.21-21.05.43:556][583]LogFbx: =================================================
+[2019.12.21-21.05.43:556][583]LogFbx: 	Attribute () Type (4).
+[2019.12.21-21.05.43:556][583]LogFbx: 		[Node Attribute Child 1] Ch18 (Type Mesh).
+[2019.12.21-21.05.43:556][583]LogFbx: Dumping Node END [Ch18]
+[2019.12.21-21.05.43:556][583]LogFbx: =================================================
+[2019.12.21-21.05.43:556][583]LogFbx: Dumping Node START [Ch18] 
+[2019.12.21-21.05.43:556][583]LogFbx: 	Total Deformer Count 227631376.
+[2019.12.21-21.05.43:556][583]LogFbx: 		[Node 1]  (Type Skin).
+[2019.12.21-21.05.43:556][583]LogFbx: =================================================
+[2019.12.21-21.05.43:556][583]LogFbx: 	Attribute () Type (4).
+[2019.12.21-21.05.43:556][583]LogFbx: 		[Node Attribute Child 1] Ch18 (Type Mesh).
+[2019.12.21-21.05.43:556][583]LogFbx: Dumping Node END [Ch18]
+[2019.12.21-21.05.43:557][583]LogFbx: SortedLinks :(0) Hips
+[2019.12.21-21.05.43:557][583]LogFbx: SortedLinks :(1) Spine
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(2) Spine1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(3) Spine2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(4) Neck
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(5) Head
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(31) RightShoulder
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(32) RightArm
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(33) RightForeArm
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(34) RightHand
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(56) LeftLeg
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(57) LeftFoot
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(61) RightLeg
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(62) RightFoot
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(63) RightToeBase
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(64) RightToe_End
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(0) Hips
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(1) Spine
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(2) Spine1
+[2019.12.21-21.05.43:558][583]LogFbx: SortedLinks :(3) Spine2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(4) Neck
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(5) Head
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(31) RightShoulder
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(32) RightArm
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(33) RightForeArm
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(34) RightHand
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(56) LeftLeg
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(57) LeftFoot
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(61) RightLeg
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(62) RightFoot
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(63) RightToeBase
+[2019.12.21-21.05.43:559][583]LogFbx: SortedLinks :(64) RightToe_End
+[2019.12.21-21.05.43:560][583]LogFbx: Parsing AnimStack Take 001
+[2019.12.21-21.05.43:561][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001'
+[2019.12.21-21.05.43:561][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001'
+[2019.12.21-21.05.44:710][583]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001.Ch18_nonPBR_Anim_Take_001
+[2019.12.21-21.05.44:711][583]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ch18_nonPBR_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.21-21.05.44:719][583]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.21-21.05.44:720][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com'
+[2019.12.21-21.05.44:720][583]LogLinker: Can't find file '/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com'
+[2019.12.21-21.05.44:766][583]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com.Ch18_nonPBR_Anim_mixamo_com
+[2019.12.21-21.05.44:767][583]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ch18_nonPBR_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.21-21.05.44:772][583]LogSkeletalMesh: Building Skeletal Mesh Ch18_nonPBR...
+[2019.12.21-21.05.44:822][583]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Characters/Alex/Ch18_nonPBR.Ch18_nonPBR
+[2019.12.21-21.05.44:838][583]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.12.21-21.05.44:838][583]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.12.21-21.05.44:851][583]LogSkeletalMesh: Building Skeletal Mesh Ch18_nonPBR...
+[2019.12.21-21.05.44:899][583]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Characters/Alex/Ch18_nonPBR.Ch18_nonPBR
+[2019.12.21-21.05.47:807][887]LogSlate: Window 'Message Log' being destroyed
+[2019.12.21-21.05.47:810][887]LogSlate: Window 'Message Log' being destroyed
+[2019.12.21-21.05.48:096][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.21-21.05.48:096][913]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Big' took 0.041
+[2019.12.21-21.05.48:098][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com] ([1] browsable assets)...
+[2019.12.21-21.05.48:117][913]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com.Ch18_nonPBR_Anim_mixamo_com]
+[2019.12.21-21.05.48:117][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com]
+[2019.12.21-21.05.48:164][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Anim_mixamo_com_AutoDA6988754F31CD743B69F29802FD58AF.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com_Auto4.uasset'
+[2019.12.21-21.05.48:167][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001] ([1] browsable assets)...
+[2019.12.21-21.05.48:180][913]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001.Ch18_nonPBR_Anim_Take_001]
+[2019.12.21-21.05.48:180][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001]
+[2019.12.21-21.05.48:193][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Anim_Take_001_Auto4F61F78984D123B82F45CFF936D670BE9.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001_Auto4.uasset'
+[2019.12.21-21.05.48:195][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2019.12.21-21.05.48:207][913]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset.Ch18_nonPBR_PhysicsAsset]
+[2019.12.21-21.05.48:207][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset]
+[2019.12.21-21.05.48:230][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_PhysicsAsset_Auto40B1F770E4AD74AD2464B408949FED174.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset_Auto4.uasset'
+[2019.12.21-21.05.48:233][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_nonPBR] ([1] browsable assets)...
+[2019.12.21-21.05.48:245][913]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Alex/Ch18_nonPBR.Ch18_nonPBR]
+[2019.12.21-21.05.48:245][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_nonPBR]
+[2019.12.21-21.05.48:245][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.05.48:310][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Auto472A7420045610E6DF1F9C09130A90AFC.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_Auto4.uasset'
+[2019.12.21-21.05.48:313][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_Body] ([1] browsable assets)...
+[2019.12.21-21.05.48:325][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Alex/Ch18_Body.Ch18_Body]
+[2019.12.21-21.05.48:325][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_Body]
+[2019.12.21-21.05.48:325][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_Body" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_Body_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.05.48:339][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_Body_Auto48145DF4D45609CBA6050FBB78667D089.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_Body_Auto4.uasset'
+[2019.12.21-21.05.48:343][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_1001_Diffuse] ([1] browsable assets)...
+[2019.12.21-21.05.48:350][913]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Alex/Ch18_1001_Diffuse.Ch18_1001_Diffuse]
+[2019.12.21-21.05.48:350][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_1001_Diffuse]
+[2019.12.21-21.05.48:350][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Diffuse" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Diffuse_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.05.48:366][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Diffuse_Auto4BC21B08849FD8ED0DEC9ABAB8763E359.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Diffuse_Auto4.uasset'
+[2019.12.21-21.05.48:370][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_1001_Specular] ([1] browsable assets)...
+[2019.12.21-21.05.48:376][913]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Alex/Ch18_1001_Specular.Ch18_1001_Specular]
+[2019.12.21-21.05.48:376][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_1001_Specular]
+[2019.12.21-21.05.48:389][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Specular_Auto487E905AD40C53D6CDEBE68A87E1BF422.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Specular_Auto4.uasset'
+[2019.12.21-21.05.48:392][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_1001_Glossiness] ([1] browsable assets)...
+[2019.12.21-21.05.48:398][913]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Alex/Ch18_1001_Glossiness.Ch18_1001_Glossiness]
+[2019.12.21-21.05.48:398][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_1001_Glossiness]
+[2019.12.21-21.05.48:409][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Glossiness_Auto4FAF25FB745862569DD66D293197F63C2.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Glossiness_Auto4.uasset'
+[2019.12.21-21.05.48:412][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Ch18_1001_Normal] ([1] browsable assets)...
+[2019.12.21-21.05.48:420][913]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Alex/Ch18_1001_Normal.Ch18_1001_Normal]
+[2019.12.21-21.05.48:420][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_1001_Normal]
+[2019.12.21-21.05.48:420][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Normal" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Normal_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.05.48:497][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Normal_Auto47375231C4EB787ECD6185891C8CB3F1E.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_1001_Normal_Auto4.uasset'
+[2019.12.21-21.05.48:501][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Alex/Ch18_nonPBR_Skeleton] ([1] browsable assets)...
+[2019.12.21-21.05.48:501][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Ch18_nonPBR_Skeleton]
+[2019.12.21-21.05.48:506][913]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Skeleton_Auto418F5947A4795F52BF1F77CB27B1EE70B.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Ch18_nonPBR_Skeleton_Auto4.uasset'
+[2019.12.21-21.05.48:508][913]LogFileHelpers: Auto-saving content packages took 0.411
+[2019.12.21-21.06.07:023][288]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Tyson\Downloads\Warrior Idle.fbx)
+[2019.12.21-21.06.07:039][288]LogFbx: Loading FBX Scene from C:\Users\Tyson\Downloads\Warrior Idle.fbx
+[2019.12.21-21.06.07:090][288]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.21-21.06.13:176][288]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(0) Hips
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(1) Spine
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(2) Spine1
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(3) Spine2
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(4) Neck
+[2019.12.21-21.06.13:223][288]LogFbx: SortedLinks :(5) Head
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(31) RightShoulder
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(32) RightArm
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(33) RightForeArm
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(34) RightHand
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(56) LeftLeg
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(57) LeftFoot
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(61) RightLeg
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(62) RightFoot
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(63) RightToeBase
+[2019.12.21-21.06.13:224][288]LogFbx: SortedLinks :(64) RightToe_End
+[2019.12.21-21.06.13:225][288]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.21-21.06.13:226][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Warrior_Idle'
+[2019.12.21-21.06.13:227][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Warrior_Idle'
+[2019.12.21-21.06.15:891][288]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Alex/Anim/Warrior_Idle.Warrior_Idle
+[2019.12.21-21.06.15:892][288]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Warrior_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.21-21.06.15:932][288]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Tyson\Downloads\Walking (1).fbx)
+[2019.12.21-21.06.15:944][288]LogFbx: Loading FBX Scene from C:\Users\Tyson\Downloads\Walking (1).fbx
+[2019.12.21-21.06.15:970][288]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.21-21.06.15:977][288]LogFbx: SortedLinks :(0) Hips
+[2019.12.21-21.06.15:977][288]LogFbx: SortedLinks :(1) Spine
+[2019.12.21-21.06.15:977][288]LogFbx: SortedLinks :(2) Spine1
+[2019.12.21-21.06.15:977][288]LogFbx: SortedLinks :(3) Spine2
+[2019.12.21-21.06.15:977][288]LogFbx: SortedLinks :(4) Neck
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(5) Head
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(31) RightShoulder
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(32) RightArm
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(33) RightForeArm
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(34) RightHand
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(56) LeftLeg
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(57) LeftFoot
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(61) RightLeg
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(62) RightFoot
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(63) RightToeBase
+[2019.12.21-21.06.15:978][288]LogFbx: SortedLinks :(64) RightToe_End
+[2019.12.21-21.06.15:979][288]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.21-21.06.15:979][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Walking__1_'
+[2019.12.21-21.06.15:980][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Walking__1_'
+[2019.12.21-21.06.16:230][288]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Alex/Anim/Walking__1_.Walking__1_
+[2019.12.21-21.06.16:231][288]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walking__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.21-21.06.16:248][288]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Tyson\Downloads\Running (1).fbx)
+[2019.12.21-21.06.16:260][288]LogFbx: Loading FBX Scene from C:\Users\Tyson\Downloads\Running (1).fbx
+[2019.12.21-21.06.16:285][288]LogFbx: FBX Scene Loaded Succesfully
+[2019.12.21-21.06.16:294][288]LogFbx: SortedLinks :(0) Hips
+[2019.12.21-21.06.16:294][288]LogFbx: SortedLinks :(1) Spine
+[2019.12.21-21.06.16:294][288]LogFbx: SortedLinks :(2) Spine1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(3) Spine2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(4) Neck
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(5) Head
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(8) LeftArm
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(10) LeftHand
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(31) RightShoulder
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(32) RightArm
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(33) RightForeArm
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(34) RightHand
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.12.21-21.06.16:295][288]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(56) LeftLeg
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(57) LeftFoot
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(61) RightLeg
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(62) RightFoot
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(63) RightToeBase
+[2019.12.21-21.06.16:296][288]LogFbx: SortedLinks :(64) RightToe_End
+[2019.12.21-21.06.16:296][288]LogFbx: Parsing AnimStack mixamo.com
+[2019.12.21-21.06.16:297][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Running__1_'
+[2019.12.21-21.06.16:297][288]LogLinker: Can't find file '/Game/Characters/Alex/Anim/Running__1_'
+[2019.12.21-21.06.16:482][288]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Alex/Anim/Running__1_.Running__1_
+[2019.12.21-21.06.16:482][288]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Running__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.21-21.06.19:684][602]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Characters/Alex/Anim/Running__1_.Running__1_
+[2019.12.21-21.06.19:692][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.06.19:716][602]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.21-21.06.20:023][602]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.21-21.06.25:206][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.06.30:035][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.06.43:276][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.07.05:363][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.07.35:919][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.07.38:122][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.07.38:224][635]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.12.21-21.07.40:159][635]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.21-21.08.37:659][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.21-21.08.48:825][770]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.21-21.08.48:829][770]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.21-21.08.49:499][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.08.49:608][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.08.49:624][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.08.49:636][857]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-21.08.49:641][857]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2019.12.21-21.08.49:645][857]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2019.12.21-21.08.50:017][857]LogPlayLevel: [PlayLevel] Compiling Enemy_Mutant before play...
+[2019.12.21-21.08.50:388][857]LogPlayLevel: [PlayLevel] Compiling ThirdPersonGameMode before play...
+[2019.12.21-21.08.50:391][857]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2019.12.21-21.08.50:858][857]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2019.12.21-21.08.50:858][857]LogPlayLevel: PlayLevel: Blueprint regeneration took 1222 ms (5 blueprints)
+[2019.12.21-21.08.50:885][857]PIE: New page: PIE session: Big (Dec 21, 2019, 11:08:50 AM)
+[2019.12.21-21.08.50:908][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.08.50:929][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020661s)
+[2019.12.21-21.08.50:930][857]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.08.50:930][857]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.12.21-21.08.50:930][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.022187s)
+[2019.12.21-21.08.51:014][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.12.21-21.08.51:084][857]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.08.51:100][857]LogInit: FAudioDevice initialized.
+[2019.12.21-21.08.51:108][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.51:186][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.08.51:192][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.08.51
+[2019.12.21-21.08.51:318][857]LogWorld: Bringing up level for play took: 0.132392
+[2019.12.21-21.08.51:372][857]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.12.21-21.08.51:389][857]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.12.21-21.08.51:390][857]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.21-21.08.51:394][857]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 2.732
+[2019.12.21-21.08.51:394][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.08.51:524][858]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.12.21-21.08.54:766][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.55:464][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.55:490][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.57:097][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.57:114][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.57:772][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.58:769][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.58:777][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.08.59:530][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.09.00:098][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.09.00:098][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.09.14:631][559]Set new viewmode: Wireframe
+[2019.12.21-21.09.34:767][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.09.34:767][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.09.34:783][975]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.09.34:813][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.09.34:814][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.09.34:907][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.12.21-21.09.34:924][976]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.12.21-21.09.36:058][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.09.38:600][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.09.39:531][415]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.21-21.09.47:520][359]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.21-21.09.50:408][700]Cmd: TRANSACTION UNDO
+[2019.12.21-21.09.50:408][700]LogEditorTransaction: Undo Edit Company Name
+[2019.12.21-21.09.50:787][740]Cmd: TRANSACTION UNDO
+[2019.12.21-21.09.50:787][740]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.21-21.10.07:303][597]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.21-21.10.07:307][597]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.21-21.10.07:914][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.10.08:013][677]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.10.08:032][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.08:032][677]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-21.10.08:033][677]LogPlayLevel: [PlayLevel] Compiling ThirdPersonGameMode before play...
+[2019.12.21-21.10.08:095][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.12.21-21.10.08:095][677]LogPlayLevel: PlayLevel: Blueprint regeneration took 63 ms (1 blueprints)
+[2019.12.21-21.10.08:095][677]PIE: New page: PIE session: Big (Dec 21, 2019, 11:10:08 AM)
+[2019.12.21-21.10.08:095][677]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.10.08:116][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020871s)
+[2019.12.21-21.10.08:117][677]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.10.08:117][677]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2019.12.21-21.10.08:117][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021563s)
+[2019.12.21-21.10.08:144][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.21-21.10.08:175][677]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.10.08:191][677]LogInit: FAudioDevice initialized.
+[2019.12.21-21.10.08:199][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.08:228][677]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.10.08:234][677]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.10.08
+[2019.12.21-21.10.08:235][677]LogWorld: Bringing up level for play took: 0.006743
+[2019.12.21-21.10.08:251][677]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.411
+[2019.12.21-21.10.08:269][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.11:010][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.11:451][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.11:509][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.13:360][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.13:360][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.13:376][277]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.10.13:411][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.10.13:412][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.13:454][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.21-21.10.13:471][278]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.12.21-21.10.13:568][289]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.12.21-21.10.16:300][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.10.16:389][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.10.16:408][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.16:408][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.10.16:408][309]PIE: New page: PIE session: Big (Dec 21, 2019, 11:10:16 AM)
+[2019.12.21-21.10.16:408][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.10.16:429][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020769s)
+[2019.12.21-21.10.16:429][309]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.10.16:430][309]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.12.21-21.10.16:430][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021438s)
+[2019.12.21-21.10.16:465][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.21-21.10.16:496][309]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.10.16:509][309]LogInit: FAudioDevice initialized.
+[2019.12.21-21.10.16:517][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.16:546][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.10.16:552][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.10.16
+[2019.12.21-21.10.16:552][309]LogWorld: Bringing up level for play took: 0.006180
+[2019.12.21-21.10.16:568][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.094
+[2019.12.21-21.10.16:568][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.10.17:441][407]Set new viewmode: Wireframe
+[2019.12.21-21.10.18:799][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.18:808][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.18:816][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.18:824][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.19:384][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.19:808][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.19:875][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.10.39:474][ 47]Set new viewmode: Wireframe
+[2019.12.21-21.10.40:833][210]Set new viewmode: Lit
+[2019.12.21-21.10.42:432][402]Set new viewmode: Wireframe
+[2019.12.21-21.10.44:982][708]Set new viewmode: Lit
+[2019.12.21-21.11.21:502][ 83]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.11.21:510][ 84]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.11.24:116][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.11.24:283][415]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.11.24:288][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.11.24:314][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.11.24:315][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.11.24:355][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.21-21.11.24:386][416]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.12.21-21.11.40:681][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.11.44:225][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.21-21.12.00:202][578]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Characters/Alien_Soldier/BlenSpace_Character.BlenSpace_Character
+[2019.12.21-21.12.00:222][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.12.00:556][578]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.21-21.12.03:350][803]LogSlate: Window 'BlenSpace_Character' being destroyed
+[2019.12.21-21.12.12:439][890]Cmd: TRANSACTION UNDO
+[2019.12.21-21.12.12:439][890]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.21-21.12.12:522][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.12.13:045][952]Cmd: TRANSACTION UNDO
+[2019.12.21-21.12.13:045][952]LogEditorTransaction: Undo Edit Skeleton
+[2019.12.21-21.12.13:126][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.12.13:475][994]Cmd: TRANSACTION UNDO
+[2019.12.21-21.12.13:475][994]LogEditorTransaction: Undo Edit Skeleton
+[2019.12.21-21.12.13:556][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.12.14:279][ 81]Cmd: TRANSACTION UNDO
+[2019.12.21-21.12.14:279][ 81]LogEditorTransaction: Undo Replace component used material
+[2019.12.21-21.12.14:361][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.12.16:331][317]Cmd: TRANSACTION UNDO
+[2019.12.21-21.12.16:331][317]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2019.12.21-21.12.16:423][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.14.30:808][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alien_Soldier/BlenSpace_Character" FILE="../../../../../Git/HorrorGame/Content/Characters/Alien_Soldier/BlenSpace_Character.uasset" SILENT=true
+[2019.12.21-21.14.30:830][381]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/BlenSpace_Character18ABFC2248232F74930BBBA9D680870D.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alien_Soldier/BlenSpace_Character.uasset'
+[2019.12.21-21.14.35:613][909]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.14.35:633][909]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.14.35:633][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.14.35:633][909]PIE: New page: PIE session: Big (Dec 21, 2019, 11:14:35 AM)
+[2019.12.21-21.14.35:633][909]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.14.35:654][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020496s)
+[2019.12.21-21.14.35:654][909]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.14.35:654][909]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2019.12.21-21.14.35:654][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021127s)
+[2019.12.21-21.14.35:698][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.21-21.14.35:730][909]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.14.35:744][909]LogInit: FAudioDevice initialized.
+[2019.12.21-21.14.35:751][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.35:781][909]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.14.35:788][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.14.35
+[2019.12.21-21.14.35:788][909]LogWorld: Bringing up level for play took: 0.006393
+[2019.12.21-21.14.35:804][909]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 1.142
+[2019.12.21-21.14.35:804][909]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.14.37:069][ 48]Set new viewmode: Wireframe
+[2019.12.21-21.14.38:512][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.38:611][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.38:653][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.38:662][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.39:515][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.39:581][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.49:199][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.14.49:199][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.14.49:215][499]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.14.49:249][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.14.49:250][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.14.49:302][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.21-21.14.49:323][500]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.12.21-21.14.59:095][480]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy.Enemy
+[2019.12.21-21.15.16:381][476]BlueprintLog: New page: Compile Enemy
+[2019.12.21-21.15.16:757][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.21-21.16.09:166][685]BlueprintLog: New page: Compile Enemy
+[2019.12.21-21.16.09:508][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.12.21-21.16.11:966][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.16.12:004][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.16.12:004][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.16.12:004][968]PIE: New page: PIE session: Big (Dec 21, 2019, 11:16:12 AM)
+[2019.12.21-21.16.12:004][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.16.12:025][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020569s)
+[2019.12.21-21.16.12:025][968]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.16.12:025][968]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.12.21-21.16.12:025][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021195s)
+[2019.12.21-21.16.12:071][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.21-21.16.12:103][968]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.16.12:116][968]LogInit: FAudioDevice initialized.
+[2019.12.21-21.16.12:124][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.12:156][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.16.12:163][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.16.12
+[2019.12.21-21.16.12:164][968]LogWorld: Bringing up level for play took: 0.006990
+[2019.12.21-21.16.12:180][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.482
+[2019.12.21-21.16.12:180][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.16.13:707][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.13:716][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.14:740][268]Set new viewmode: Wireframe
+[2019.12.21-21.16.14:966][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.15:324][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.15:365][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.16.39:534][243]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.16.39:535][243]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.16.39:546][244]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.16.39:599][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.16.39:599][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.16.40:798][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.16.40:906][405]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.16.40:910][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.16.40:943][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.16.40:944][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.16.40:999][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.12.21-21.16.41:033][406]LogPlayLevel: Display: Destroying online subsystem :Context_73
