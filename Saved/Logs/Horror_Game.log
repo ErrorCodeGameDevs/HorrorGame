@@ -2222,3 +2222,1621 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.21-21.16.40:944][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
 [2019.12.21-21.16.40:999][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
 [2019.12.21-21.16.41:033][406]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.12.21-21.17.44:580][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.17.44:654][198]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.17.44:675][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.17.44:675][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.17.44:675][198]PIE: New page: PIE session: Big (Dec 21, 2019, 11:17:44 AM)
+[2019.12.21-21.17.44:676][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.17.44:696][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020499s)
+[2019.12.21-21.17.44:696][198]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.17.44:697][198]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.12.21-21.17.44:697][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021180s)
+[2019.12.21-21.17.44:737][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.21-21.17.44:768][198]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.17.44:782][198]LogInit: FAudioDevice initialized.
+[2019.12.21-21.17.44:789][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.17.44:817][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.17.44:824][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.17.44
+[2019.12.21-21.17.44:825][198]LogWorld: Bringing up level for play took: 0.007481
+[2019.12.21-21.17.44:841][198]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.179
+[2019.12.21-21.17.44:842][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.17.47:651][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.17.49:503][696]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.17.49:503][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.17.49:520][696]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.17.49:560][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.17.49:561][696]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.17.49:613][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.12.21-21.17.49:640][697]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.12.21-21.17.50:335][780]LogEditorViewport: Clicking on Actor (LMB): Cupboard_BIG_Open_C (Cupboard_BIG_Open)
+[2019.12.21-21.17.52:197][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.17.54:806][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.17.57:085][470]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Cupboard_BIG_Open.Cupboard_BIG_Open
+[2019.12.21-21.18.00:694][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.21-21.18.30:599][374]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.21-21.18.31:630][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.18.33:707][706]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Drawer_Open.Drawer_Open
+[2019.12.21-21.18.34:068][706]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2019.12.21-21.18.34:069][706]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2019.12.21-21.18.34:069][706]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2019.12.21-21.19.16:732][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.19.16:815][700]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.19.17:188][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.21-21.20.28:544][  8]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.20.28:848][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.21-21.20.29:339][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_BIG_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset" SILENT=true
+[2019.12.21-21.20.29:369][ 62]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_BIG_OpenCCA7ECE844424D99FE5E9D8420D57BF2.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset'
+[2019.12.21-21.21.47:296][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.22.29:656][354]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.22.29:967][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.12.21-21.22.30:351][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_BIG_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset" SILENT=true
+[2019.12.21-21.22.30:385][395]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_BIG_OpenA6A7FC064F3824B113AFDAA2BCA902E5.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset'
+[2019.12.21-21.23.03:766][362]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.23.04:070][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.21-21.23.04:578][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_BIG_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset" SILENT=true
+[2019.12.21-21.23.04:613][417]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_BIG_Open23A7E24B407F1F68350BF789D13FD086.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset'
+[2019.12.21-21.23.06:159][597]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.23.06:181][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.06:181][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.23.06:181][597]PIE: New page: PIE session: Big (Dec 21, 2019, 11:23:06 AM)
+[2019.12.21-21.23.06:181][597]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.23.06:202][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020404s)
+[2019.12.21-21.23.06:202][597]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.23.06:202][597]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2019.12.21-21.23.06:202][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021054s)
+[2019.12.21-21.23.06:247][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.12.21-21.23.06:279][597]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.23.06:294][597]LogInit: FAudioDevice initialized.
+[2019.12.21-21.23.06:302][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.23.06:333][597]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.23.06:339][597]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.23.06
+[2019.12.21-21.23.06:340][597]LogWorld: Bringing up level for play took: 0.006624
+[2019.12.21-21.23.06:356][597]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.306
+[2019.12.21-21.23.06:357][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.09:152][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.23.19:755][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.19:755][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.23.19:772][ 80]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.23.19:808][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.23.19:809][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.19:855][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.21-21.23.19:872][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.12.21-21.23.39:169][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.23.51:335][822]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.23.51:637][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.21-21.23.51:985][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_BIG_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset" SILENT=true
+[2019.12.21-21.23.52:020][855]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_BIG_Open3EFCDC454B56D4DF078B51BD442FE809.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset'
+[2019.12.21-21.23.53:912][ 78]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.23.53:938][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.53:938][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.23.53:938][ 78]PIE: New page: PIE session: Big (Dec 21, 2019, 11:23:53 AM)
+[2019.12.21-21.23.53:938][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.23.53:959][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020924s)
+[2019.12.21-21.23.53:959][ 78]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.23.53:960][ 78]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.12.21-21.23.53:960][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021603s)
+[2019.12.21-21.23.54:001][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.21-21.23.54:033][ 78]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.23.54:046][ 78]LogInit: FAudioDevice initialized.
+[2019.12.21-21.23.54:056][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.23.54:084][ 78]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.23.54:093][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.23.54
+[2019.12.21-21.23.54:094][ 78]LogWorld: Bringing up level for play took: 0.009084
+[2019.12.21-21.23.54:110][ 78]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.552
+[2019.12.21-21.23.54:111][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.23.56:906][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.24.15:449][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.15:449][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.24.15:466][510]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.24.15:503][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.24.15:504][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.15:555][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.21-21.24.15:574][511]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.12.21-21.24.23:300][426]BlueprintLog: New page: Compile Cupboard_BIG_Open
+[2019.12.21-21.24.23:599][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.21-21.24.23:978][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_BIG_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset" SILENT=true
+[2019.12.21-21.24.24:013][462]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_BIG_OpenC917009B43230969DCD0EF9DA718CF77.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_BIG_Open.uasset'
+[2019.12.21-21.24.25:275][609]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.24.25:301][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.25:301][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.24.25:301][609]PIE: New page: PIE session: Big (Dec 21, 2019, 11:24:25 AM)
+[2019.12.21-21.24.25:302][609]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.24.25:322][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020907s)
+[2019.12.21-21.24.25:323][609]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.24.25:323][609]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2019.12.21-21.24.25:323][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021570s)
+[2019.12.21-21.24.25:368][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.21-21.24.25:402][609]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.24.25:415][609]LogInit: FAudioDevice initialized.
+[2019.12.21-21.24.25:423][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.24.25:452][609]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.24.25:459][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.24.25
+[2019.12.21-21.24.25:460][609]LogWorld: Bringing up level for play took: 0.007598
+[2019.12.21-21.24.25:476][609]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.814
+[2019.12.21-21.24.25:477][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.28:269][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.24.32:940][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.32:940][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.24.32:958][421]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.24.32:995][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.24.32:996][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.24.33:048][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.21-21.24.33:066][422]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.12.21-21.24.35:711][708]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_C (Cupboard_Open)
+[2019.12.21-21.24.38:297][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.24.38:457][987]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Cupboard_Open.Cupboard_Open
+[2019.12.21-21.24.42:147][342]LogSlate: Window 'Cupboard_Open' being destroyed
+[2019.12.21-21.25.03:773][902]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.21-21.25.04:069][935]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.21-21.25.14:466][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.25.23:583][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.21-21.25.23:599][191]LogMetaData: Removing '/Game/Opening_Things/Cupboard_Open_Left.Cupboard_Open_Left_C' ref from Metadata '/Game/Opening_Things/Cupboard_Open.PackageMetaData'
+[2019.12.21-21.25.23:599][191]LogMetaData: Removing '/Game/Opening_Things/Cupboard_Open_Left.SKEL_Cupboard_Open_Left_C' ref from Metadata '/Game/Opening_Things/Cupboard_Open.PackageMetaData'
+[2019.12.21-21.25.23:652][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.25.23:675][191]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left196CB04E4983EA6CC81A68B98EE5725E.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.25.23:681][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open.uasset" SILENT=true
+[2019.12.21-21.25.23:693][191]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open09AA8AE44E5CC76AF498718FB0FBFA21.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open.uasset'
+[2019.12.21-21.25.30:847][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.21-21.25.35:089][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Cupboard_Open_Right.Cupboard_Open_Right
+[2019.12.21-21.25.37:267][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.21-21.25.48:693][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.27.02:564][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.29.15:521][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.30.07:511][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.30.07:602][552]BlueprintLog: New page: Compile Cupboard_Open_Left
+[2019.12.21-21.30.08:238][552]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.12.21-21.30.18:069][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.30.20:195][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.31.23:059][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.31.40:674][586]BlueprintLog: New page: Compile Cupboard_Open_Left
+[2019.12.21-21.31.41:221][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.21-21.31.41:619][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.31.41:657][628]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left6672F2434519BC8335BDB18C1A605D51.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.32.20:015][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.32.20:045][228]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left6BA8166E4DA495931E0D33A34F7EAAC0.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.32.22:703][543]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.32.22:728][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.32.22:728][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-21.32.22:731][543]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2019.12.21-21.32.22:735][543]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2019.12.21-21.32.23:023][543]LogPlayLevel: [PlayLevel] Compiling Enemy_Mutant before play...
+[2019.12.21-21.32.23:304][543]LogPlayLevel: [PlayLevel] Compiling ThirdPersonGameMode before play...
+[2019.12.21-21.32.23:308][543]LogPlayLevel: [PlayLevel] Compiling Cupboard_Open_Right before play...
+[2019.12.21-21.32.23:621][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.12.21-21.32.23:621][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 893 ms (5 blueprints)
+[2019.12.21-21.32.23:622][543]PIE: New page: PIE session: Big (Dec 21, 2019, 11:32:23 AM)
+[2019.12.21-21.32.23:622][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.32.23:642][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020607s)
+[2019.12.21-21.32.23:643][543]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.32.23:643][543]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.12.21-21.32.23:643][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021274s)
+[2019.12.21-21.32.23:684][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.21-21.32.23:716][543]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.32.23:730][543]LogInit: FAudioDevice initialized.
+[2019.12.21-21.32.23:739][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.32.23:772][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.32.23:778][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.32.23
+[2019.12.21-21.32.23:779][543]LogWorld: Bringing up level for play took: 0.006476
+[2019.12.21-21.32.23:795][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 1.133
+[2019.12.21-21.32.23:795][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.32.26:407][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.32.30:473][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.32.30:473][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.32.30:490][321]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.32.30:526][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.32.30:527][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.32.30:580][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.21-21.32.30:605][322]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.12.21-21.33.01:149][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.33.01:172][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.01:172][964]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-21.33.01:173][964]LogPlayLevel: [PlayLevel] Compiling Cupboard_Open_Left before play...
+[2019.12.21-21.33.01:489][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.21-21.33.01:489][964]LogPlayLevel: PlayLevel: Blueprint regeneration took 317 ms (1 blueprints)
+[2019.12.21-21.33.01:489][964]PIE: New page: PIE session: Big (Dec 21, 2019, 11:33:01 AM)
+[2019.12.21-21.33.01:490][964]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.33.01:510][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020860s)
+[2019.12.21-21.33.01:511][964]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.33.01:511][964]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.12.21-21.33.01:511][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021511s)
+[2019.12.21-21.33.01:553][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.21-21.33.01:585][964]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.33.01:598][964]LogInit: FAudioDevice initialized.
+[2019.12.21-21.33.01:606][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.01:638][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.33.01:645][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.33.01
+[2019.12.21-21.33.01:646][964]LogWorld: Bringing up level for play took: 0.007451
+[2019.12.21-21.33.01:661][964]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.999
+[2019.12.21-21.33.01:661][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.04:288][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.04:665][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.04:666][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.04:682][309]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.33.04:717][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.33.04:718][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.04:771][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.21-21.33.04:794][310]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.12.21-21.33.05:786][429]BlueprintLog: New page: Compile Cupboard_Open_Left
+[2019.12.21-21.33.06:088][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.21-21.33.06:426][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.33.06:463][463]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left393F423E4BA5A1C01C589AAC2A87A5DC.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.33.11:656][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.33.11:686][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.11:686][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.33.11:686][ 81]PIE: New page: PIE session: Big (Dec 21, 2019, 11:33:11 AM)
+[2019.12.21-21.33.11:686][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.33.11:707][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020699s)
+[2019.12.21-21.33.11:707][ 81]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.33.11:708][ 81]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.12.21-21.33.11:708][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021322s)
+[2019.12.21-21.33.11:752][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.21-21.33.11:786][ 81]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.33.11:799][ 81]LogInit: FAudioDevice initialized.
+[2019.12.21-21.33.11:808][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.11:838][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.33.11:845][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.33.11
+[2019.12.21-21.33.11:846][ 81]LogWorld: Bringing up level for play took: 0.006463
+[2019.12.21-21.33.11:862][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.8
+[2019.12.21-21.33.11:862][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.14:653][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.56:527][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.56:527][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.33.56:543][350]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.33.56:578][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.33.56:578][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.33.56:627][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.21-21.33.56:650][351]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.12.21-21.34.04:925][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.34.42:203][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.34.48:877][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.35.10:603][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.35.29:601][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.35.36:432][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.37.49:547][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.38.06:247][462]BlueprintLog: New page: Compile Cupboard_Open_Right
+[2019.12.21-21.38.06:936][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.21-21.38.07:310][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Right" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Right.uasset" SILENT=true
+[2019.12.21-21.38.07:348][501]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Right3183506E48F8C8DF2E35A8B747CC2D66.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Right.uasset'
+[2019.12.21-21.39.15:039][504]BlueprintLog: New page: Compile Cupboard_Open_Right
+[2019.12.21-21.39.15:339][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.12.21-21.39.15:698][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Right" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Right.uasset" SILENT=true
+[2019.12.21-21.39.15:736][541]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_RightFB8AA9C24AF2AAEFE1D196B50C754771.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Right.uasset'
+[2019.12.21-21.39.19:779][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.39.26:699][678]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Left_C (Cupboard_Open)
+[2019.12.21-21.39.33:532][339]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Right_C (Cupboard_Open_Right)
+[2019.12.21-21.39.34:864][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.39.48:006][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.39.48:081][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.39.48:103][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.39.48:103][978]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-21.39.48:104][978]LogPlayLevel: [PlayLevel] Compiling Cupboard_Open_Left before play...
+[2019.12.21-21.39.48:434][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.12.21-21.39.48:434][978]LogPlayLevel: PlayLevel: Blueprint regeneration took 331 ms (1 blueprints)
+[2019.12.21-21.39.48:434][978]PIE: New page: PIE session: Big (Dec 21, 2019, 11:39:48 AM)
+[2019.12.21-21.39.48:434][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.39.48:455][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020889s)
+[2019.12.21-21.39.48:456][978]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.39.48:456][978]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.12.21-21.39.48:456][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021547s)
+[2019.12.21-21.39.48:499][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.21-21.39.48:531][978]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.39.48:545][978]LogInit: FAudioDevice initialized.
+[2019.12.21-21.39.48:554][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.39.48:583][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.39.48:590][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.39.48
+[2019.12.21-21.39.48:591][978]LogWorld: Bringing up level for play took: 0.006810
+[2019.12.21-21.39.48:607][978]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.054
+[2019.12.21-21.39.48:607][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.39.51:221][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.40.10:618][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.10:618][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.40.10:635][184]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.40.10:670][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.40.10:671][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.10:722][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.21-21.40.10:748][185]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.12.21-21.40.15:886][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.20:528][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.20:619][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.40.20:658][260]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left98CB42DB4447C6E414D944B7BE1B3D7E.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.40.20:959][294]BlueprintLog: New page: Compile Cupboard_Open_Left
+[2019.12.21-21.40.21:271][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.12.21-21.40.23:432][547]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Left_C (Cupboard_Open)
+[2019.12.21-21.40.25:730][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.31:819][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.36:220][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.40:760][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.40.43:414][922]BlueprintLog: New page: Compile Cupboard_Open_Left
+[2019.12.21-21.40.43:734][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.21-21.40.44:113][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opening_Things/Cupboard_Open_Left" FILE="../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset" SILENT=true
+[2019.12.21-21.40.44:152][959]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Cupboard_Open_Left8D46F18848FCE2B984D75283EA916454.tmp' to '../../../../../Git/HorrorGame/Content/Opening_Things/Cupboard_Open_Left.uasset'
+[2019.12.21-21.40.46:444][227]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.40.46:464][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.46:464][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.40.46:464][227]PIE: New page: PIE session: Big (Dec 21, 2019, 11:40:46 AM)
+[2019.12.21-21.40.46:464][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.40.46:485][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020890s)
+[2019.12.21-21.40.46:486][227]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.40.46:486][227]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.12.21-21.40.46:486][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021673s)
+[2019.12.21-21.40.46:530][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.12.21-21.40.46:562][227]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.40.46:576][227]LogInit: FAudioDevice initialized.
+[2019.12.21-21.40.46:583][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.40.46:612][227]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.40.46:619][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.40.46
+[2019.12.21-21.40.46:620][227]LogWorld: Bringing up level for play took: 0.006700
+[2019.12.21-21.40.46:636][227]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.025
+[2019.12.21-21.40.46:636][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.49:439][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.40.55:789][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.55:789][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.40.55:806][192]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.40.55:845][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.40.55:846][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.40.55:899][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.21-21.40.55:918][193]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2019.12.21-21.40.59:976][615]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Right_C (Cupboard_Open_Right)
+[2019.12.21-21.41.07:327][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.41.07:402][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.41.07:418][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.07:418][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.41.07:419][413]PIE: New page: PIE session: Big (Dec 21, 2019, 11:41:07 AM)
+[2019.12.21-21.41.07:419][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.41.07:440][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020829s)
+[2019.12.21-21.41.07:440][413]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.41.07:440][413]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2019.12.21-21.41.07:440][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021461s)
+[2019.12.21-21.41.07:476][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.21-21.41.07:507][413]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.41.07:520][413]LogInit: FAudioDevice initialized.
+[2019.12.21-21.41.07:529][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.07:559][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.41.07:570][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.41.07
+[2019.12.21-21.41.07:571][413]LogWorld: Bringing up level for play took: 0.010924
+[2019.12.21-21.41.07:587][413]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.925
+[2019.12.21-21.41.07:587][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.10:403][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.23:409][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.23:409][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.23:426][ 17]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.41.23:460][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.41.23:461][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.23:515][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.21-21.41.23:540][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2019.12.21-21.41.24:487][131]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Left_C (Cupboard_Open)
+[2019.12.21-21.41.31:251][844]Cmd: DELETE
+[2019.12.21-21.41.31:252][844]Cmd: ACTOR DELETE
+[2019.12.21-21.41.31:519][844]LogEditorActor: Deleted Actor: Cupboard_Open_Left_C
+[2019.12.21-21.41.31:561][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.21-21.41.31:562][844]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.12.21-21.41.32:988][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.41.33:063][ 24]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.41.33:086][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.33:086][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.41.33:086][ 24]PIE: New page: PIE session: Big (Dec 21, 2019, 11:41:33 AM)
+[2019.12.21-21.41.33:086][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.41.33:107][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020816s)
+[2019.12.21-21.41.33:108][ 24]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.41.33:108][ 24]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2019.12.21-21.41.33:108][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021466s)
+[2019.12.21-21.41.33:151][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.21-21.41.33:183][ 24]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.41.33:197][ 24]LogInit: FAudioDevice initialized.
+[2019.12.21-21.41.33:206][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.33:238][ 24]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.41.33:245][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.41.33
+[2019.12.21-21.41.33:246][ 24]LogWorld: Bringing up level for play took: 0.006768
+[2019.12.21-21.41.33:262][ 24]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.6
+[2019.12.21-21.41.33:262][ 24]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.36:058][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.45:779][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.45:779][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.41.45:796][459]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.41.45:833][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.41.45:833][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.41.45:881][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.21-21.41.45:899][460]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.12.21-21.41.52:365][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.42.41:149][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.42.41:232][752]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.42.41:257][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.42.41:257][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.42.41:257][752]PIE: New page: PIE session: Big (Dec 21, 2019, 11:42:41 AM)
+[2019.12.21-21.42.41:257][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.42.41:278][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021170s)
+[2019.12.21-21.42.41:278][752]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.42.41:279][752]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2019.12.21-21.42.41:279][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021845s)
+[2019.12.21-21.42.41:311][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.21-21.42.41:343][752]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.42.41:357][752]LogInit: FAudioDevice initialized.
+[2019.12.21-21.42.41:366][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.42.41:394][752]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.42.41:402][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.42.41
+[2019.12.21-21.42.41:402][752]LogWorld: Bringing up level for play took: 0.007280
+[2019.12.21-21.42.41:418][752]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.756
+[2019.12.21-21.42.41:418][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.42.43:463][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.42.43:463][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.42.43:479][979]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.42.43:513][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.42.43:514][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.42.43:566][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.21-21.42.43:589][980]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.12.21-21.42.47:119][403]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.12.21-21.42.48:366][539]Cmd: DELETE
+[2019.12.21-21.42.48:366][539]Cmd: ACTOR DELETE
+[2019.12.21-21.42.48:372][539]LogEditorActor: Deleted Actor: CameraActor
+[2019.12.21-21.42.48:442][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.21-21.42.48:442][539]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.12.21-21.42.51:977][959]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Open_Right_C (Cupboard_Open_Right)
+[2019.12.21-21.42.52:989][ 76]Cmd: DELETE
+[2019.12.21-21.42.52:989][ 76]Cmd: ACTOR DELETE
+[2019.12.21-21.42.52:994][ 76]LogEditorActor: Deleted Actor: Cupboard_Open_Right_C
+[2019.12.21-21.42.53:037][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.21-21.42.53:037][ 76]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.12.21-21.43.20:664][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.21-21.43.20:740][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Big" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Maps/Big_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.21-21.43.21:268][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Big_Auto50FDD74184A7498C9184895936DC3C87C.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Maps/Big_Auto5.umap'
+[2019.12.21-21.43.21:272][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Big' took 0.657
+[2019.12.21-21.43.21:272][637]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.657
+[2019.12.21-21.43.21:274][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy] ([1] browsable assets)...
+[2019.12.21-21.43.21:290][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy.Enemy]
+[2019.12.21-21.43.21:290][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy]
+[2019.12.21-21.43.21:360][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Enemy_Auto5843E0B9F4ABED131F17D149C2DCE9C00.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Auto5.uasset'
+[2019.12.21-21.43.21:362][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant] ([1] browsable assets)...
+[2019.12.21-21.43.21:376][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant.Enemy_Mutant]
+[2019.12.21-21.43.21:376][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant]
+[2019.12.21-21.43.21:460][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Enemy_Mutant_Auto5C70E8ECF40AA1B6C0D8B64AFDB35EA2A.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant_Auto5.uasset'
+[2019.12.21-21.43.21:463][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Anim/Warrior_Idle] ([1] browsable assets)...
+[2019.12.21-21.43.21:476][637]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Alex/Anim/Warrior_Idle.Warrior_Idle]
+[2019.12.21-21.43.21:476][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Anim/Warrior_Idle]
+[2019.12.21-21.43.21:477][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Warrior_Idle" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Warrior_Idle_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.43.21:496][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Warrior_Idle_Auto50E4356E6450AA4B6B4B3319CB679B3BB.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Warrior_Idle_Auto5.uasset'
+[2019.12.21-21.43.21:498][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Anim/Walking__1_] ([1] browsable assets)...
+[2019.12.21-21.43.21:513][637]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Alex/Anim/Walking__1_.Walking__1_]
+[2019.12.21-21.43.21:513][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Anim/Walking__1_]
+[2019.12.21-21.43.21:513][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Walking__1_" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Walking__1__Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.43.21:539][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Walking__1__Auto5C60ABE8A4E3CA10E04B825915DF51E89.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Walking__1__Auto5.uasset'
+[2019.12.21-21.43.21:542][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Alex/Anim/Running__1_] ([1] browsable assets)...
+[2019.12.21-21.43.21:555][637]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Alex/Anim/Running__1_.Running__1_]
+[2019.12.21-21.43.21:555][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Alex/Anim/Running__1_]
+[2019.12.21-21.43.21:555][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Running__1_" FILE="../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Running__1__Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.12.21-21.43.21:568][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Running__1__Auto5C7FE160940214FAA3812FB88B1F1F517.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/Characters/Alex/Anim/Running__1__Auto5.uasset'
+[2019.12.21-21.43.21:571][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2019.12.21-21.43.21:571][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2019.12.21-21.43.21:595][637]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/ThirdPersonGameMode_Auto52D5BB91A467EFD43135EB1825C57503B.tmp' to '../../../../../Git/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto5.uasset'
+[2019.12.21-21.43.21:597][637]LogFileHelpers: Auto-saving content packages took 0.323
+[2019.12.21-21.49.27:627][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.49.27:856][231]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.49.27:885][231]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.27:885][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.49.27:885][231]PIE: New page: PIE session: Big (Dec 21, 2019, 11:49:27 AM)
+[2019.12.21-21.49.27:885][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.49.27:906][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020601s)
+[2019.12.21-21.49.27:906][231]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.49.27:907][231]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.12.21-21.49.27:907][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021320s)
+[2019.12.21-21.49.27:945][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.21-21.49.27:976][231]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.49.27:989][231]LogInit: FAudioDevice initialized.
+[2019.12.21-21.49.27:998][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.28:030][231]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.49.28:036][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.49.28
+[2019.12.21-21.49.28:037][231]LogWorld: Bringing up level for play took: 0.006364
+[2019.12.21-21.49.28:053][231]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.609
+[2019.12.21-21.49.28:053][231]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.30:531][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.32:030][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.32:080][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.32:089][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.45:179][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.45:179][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.45:195][274]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.49.45:227][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.49.45:228][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.45:283][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.21-21.49.45:302][275]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.12.21-21.49.52:713][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.49.53:129][199]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.49.53:154][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.53:154][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.49.53:154][199]PIE: New page: PIE session: Big (Dec 21, 2019, 11:49:53 AM)
+[2019.12.21-21.49.53:154][199]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.49.53:174][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020384s)
+[2019.12.21-21.49.53:175][199]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.49.53:175][199]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2019.12.21-21.49.53:175][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021015s)
+[2019.12.21-21.49.53:215][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.21-21.49.53:246][199]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.49.53:260][199]LogInit: FAudioDevice initialized.
+[2019.12.21-21.49.53:268][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.53:296][199]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.49.53:302][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.49.53
+[2019.12.21-21.49.53:303][199]LogWorld: Bringing up level for play took: 0.006538
+[2019.12.21-21.49.53:319][199]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.658
+[2019.12.21-21.49.53:320][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.56:122][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.57:081][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.57:082][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.57:098][646]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.49.57:132][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.49.57:133][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.57:177][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.21-21.49.57:199][647]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.12.21-21.49.58:125][758]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.49.58:151][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.58:151][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.49.58:151][758]PIE: New page: PIE session: Big (Dec 21, 2019, 11:49:58 AM)
+[2019.12.21-21.49.58:151][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.49.58:171][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020152s)
+[2019.12.21-21.49.58:172][758]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.49.58:172][758]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.12.21-21.49.58:172][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.020790s)
+[2019.12.21-21.49.58:214][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.21-21.49.58:245][758]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.49.58:259][758]LogInit: FAudioDevice initialized.
+[2019.12.21-21.49.58:268][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.58:294][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.49.58:301][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.49.58
+[2019.12.21-21.49.58:302][758]LogWorld: Bringing up level for play took: 0.006686
+[2019.12.21-21.49.58:319][758]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.343
+[2019.12.21-21.49.58:319][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.49.59:720][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.59:728][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.49.59:736][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.01:121][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.01:471][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.01:587][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.01:596][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.01:604][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.21:639][548]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.21:640][548]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.21:648][549]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.21:648][549]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.22:027][591]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.22:027][591]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.50.22:876][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.50.23:010][709]LogNet: Browse: /Game/Maps/Big
+[2019.12.21-21.50.23:011][709]LogLoad: LoadMap: /Game/Maps/Big
+[2019.12.21-21.50.23:059][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.21-21.50.23:059][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.50.23:080][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020181s)
+[2019.12.21-21.50.23:080][709]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.50.23:080][709]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.12.21-21.50.23:080][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.020841s)
+[2019.12.21-21.50.23:080][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.50.23:087][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.50.23
+[2019.12.21-21.50.23:088][709]LogWorld: Bringing up level for play took: 0.006594
+[2019.12.21-21.50.23:090][709]LogLoad: Took 0.078430 seconds to LoadMap(/Game/Maps/UEDPIE_0_Big)
+[2019.12.21-21.50.26:002][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.27:019][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.27:152][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.50.28:119][309]Set new viewmode: Wireframe
+[2019.12.21-21.51.07:457][ 29]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.51.07:457][ 29]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-21.51.08:074][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.51.08:075][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.51.08:091][103]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.51.08:124][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.51.08:125][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.51.08:178][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.21-21.51.08:196][104]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.12.21-21.55.58:869][156]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Characters/Mutant/Anim/Standing_Idle_Looking_Ver__2.Standing_Idle_Looking_Ver__2
+[2019.12.21-21.55.58:900][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.55.58:927][156]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.21-21.55.59:319][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.21-21.56.03:062][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.56.05:114][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.56.31:045][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-21.56.46:579][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.56.50:055][814]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.12.21-21.56.51:424][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.56.58:296][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.57.01:892][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.57.18:363][759]LogTexture: Display: Building textures: T_Wood_Gloss_01 (AutoDXT, 1024X1024)
+[2019.12.21-21.57.23:159][303]Cmd: TRANSACTION UNDO
+[2019.12.21-21.57.23:159][303]LogEditorTransaction: Undo Replace component used material
+[2019.12.21-21.57.23:249][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.57.23:567][330]Cmd: TRANSACTION UNDO
+[2019.12.21-21.57.23:567][330]LogEditorTransaction: Undo Replace component used material
+[2019.12.21-21.57.23:665][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.57.26:098][550]Cmd: TRANSACTION UNDO
+[2019.12.21-21.57.26:098][550]LogEditorTransaction: Undo Replace component used material
+[2019.12.21-21.57.26:202][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.21-21.57.32:421][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.57.32:512][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.57.32:542][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.57.32:542][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.57.32:542][213]PIE: New page: PIE session: Big (Dec 21, 2019, 11:57:32 AM)
+[2019.12.21-21.57.32:542][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-21.57.32:563][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020769s)
+[2019.12.21-21.57.32:563][213]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.57.32:563][213]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.12.21-21.57.32:563][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.021550s)
+[2019.12.21-21.57.32:651][213]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2019.12.21-21.57.32:687][213]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.57.32:701][213]LogInit: FAudioDevice initialized.
+[2019.12.21-21.57.32:709][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.57.32:740][213]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.57.32:747][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-16.57.32
+[2019.12.21-21.57.32:748][213]LogWorld: Bringing up level for play took: 0.006939
+[2019.12.21-21.57.32:764][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big 0.103
+[2019.12.21-21.57.32:765][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.57.35:512][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.57.35:671][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.57.35:730][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.57.44:801][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.57.44:801][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.57.44:817][642]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.57.44:850][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.57.44:851][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-21.57.44:909][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.12.21-21.57.44:930][643]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.12.21-21.57.47:999][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.58.11:765][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.58.11:857][830]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.21-21.58.12:298][873]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.21-21.58.17:062][394]LogBlueprintActionDatabase: Requesting refresh due to module change: NewLevelDialog (loaded)
+[2019.12.21-21.58.18:925][394]LogSlate: Window 'New Level' being destroyed
+[2019.12.21-21.58.20:502][394]LogSlate: Window 'Save Content' being destroyed
+[2019.12.21-21.58.20:518][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Big" FILE="../../../../../Git/HorrorGame/Content/Maps/Big.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.21-21.58.20:588][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.21-21.58.21:138][394]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/BigADA25E19495A7465F9BF6FADC41BCE3C.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Big.umap'
+[2019.12.21-21.58.21:178][394]LogFileHelpers: Saving map 'Big' took 0.660
+[2019.12.21-21.58.21:181][394]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.21-21.58.21:193][394]LightingResults: New page: Lighting Build
+[2019.12.21-21.58.21:194][394]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.21-21.58.21:196][394]MapCheck: New page: Map Check
+[2019.12.21-21.58.21:196][394]LightingResults: New page: Lighting Build
+[2019.12.21-21.58.21:264][394]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.12.21-21.58.21:354][394]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.21-21.58.21:489][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.21-21.58.21:529][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.21-21.58.21:533][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.21-21.58.21:533][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.37ms to complete.
+[2019.12.21-21.58.21:533][394]LogFileHelpers: Loading map 'Template_Default' took 0.353
+[2019.12.21-21.58.21:565][394]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2019.12.21-21.58.21:565][394]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2019.12.21-21.58.21:568][394]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2019.12.21-21.58.21:568][394]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2019.12.21-21.58.21:653][394]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2019.12.21-21.58.21:654][394]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2019.12.21-21.58.21:655][394]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2019.12.21-21.58.21:655][394]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2019.12.21-21.58.21:733][394]LogAIModule: Creating AISystem for world Big
+[2019.12.21-21.58.32:589][963]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.21-21.58.32:697][963]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.12.21-21.58.32:699][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.21-21.58.32:764][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.12.21-21.58.33:023][963]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/HotelE9662CB3473C82A1CD4BB6A43B28B243.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel.umap'
+[2019.12.21-21.58.33:061][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel_BuiltData" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset" SILENT=true
+[2019.12.21-21.58.33:075][963]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Hotel_BuiltDataA631A3174685BC1423358ABE75F99910.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset'
+[2019.12.21-21.58.33:082][963]LogFileHelpers: Saving map 'Hotel' took 0.485
+[2019.12.21-21.58.34:015][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-21.58.52:101][211]Cmd: DELETE
+[2019.12.21-21.58.52:101][211]Cmd: ACTOR DELETE
+[2019.12.21-21.58.52:104][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.21-21.58.52:144][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.21-21.58.52:144][211]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.12.21-21.58.53:264][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-21.58.57:914][902]Cmd: TRANSACTION UNDO
+[2019.12.21-21.58.57:914][902]LogEditorTransaction: Undo Delete Actors
+[2019.12.21-21.59.10:684][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.59.10:775][381]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.59.10:794][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.10:795][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.59.10:795][381]PIE: New page: PIE session: Hotel (Dec 21, 2019, 11:59:10 AM)
+[2019.12.21-21.59.10:795][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-21.59.10:798][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002464s)
+[2019.12.21-21.59.10:798][381]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-21.59.10:798][381]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.12.21-21.59.10:798][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003670s)
+[2019.12.21-21.59.10:839][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.21-21.59.10:873][381]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.59.10:887][381]LogInit: FAudioDevice initialized.
+[2019.12.21-21.59.10:896][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.10:929][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.59.10:930][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-16.59.10
+[2019.12.21-21.59.10:930][381]LogWorld: Bringing up level for play took: 0.000600
+[2019.12.21-21.59.10:947][381]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel 0.285
+[2019.12.21-21.59.10:947][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.13:774][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.18:408][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.18:409][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.18:425][251]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.59.18:457][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.59.18:458][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.18:497][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.21-21.59.18:512][252]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.12.21-21.59.19:037][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-21.59.35:955][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-21.59.38:439][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-21.59.38:458][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.38:458][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-21.59.38:458][552]PIE: New page: PIE session: Hotel (Dec 21, 2019, 11:59:38 AM)
+[2019.12.21-21.59.38:458][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-21.59.38:460][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002381s)
+[2019.12.21-21.59.38:461][552]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-21.59.38:461][552]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.12.21-21.59.38:461][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003039s)
+[2019.12.21-21.59.38:502][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.21-21.59.38:536][552]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-21.59.38:550][552]LogInit: FAudioDevice initialized.
+[2019.12.21-21.59.38:557][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.38:590][552]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-21.59.38:590][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-16.59.38
+[2019.12.21-21.59.38:591][552]LogWorld: Bringing up level for play took: 0.000508
+[2019.12.21-21.59.38:607][552]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.055
+[2019.12.21-21.59.38:607][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.41:433][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.43:137][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.43:137][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-21.59.43:154][ 90]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-21.59.43:185][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-21.59.43:186][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-21.59.43:233][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.21-21.59.43:250][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.12.21-21.59.46:750][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-21.59.48:505][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.00.16:632][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.00.23:770][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.00.24:852][679]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.12.21-22.00.32:270][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.00.32:370][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.00.32:389][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.00.32:389][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.00.32:389][395]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:00:32 PM)
+[2019.12.21-22.00.32:390][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.00.32:392][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002205s)
+[2019.12.21-22.00.32:392][395]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.00.32:392][395]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.12.21-22.00.32:392][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.002869s)
+[2019.12.21-22.00.32:431][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.12.21-22.00.32:463][395]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.00.32:477][395]LogInit: FAudioDevice initialized.
+[2019.12.21-22.00.32:486][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.00.32:516][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.00.32:517][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.00.32
+[2019.12.21-22.00.32:518][395]LogWorld: Bringing up level for play took: 0.000523
+[2019.12.21-22.00.32:534][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.128
+[2019.12.21-22.00.32:534][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.00.35:364][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.00.50:557][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.00.50:557][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.00.50:575][550]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.00.50:612][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.00.50:613][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.00.50:657][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.21-22.00.50:671][551]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2019.12.21-22.02.15:411][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.02.18:185][ 40]Cmd: POLY SELECT MEMORY UNION
+[2019.12.21-22.02.19:327][173]Cmd: DUPLICATE
+[2019.12.21-22.02.19:327][173]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.20:860][337]Cmd: DUPLICATE
+[2019.12.21-22.02.20:860][337]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.21:514][410]Cmd: DUPLICATE
+[2019.12.21-22.02.21:514][410]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.21:779][436]Cmd: DUPLICATE
+[2019.12.21-22.02.21:779][436]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.22:018][459]Cmd: DUPLICATE
+[2019.12.21-22.02.22:019][459]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.22:267][484]Cmd: DUPLICATE
+[2019.12.21-22.02.22:267][484]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.22:582][517]Cmd: DUPLICATE
+[2019.12.21-22.02.22:582][517]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.25:700][881]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.25:700][881]LogEditorTransaction: Undo Move Actors
+[2019.12.21-22.02.25:902][903]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.25:902][903]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.26:081][917]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.26:081][917]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.26:265][933]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.26:265][933]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.26:457][952]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.26:457][952]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.26:665][973]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.26:665][973]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.27:245][ 39]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.27:245][ 39]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.28:106][138]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.28:106][138]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.02.30:656][440]Cmd: DUPLICATE
+[2019.12.21-22.02.30:656][440]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.02.32:046][602]Cmd: TRANSACTION UNDO
+[2019.12.21-22.02.32:046][602]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.03.14:372][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.14:372][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.03.14:372][584]PIE: New page: SIE session: Hotel (Dec 21, 2019, 12:03:14 PM)
+[2019.12.21-22.03.14:372][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.03.14:375][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002316s)
+[2019.12.21-22.03.14:375][584]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.03.14:375][584]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.12.21-22.03.14:375][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.002980s)
+[2019.12.21-22.03.14:416][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.21-22.03.14:449][584]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.03.14:463][584]LogInit: FAudioDevice initialized.
+[2019.12.21-22.03.14:470][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.03.14:500][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.03.14:501][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.03.14
+[2019.12.21-22.03.14:501][584]LogWorld: Bringing up level for play took: 0.000596
+[2019.12.21-22.03.14:514][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.148
+[2019.12.21-22.03.14:673][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.15:969][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.03.17:375][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.03.17:475][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.17:476][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.03.17:506][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.03.17:507][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.17:546][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.03.17:552][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.21-22.03.17:583][887]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.12.21-22.03.22:457][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.03.26:448][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.26:448][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.03.26:448][947]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:03:26 PM)
+[2019.12.21-22.03.26:448][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.03.26:450][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002274s)
+[2019.12.21-22.03.26:451][947]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.03.26:451][947]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2019.12.21-22.03.26:451][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.002899s)
+[2019.12.21-22.03.26:484][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.21-22.03.26:515][947]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.03.26:529][947]LogInit: FAudioDevice initialized.
+[2019.12.21-22.03.26:531][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.03.26:537][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.03.26:569][947]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.03.26:570][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.03.26
+[2019.12.21-22.03.26:570][947]LogWorld: Bringing up level for play took: 0.000849
+[2019.12.21-22.03.26:587][947]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.075
+[2019.12.21-22.03.26:588][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.28:170][131]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.03.28:176][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.28:205][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.03.28:206][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.03.28:253][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.21-22.03.28:276][132]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.12.21-22.03.36:602][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.03.58:165][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.04.03:317][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.04.16:868][863]Cmd: SELECT NONE
+[2019.12.21-22.04.22:653][542]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.12.21-22.04.23:953][686]Cmd: DELETE
+[2019.12.21-22.04.23:953][686]Cmd: ACTOR DELETE
+[2019.12.21-22.04.23:954][686]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.12.21-22.04.23:993][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.21-22.04.23:993][686]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.12.21-22.04.27:897][147]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.12.21-22.04.41:167][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.05.12:147][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.05.30:412][586]LogActorFactory: Actor Factory created SM_Wall_01
+[2019.12.21-22.05.30:993][641]LogActorFactory: Actor Factory created SM_Wall_01
+[2019.12.21-22.05.35:900][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.05.35:975][221]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.05.35:994][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.05.35:994][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.05.35:994][221]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:05:35 PM)
+[2019.12.21-22.05.35:994][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.05.35:996][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2019.12.21-22.05.35:998][221]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.05.35:998][221]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.12.21-22.05.35:998][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.002903s)
+[2019.12.21-22.05.36:035][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.21-22.05.36:067][221]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.05.36:081][221]LogInit: FAudioDevice initialized.
+[2019.12.21-22.05.36:090][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.05.36:123][221]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.05.36:124][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.05.36
+[2019.12.21-22.05.36:125][221]LogWorld: Bringing up level for play took: 0.000598
+[2019.12.21-22.05.36:141][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.521
+[2019.12.21-22.05.36:141][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.05.38:967][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.05.39:544][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.05.39:544][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.05.39:560][626]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.05.39:597][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.05.39:598][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.05.39:642][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.21-22.05.39:656][627]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.12.21-22.05.40:702][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.06.19:238][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.06.19:362][316]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.06.19:381][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.06.19:381][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.06.19:382][316]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:06:19 PM)
+[2019.12.21-22.06.19:382][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.06.19:384][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002344s)
+[2019.12.21-22.06.19:384][316]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.06.19:385][316]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.12.21-22.06.19:385][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003013s)
+[2019.12.21-22.06.19:423][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.21-22.06.19:455][316]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.06.19:468][316]LogInit: FAudioDevice initialized.
+[2019.12.21-22.06.19:477][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.06.19:507][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.06.19:508][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.06.19
+[2019.12.21-22.06.19:508][316]LogWorld: Bringing up level for play took: 0.000507
+[2019.12.21-22.06.19:524][316]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel 0.862
+[2019.12.21-22.06.19:524][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.06.22:364][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.06.26:658][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.06.26:658][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.06.26:675][164]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.06.26:706][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.06.26:707][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.06.26:749][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.21-22.06.26:766][165]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.12.21-22.06.29:430][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.06.42:551][932]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.12.21-22.06.44:067][109]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.21-22.06.47:561][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.07.24:263][785]Cmd: EDIT COPY
+[2019.12.21-22.07.24:558][819]Cmd: EDIT PASTE
+[2019.12.21-22.07.56:174][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.07.57:156][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.07.59:375][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.08.13:870][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.08.58:822][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.08.58:922][661]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.08.58:941][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.08.58:941][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.08.58:941][661]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:08:58 PM)
+[2019.12.21-22.08.58:942][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.08.58:944][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002264s)
+[2019.12.21-22.08.58:944][661]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.08.58:945][661]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.12.21-22.08.58:945][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.002961s)
+[2019.12.21-22.08.58:976][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.21-22.08.59:009][661]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.08.59:024][661]LogInit: FAudioDevice initialized.
+[2019.12.21-22.08.59:035][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.08.59:067][661]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.08.59:068][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.08.59
+[2019.12.21-22.08.59:068][661]LogWorld: Bringing up level for play took: 0.000559
+[2019.12.21-22.08.59:084][661]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel 0.422
+[2019.12.21-22.08.59:084][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.09.01:919][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.09.03:012][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.09.03:012][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.09.03:029][129]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.09.03:062][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.09.03:063][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.09.03:110][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.21-22.09.03:131][130]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.12.21-22.09.10:569][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.09.19:529][ 76]LogActorFactory: Actor Factory created SM_Wall_8th_Door_01
+[2019.12.21-22.09.22:320][401]LogActorFactory: Actor Factory created SM_Wall_8th_Door_01
+[2019.12.21-22.09.23:096][489]Cmd: DELETE
+[2019.12.21-22.09.23:096][489]Cmd: ACTOR DELETE
+[2019.12.21-22.09.23:097][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.21-22.09.23:138][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.12.21-22.09.23:138][489]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.12.21-22.09.24:122][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.09.59:917][822]LogActorFactory: Actor Factory created SM_Wall_Indoor_8th_Door_01
+[2019.12.21-22.10.00:686][906]LogActorFactory: Actor Factory created SM_Wall_Indoor_8th_Door_01
+[2019.12.21-22.10.08:618][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.10.11:181][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_01)
+[2019.12.21-22.10.12:249][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.10.19:335][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.10.24:385][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.10.52:001][512]Cmd: EDIT COPY
+[2019.12.21-22.10.52:257][542]Cmd: EDIT PASTE
+[2019.12.21-22.11.03:231][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.11.06:129][119]Cmd: DUPLICATE
+[2019.12.21-22.11.06:129][119]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.11.26:353][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.11.30:121][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.11.36:703][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.11.39:045][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.11.40:480][941]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.11.40:729][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.11.41:665][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_01)
+[2019.12.21-22.11.42:604][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_2)
+[2019.12.21-22.12.15:228][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.12.29:923][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.12.30:080][545]LogActorFactory: Actor Factory created SM_Wall_Indoor_Quart_01
+[2019.12.21-22.12.31:140][646]LogActorFactory: Actor Factory created SM_Wall_Indoor_Quart_01
+[2019.12.21-22.12.40:360][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.13.20:497][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.13.25:378][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.13.36:315][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_01)
+[2019.12.21-22.13.38:321][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.13.43:839][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_2)
+[2019.12.21-22.13.47:021][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.13.49:371][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.13.53:018][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_Quart_01)
+[2019.12.21-22.13.55:167][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.14.14:878][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2019.12.21-22.14.20:655][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2)
+[2019.12.21-22.14.25:877][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_01)
+[2019.12.21-22.14.32:045][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_8th_Door_2)
+[2019.12.21-22.14.37:142][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3)
+[2019.12.21-22.14.41:626][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_Quart_01)
+[2019.12.21-22.14.55:228][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.14.55:311][ 81]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.14.55:331][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.14.55:331][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.14.55:331][ 81]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:14:55 PM)
+[2019.12.21-22.14.55:331][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.14.55:334][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002718s)
+[2019.12.21-22.14.55:334][ 81]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.14.55:334][ 81]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.12.21-22.14.55:334][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003487s)
+[2019.12.21-22.14.55:372][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.21-22.14.55:403][ 81]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.14.55:417][ 81]LogInit: FAudioDevice initialized.
+[2019.12.21-22.14.55:425][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.14.55:451][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.14.55:453][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.14.55
+[2019.12.21-22.14.55:453][ 81]LogWorld: Bringing up level for play took: 0.000674
+[2019.12.21-22.14.55:469][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel 0.808
+[2019.12.21-22.14.55:470][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.14.58:311][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.15.04:328][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.15.04:329][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.15.04:345][137]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.15.04:373][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.15.04:374][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.15.04:435][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.21-22.15.04:457][138]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.12.21-22.15.07:733][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.15.09:056][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_Quart_01)
+[2019.12.21-22.15.21:311][ 26]Cmd: DUPLICATE
+[2019.12.21-22.15.21:311][ 26]Cmd: ACTOR DUPLICATE
+[2019.12.21-22.15.24:392][367]Cmd: TRANSACTION UNDO
+[2019.12.21-22.15.24:392][367]LogEditorTransaction: Undo Duplicate Actors
+[2019.12.21-22.15.26:037][556]Cmd: EDIT COPY
+[2019.12.21-22.15.26:397][598]Cmd: EDIT PASTE
+[2019.12.21-22.16.11:468][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.16.12:583][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.16.13:440][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.16.23:286][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.16.35:902][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.16.36:053][552]LogStaticMesh: Building static mesh SM_Floor_Quart_01...
+[2019.12.21-22.16.36:066][552]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.12.21-22.16.36:066][552]LogStaticMesh: Built static mesh [0.01s] /Game/HousingPack02/Meshes/Buildings/Floors/SM_Floor_Quart_01.SM_Floor_Quart_01
+[2019.12.21-22.16.37:594][552]LogTexture: Display: Building textures: T_Stucco_01 (AutoDXT, 2048X2048)
+[2019.12.21-22.16.37:594][552]LogTexture: Display: Building textures: T_Stucco_01_RMA (AutoDXT, 2048X2048)
+[2019.12.21-22.16.37:594][552]LogTexture: Display: Building textures: T_Stucco_01_NRM (BC5, 2048X2048)
+[2019.12.21-22.16.37:603][552]LogActorFactory: Actor Factory created SM_Floor_Quart_01
+[2019.12.21-22.16.40:133][792]LogActorFactory: Actor Factory created SM_Floor_Quart_01
+[2019.12.21-22.16.41:007][893]Cmd: DELETE
+[2019.12.21-22.16.41:007][893]Cmd: ACTOR DELETE
+[2019.12.21-22.16.41:008][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.21-22.16.41:095][893]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.21-22.16.41:095][893]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.12.21-22.16.43:728][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.16.43:764][211]LogStaticMesh: Building static mesh SM_Floor_01...
+[2019.12.21-22.16.43:772][211]LogStaticMesh: Built static mesh [0.01s] /Game/HousingPack02/Meshes/Buildings/Floors/SM_Floor_01.SM_Floor_01
+[2019.12.21-22.16.44:010][238]LogActorFactory: Actor Factory created SM_Floor_01
+[2019.12.21-22.16.46:371][488]LogActorFactory: Actor Factory created SM_Floor_01
+[2019.12.21-22.17.24:626][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.18.35:178][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.18.59:828][715]Cmd: EDIT COPY
+[2019.12.21-22.19.00:231][762]Cmd: EDIT PASTE
+[2019.12.21-22.19.11:904][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.21-22.19.52:496][562]Cmd: SELECT NONE
+[2019.12.21-22.20.01:149][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.20.01:234][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.21-22.20.01:296][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.21-22.20.01:575][590]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Hotel38FAA89A4E9A481A5C98B7A84032CC8B.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel.umap'
+[2019.12.21-22.20.01:613][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel_BuiltData" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset" SILENT=true
+[2019.12.21-22.20.01:634][590]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Hotel_BuiltData511AE3A9400E9DD5D17A0FB46047122B.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset'
+[2019.12.21-22.20.16:445][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.20.18:404][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.20.25:314][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_2)
+[2019.12.21-22.20.26:806][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.20.34:857][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.20.40:082][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.21-22.20.41:817][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.20.46:065][669]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.20.46:083][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.20.46:083][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.20.46:083][669]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:20:46 PM)
+[2019.12.21-22.20.46:084][669]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.20.46:086][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002536s)
+[2019.12.21-22.20.46:087][669]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.20.46:087][669]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.12.21-22.20.46:087][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003250s)
+[2019.12.21-22.20.46:124][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.21-22.20.46:156][669]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.20.46:170][669]LogInit: FAudioDevice initialized.
+[2019.12.21-22.20.46:179][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.20.46:211][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.20.46:213][669]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.20.46
+[2019.12.21-22.20.46:213][669]LogWorld: Bringing up level for play took: 0.000795
+[2019.12.21-22.20.46:229][669]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel -0.433
+[2019.12.21-22.20.46:229][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.20.49:063][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.21.12:574][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.21.12:574][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.21.12:591][827]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.21.12:626][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.21.12:626][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.21.12:669][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.21-22.21.12:684][828]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.12.21-22.21.14:862][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.21.17:941][452]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.21-22.21.28:587][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.21.32:310][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.21.32:330][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.21.32:331][ 56]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.21-22.21.32:338][ 56]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.21-22.21.32:688][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.12.21-22.21.32:688][ 56]LogPlayLevel: PlayLevel: Blueprint regeneration took 357 ms (1 blueprints)
+[2019.12.21-22.21.32:688][ 56]PIE: New page: PIE session: Hotel (Dec 21, 2019, 12:21:32 PM)
+[2019.12.21-22.21.32:688][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hotel
+[2019.12.21-22.21.32:691][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002553s)
+[2019.12.21-22.21.32:691][ 56]LogAIModule: Creating AISystem for world Hotel
+[2019.12.21-22.21.32:691][ 56]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2019.12.21-22.21.32:691][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hotel.Hotel to /Game/Maps/UEDPIE_0_Hotel.Hotel (0.003203s)
+[2019.12.21-22.21.32:732][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.21-22.21.32:763][ 56]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.21.32:776][ 56]LogInit: FAudioDevice initialized.
+[2019.12.21-22.21.32:784][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.21.32:815][ 56]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.21.32:816][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hotel.Hotel up for play (max tick rate 0) at 2019.12.21-17.21.32
+[2019.12.21-22.21.32:816][ 56]LogWorld: Bringing up level for play took: 0.000788
+[2019.12.21-22.21.32:831][ 56]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hotel 0.17
+[2019.12.21-22.21.32:831][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.21.35:471][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.22.51:330][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.22.51:330][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.22.51:347][463]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.22.51:376][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.22.51:377][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hotel.Hotel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel' with GeneratedClass '/Game/Maps/Hotel.Hotel_C' with ClassGeneratedBy '/Game/Maps/Hotel.Hotel:PersistentLevel.Hotel'
+[2019.12.21-22.22.51:426][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.21-22.22.51:444][464]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2019.12.21-22.22.53:096][660]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.21-22.22.53:423][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.21-22.22.53:850][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.12.21-22.22.53:923][701]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/ThirdPersonCharacter6B5F7C0A4CA77A74125925982EBC9DBD.tmp' to '../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.21-22.22.58:501][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.23.11:433][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.21-22.23.11:470][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.21-22.23.11:760][773]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Hotel3FC6ABB94C1C7671F9805F94092B77D1.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel.umap'
+[2019.12.21-22.23.11:796][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hotel_BuiltData" FILE="../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset" SILENT=true
+[2019.12.21-22.23.11:815][773]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Hotel_BuiltData418E5D3F49E0CE76B11ED7AC71E50D30.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Hotel_BuiltData.uasset'
+[2019.12.21-22.23.12:651][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.23.15:734][236]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Big.Big
+[2019.12.21-22.23.15:778][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.21-22.23.18:863][236]LogSlate: Window 'Save Content' being destroyed
+[2019.12.21-22.23.18:880][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Running__1_" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Running__1_.uasset" SILENT=true
+[2019.12.21-22.23.18:887][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Running__1_ADEDC2AC480ACFC632429CA00BC8CEDB.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Running__1_.uasset'
+[2019.12.21-22.23.18:891][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Walking__1_" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Walking__1_.uasset" SILENT=true
+[2019.12.21-22.23.18:921][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Walking__1_787710B64B19BD4C2D9B03810F80C696.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Walking__1_.uasset'
+[2019.12.21-22.23.18:925][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Anim/Warrior_Idle" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Warrior_Idle.uasset" SILENT=true
+[2019.12.21-22.23.18:936][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Warrior_Idle4A52CA4F414BC184F9521FB1A2872192.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Anim/Warrior_Idle.uasset'
+[2019.12.21-22.23.18:939][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Diffuse" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Diffuse.uasset" SILENT=true
+[2019.12.21-22.23.19:444][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Diffuse420E184B419100AB779EE0994F49315C.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Diffuse.uasset'
+[2019.12.21-22.23.19:447][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Glossiness" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Glossiness.uasset" SILENT=true
+[2019.12.21-22.23.19:629][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_GlossinessE4C7042742FF0FA24543418CC2DB191E.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Glossiness.uasset'
+[2019.12.21-22.23.19:633][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Normal" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Normal.uasset" SILENT=true
+[2019.12.21-22.23.20:312][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_NormalF320C61247E069B263056CBCBBACEB8D.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Normal.uasset'
+[2019.12.21-22.23.20:315][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_1001_Specular" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Specular.uasset" SILENT=true
+[2019.12.21-22.23.20:445][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_1001_Specular730444A8426785CEDA6D5D9A9A349D4D.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_1001_Specular.uasset'
+[2019.12.21-22.23.20:448][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_Body" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_Body.uasset" SILENT=true
+[2019.12.21-22.23.20:454][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_BodyC8A14BFB40270F6D1571EC9C45CB7009.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_Body.uasset'
+[2019.12.21-22.23.20:457][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR.uasset" SILENT=true
+[2019.12.21-22.23.20:515][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBRF8A98F8E40C3C67FEBDDAAB0059CD8E1.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR.uasset'
+[2019.12.21-22.23.20:518][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com.uasset" SILENT=true
+[2019.12.21-22.23.20:633][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Anim_mixamo_comBD2162414B87A727D7E9E9B86F9A0FFE.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Anim_mixamo_com.uasset'
+[2019.12.21-22.23.20:637][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR_Anim_Take_001" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Anim_Take_001.uasset" SILENT=true
+[2019.12.21-22.23.20:642][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Anim_Take_00183F2ED9145535DBDD3A7E2B5F1A8BB08.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Anim_Take_001.uasset'
+[2019.12.21-22.23.20:645][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR_PhysicsAsset" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_PhysicsAsset.uasset" SILENT=true
+[2019.12.21-22.23.20:661][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_PhysicsAsset52D5852045E1060EBA827B83F11769FF.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_PhysicsAsset.uasset'
+[2019.12.21-22.23.20:665][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Alex/Ch18_nonPBR_Skeleton" FILE="../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Skeleton.uasset" SILENT=true
+[2019.12.21-22.23.20:670][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Ch18_nonPBR_Skeleton015D3FD0442EB1FEF9559F9A5DA0B55C.tmp' to '../../../../../Git/HorrorGame/Content/Characters/Alex/Ch18_nonPBR_Skeleton.uasset'
+[2019.12.21-22.23.20:673][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy/Enemy" FILE="../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy.uasset" SILENT=true
+[2019.12.21-22.23.20:735][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Enemy1908F6624601D0D909BA59B5051C8EAB.tmp' to '../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy.uasset'
+[2019.12.21-22.23.20:739][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant" FILE="../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant.uasset" SILENT=true
+[2019.12.21-22.23.20:812][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Enemy_Mutant89193D1045794659CEDE24B75E8EA0F4.tmp' to '../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant.uasset'
+[2019.12.21-22.23.20:815][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2019.12.21-22.23.20:881][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/ThirdPersonCharacter93E1C8684190A8F783B6BB86294F0767.tmp' to '../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.21-22.23.20:885][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode" FILE="../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2019.12.21-22.23.20:909][236]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/ThirdPersonGameMode986CE8BA45A61C61836459B3779F988E.tmp' to '../../../../../Git/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.12.21-22.23.20:915][236]Cmd: MAP LOAD FILE="../../../../../Git/HorrorGame/Content/Maps/Big.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.21-22.23.20:915][236]LightingResults: New page: Lighting Build
+[2019.12.21-22.23.20:916][236]LoadErrors: New page: Loading map: Big.umap
+[2019.12.21-22.23.20:917][236]MapCheck: New page: Map Check
+[2019.12.21-22.23.20:917][236]LightingResults: New page: Lighting Build
+[2019.12.21-22.23.20:952][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.21-22.23.21:193][236]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.21-22.23.21:238][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.21-22.23.21:270][236]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.21-22.23.21:270][236]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.231ms to complete.
+[2019.12.21-22.23.21:271][236]LogFileHelpers: Loading map 'Big' took 0.358
+[2019.12.21-22.23.22:330][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.23.22:413][333]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.21-22.23.22:436][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-22.23.22:436][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.21-22.23.22:436][333]PIE: New page: PIE session: Big (Dec 21, 2019, 12:23:22 PM)
+[2019.12.21-22.23.22:436][333]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Big
+[2019.12.21-22.23.22:456][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020067s)
+[2019.12.21-22.23.22:456][333]LogAIModule: Creating AISystem for world Big
+[2019.12.21-22.23.22:456][333]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.12.21-22.23.22:457][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Big.Big to /Game/Maps/UEDPIE_0_Big.Big (0.020722s)
+[2019.12.21-22.23.22:499][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.21-22.23.22:529][333]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.21-22.23.22:543][333]LogInit: FAudioDevice initialized.
+[2019.12.21-22.23.22:551][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.22:583][333]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.21-22.23.22:590][333]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Big.Big up for play (max tick rate 0) at 2019.12.21-17.23.22
+[2019.12.21-22.23.22:591][333]LogWorld: Bringing up level for play took: 0.006480
+[2019.12.21-22.23.22:607][333]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Big -0.055
+[2019.12.21-22.23.22:607][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-22.23.25:405][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.26:948][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.27:239][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.27:874][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.27:900][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.52:789][935]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-22.23.52:806][937]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.12.21-22.23.53:164][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-22.23.53:165][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.21-22.23.53:181][980]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.21-22.23.53:222][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.21-22.23.53:223][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Big.Big:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Big.Big:PersistentLevel.Big' with GeneratedClass '/Game/Maps/Big.Big_C' with ClassGeneratedBy '/Game/Maps/Big.Big:PersistentLevel.Big'
+[2019.12.21-22.23.53:265][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.21-22.23.53:286][981]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2019.12.21-22.23.54:546][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.23.54:639][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Big" FILE="../../../../../Git/HorrorGame/Content/Maps/Big.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.21-22.23.54:673][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.12.21-22.23.55:196][141]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/BigC8654E294395D99E786DF588942BE80B.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Big.umap'
+[2019.12.21-22.23.55:233][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Big_BuiltData" FILE="../../../../../Git/HorrorGame/Content/Maps/Big_BuiltData.uasset" SILENT=true
+[2019.12.21-22.23.57:373][141]LogSavePackage: Moving '../../../../../Git/HorrorGame/Saved/Big_BuiltDataB68D20EC462A04EC673E539D40192610.tmp' to '../../../../../Git/HorrorGame/Content/Maps/Big_BuiltData.uasset'
+[2019.12.21-22.23.58:474][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.21-22.23.58:581][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.21-22.23.58:751][276]LogSlate: Window 'Horror_Game - Unreal Editor' being destroyed
+[2019.12.21-22.23.58:942][277]Cmd: QUIT_EDITOR
+[2019.12.21-22.23.59:401][277]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.21-22.23.59:411][277]LogExit: Preparing to exit.
+[2019.12.21-22.23.59:692][277]LogExit: Editor shut down
+[2019.12.21-22.23.59:692][277]LogExit: Transaction tracking system shut down
+[2019.12.21-22.23.59:993][277]LogExit: Object subsystem successfully closed.
+[2019.12.21-22.24.00:018][277]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.21-22.24.00:025][277]LogD3D11RHI: Shutdown
+[2019.12.21-22.24.00:025][277]LogD3D11RHI: CleanupD3DDevice
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.21-22.24.00:025][277]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.21-22.24.00:354][277]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module MeshBuilder (664)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module NewLevelDialog (662)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (660)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (658)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module Voice (656)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (654)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module PinnedCommandList (652)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module SkeletonEditor (650)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module AnimationEditor (648)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.12.21-22.24.00:403][277]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.12.21-22.24.00:404][277]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.12.21-22.24.00:405][277]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.12.21-22.24.00:522][277]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.12.21-22.24.00:523][277]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.12.21-22.24.00:567][277]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.12.21-22.24.00:577][277]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.12.21-22.24.00:577][277]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module LiveCoding (440)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module LevelSequence (438)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2019.12.21-22.24.00:578][277]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2019.12.21-22.24.00:579][277]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2019.12.21-22.24.00:579][277]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2019.12.21-22.24.00:579][277]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2019.12.21-22.24.00:579][277]LogModuleManager: Shutting down and abandoning module DesktopPlatform (412)
+[2019.12.21-22.24.00:579][277]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.12.21-22.24.00:581][277]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.12.21-22.24.00:702][277]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module SignificanceManager (296)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.12.21-22.24.00:703][277]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.12.21-22.24.00:704][277]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.12.21-22.24.00:704][277]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.12.21-22.24.00:704][277]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.12.21-22.24.00:704][277]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.12.21-22.24.00:804][277]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (280)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (278)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (276)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (274)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapController (272)
+[2019.12.21-22.24.00:905][277]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module MagicLeapAR (270)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module AugmentedReality (269)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (266)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (264)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module FacialAnimation (262)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module DataValidation (260)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (258)
+[2019.12.21-22.24.00:905][277]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2019.12.21-22.24.00:906][277]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2019.12.21-22.24.00:906][277]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (254)
+[2019.12.21-22.24.00:906][277]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2019.12.21-22.24.00:906][277]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2019.12.21-22.24.00:906][277]LogModuleManager: Shutting down and abandoning module ContentBrowser (247)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module TreeMap (245)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module AnimationSharing (242)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module AISupportModule (238)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (232)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.12.21-22.24.00:907][277]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (218)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.21-22.24.00:908][277]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.21-22.24.00:910][277]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.21-22.24.00:936][277]LogDerivedDataCache: Shutdown
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.21-22.24.00:936][277]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.21-22.24.00:937][277]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.21-22.24.00:938][277]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.21-22.24.00:938][277]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.21-22.24.00:938][277]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.21-22.24.00:938][277]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.21-22.24.00:939][277]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.21-22.24.00:939][277]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.21-22.24.00:940][277]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.21-22.24.00:940][277]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.21-22.24.00:945][277]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.21-22.24.00:945][277]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.21-22.24.00:946][277]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.21-22.24.00:946][277]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.21-22.24.00:947][277]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.21-22.24.00:947][277]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.21-22.24.00:970][277]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.21-22.24.00:970][277]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.21-22.24.00:970][277]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35F1D3B5-438A-CF83-33F1-8AB64A9FA373%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=35e7854747fdc04c06e5008512c14b08%7C6ca0b73ba31d4c2080aece94ca7e163f%7C53e2f11f-a5c0-46e0-89b7-f8a3a06f5bee&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.21-22.24.00:990][277]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.21-22.24.00:992][277]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.21-22.24.00:993][277]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.21-22.24.01:000][277]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.21-22.24.01:000][277]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.21-22.24.01:001][277]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.21-22.24.01:002][277]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.21-22.24.01:013][277]LogExit: Exiting.
+[2019.12.21-22.24.01:037][277]Log file closed, 12/21/19 17:24:01
