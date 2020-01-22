@@ -1,4 +1,4 @@
-﻿Log file open, 01/22/20 11:42:27
+﻿Log file open, 01/22/20 11:50:16
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,8 +9,8 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Horror_Game
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.287009
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287251
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -117,27 +117,16 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogOnline: Display: STEAM: Loading Steam SDK 1.39
-LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
-LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
-LogOnline: STEAM: [AppId: 0] Client API initialized 0
-LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-LogOnline: Warning: STEAM: Steam API failed to initialize!
-LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: [AppId: 480] Game Server API initialized 1
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogHMD: Failed initializing OVRPlugin 1.32.0
 LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: Intel(R) HD Graphics 630
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
@@ -171,555 +160,946 @@ LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
 LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
 LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: Disappointed [0x260B72F7FA0] error: '3' k_EResultNoConnection (no connection)
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.01.22-16.42.29:732][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.01.22-16.42.29:733][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:733][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.01.22-16.42.29:733][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.01.22-16.42.29:733][  0]LogInit: Selected Device Profile: [Windows]
-[2020.01.22-16.42.29:733][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.01.22-16.42.29:743][  0]LogHAL: Display: Platform has ~ 16 GB [17106104320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2020.01.22-16.42.29:743][  0]LogInit: Going up to parent DeviceProfile []
-[2020.01.22-16.42.29:743][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.01.22-16.42.29:743][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:743][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.01.22-16.42.29:744][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
-[2020.01.22-16.42.29:744][  0]LogInit: Computer: GUL-HS-GAMESD01
-[2020.01.22-16.42.29:744][  0]LogInit: User: 02kadenseeger
-[2020.01.22-16.42.29:744][  0]LogInit: CPU Page size=4096, Cores=8
-[2020.01.22-16.42.29:744][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.01.22-16.42.29:744][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2020.01.22-16.42.29:744][  0]LogMemory: Platform Memory Stats for Windows
-[2020.01.22-16.42.29:744][  0]LogMemory: Process Physical Memory: 102.86 MB used, 102.87 MB peak
-[2020.01.22-16.42.29:745][  0]LogMemory: Process Virtual Memory: 101.00 MB used, 101.00 MB peak
-[2020.01.22-16.42.29:745][  0]LogMemory: Physical Memory: 8208.33 MB used,  8105.32 MB free, 16313.65 MB total
-[2020.01.22-16.42.29:745][  0]LogMemory: Virtual Memory: 4675.93 MB used,  134213048.00 MB free, 134217728.00 MB total
-[2020.01.22-16.42.29:753][  0]LogInit: Using OS detected language (en-US).
-[2020.01.22-16.42.29:753][  0]LogInit: Using OS detected locale (en-US).
-[2020.01.22-16.42.29:753][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2020.01.22-16.42.29:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.01.22-16.42.29:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.01.22-16.42.29:899][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.01.22-16.42.29:899][  0]LogD3D11RHI: D3D11 adapters:
-[2020.01.22-16.42.29:957][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
-[2020.01.22-16.42.29:957][  0]LogD3D11RHI:       5991/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2020.01.22-16.42.29:959][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.01.22-16.42.29:959][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.01.22-16.42.29:959][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.01.22-16.42.29:964][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.01.22-16.42.29:964][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
-[2020.01.22-16.42.29:964][  0]LogWindows: EnumDisplayDevices:
-[2020.01.22-16.42.29:965][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
-[2020.01.22-16.42.29:965][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
-[2020.01.22-16.42.29:965][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
-[2020.01.22-16.42.29:965][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
-[2020.01.22-16.42.29:965][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2020.01.22-16.42.29:965][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
-[2020.01.22-16.42.29:965][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
-[2020.01.22-16.42.29:965][  0]LogD3D11RHI:      Driver Date: 5-22-2019
-[2020.01.22-16.42.29:965][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
-[2020.01.22-16.42.30:002][  0]LogD3D11RHI: Async texture creation enabled
-[2020.01.22-16.42.30:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.22-16.42.30:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.22-16.42.30:004][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.01.22-16.42.30:012][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2020.01.22-16.42.30:267][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.01.22-16.42.30:277][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.01.22-16.42.30:287][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.01.22-16.42.30:291][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.01.22-16.42.30:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.01.22-16.42.30:296][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.01.22-16.42.30:325][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Intermediate/Shaders/WorkingDirectory/14776/).
-[2020.01.22-16.42.30:326][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/02kaden.seeger/AppData/Local/Temp/UnrealShaderWorkingDir/1D8F21804387098B003492A8A969CAB7/'.
-[2020.01.22-16.42.30:327][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.01.22-16.42.30:327][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.01.22-16.42.30:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.01.22-16.42.30:745][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.01.22-16.42.30:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.01.22-16.42.30:795][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.01.22-16.42.30:795][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.01.22-16.42.30:795][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.01.22-16.42.30:808][  0]LogDerivedDataCache: Using Local data cache path C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.01.22-16.42.30:808][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.01.22-16.42.30:808][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.01.22-16.42.30:824][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.01.22-16.42.30:825][  0]LogSlate: Using FreeType 2.6.0
-[2020.01.22-16.42.30:825][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.01.22-16.42.30:895][  0]LogInit: Using OS detected language (en-US).
-[2020.01.22-16.42.30:895][  0]LogInit: Using OS detected locale (en-US).
-[2020.01.22-16.42.30:895][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2020.01.22-16.42.30:895][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
-[2020.01.22-16.42.30:895][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2020.01.22-16.42.30:895][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
-[2020.01.22-16.42.30:896][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
-[2020.01.22-16.42.30:902][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
-[2020.01.22-16.42.31:041][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.000401 seconds
-[2020.01.22-16.42.31:143][  0]LogInit: Selected Device Profile: [Windows]
-[2020.01.22-16.42.31:236][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.01.22-16.42.31:236][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.01.22-16.42.31:236][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.01.22-16.42.31:236][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.01.22-16.42.31:236][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.01.22-16.42.31:243][  0]LogNetVersion: Horror_Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 364352182)
-[2020.01.22-16.42.31:609][  0]LogMoviePlayer: Initializing movie player
-[2020.01.22-16.42.31:710][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.01.22-16.42.31:721][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.01.22-16.42.31:810][  0]SourceControl: Source control is disabled
-[2020.01.22-16.42.31:810][  0]SourceControl: Source control is disabled
-[2020.01.22-16.42.31:810][  0]SourceControl: Source control is disabled
-[2020.01.22-16.42.31:817][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.01.22-16.42.31:817][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2020.01.22-16.42.31:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.01.22-16.42.31:911][  0]LogOcInput: OculusInput pre-init called
-[2020.01.22-16.42.31:918][  0]LogUObjectArray: 46490 objects as part of root set at end of initial load.
-[2020.01.22-16.42.31:918][  0]LogUObjectAllocator: 8177640 out of 0 bytes used by permanent object pool.
-[2020.01.22-16.42.31:918][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.01.22-16.42.32:047][  0]LogEngine: Initializing Engine...
-[2020.01.22-16.42.32:047][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.01.22-16.42.32:059][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.01.22-16.42.32:177][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.01.22-16.42.32:186][  0]LogInit: XAudio2 using 'Headset Earphone (2- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2020.01.22-16.42.32:197][  0]LogInit: FAudioDevice initialized.
-[2020.01.22-16.42.32:208][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.01.22-16.42.32:211][  0]LogInit: Texture streaming: Enabled
-[2020.01.22-16.42.32:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.22-16.42.32:338][  0]LogInit: Display: Game Engine Initialized.
-[2020.01.22-16.42.32:556][  0]LogInit: Display: Starting Game.
-[2020.01.22-16.42.32:556][  0]LogNet: Browse: /Game/Maps/Menus?Name=Player
-[2020.01.22-16.42.32:557][  0]LogLoad: LoadMap: /Game/Maps/Menus?Name=Player
-[2020.01.22-16.42.32:579][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
-[2020.01.22-16.42.32:614][  0]LogAIModule: Creating AISystem for world Menus
-[2020.01.22-16.42.32:614][  0]LogLoad: Game class is 'MainmenuGM_C'
-[2020.01.22-16.42.32:615][  0]LogWorld: Bringing World /Game/Maps/Menus.Menus up for play (max tick rate 0) at 2020.01.22-11.42.32
-[2020.01.22-16.42.32:615][  0]LogWorld: Bringing up level for play took: 0.000316
-[2020.01.22-16.42.32:615][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.01.22-16.42.32:618][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2020.01.22-16.42.32:618][  0]LogLoad: Took 0.061712 seconds to LoadMap(/Game/Maps/Menus)
-[2020.01.22-16.42.32:668][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
-[2020.01.22-16.42.32:668][  0]LogLoad: (Engine Initialization) Total time: 5.84 seconds
-[2020.01.22-16.42.32:668][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.01.22-16.42.32:687][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.01.22-16.42.33:556][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.01.22-16.42.33:653][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.22-16.42.37:204][280]LogInit: WinSock: I am GUL-HS-GAMESD01 (192.168.56.1:0)
-[2020.01.22-16.42.43:541][664]LogSlate: Window 'Horror_Game (64-bit Development PCD3D_SM5) ' being destroyed
-[2020.01.22-16.42.43:541][664]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.01.22-16.42.43:545][664]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2020.01.22-16.42.43:546][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.22-16.42.43:546][664]LogEngine: All Windows Closed
-[2020.01.22-16.42.43:546][664]LogWindows: FPlatformMisc::RequestExit(0)
-[2020.01.22-16.42.44:059][665]LogExit: Preparing to exit.
-[2020.01.22-16.42.44:060][665]LogMoviePlayer: Shutting down movie player
-[2020.01.22-16.42.44:742][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.01.22-16.42.44:746][665]LogExit: Game engine shut down
-[2020.01.22-16.42.44:785][665]LogExit: Object subsystem successfully closed.
-[2020.01.22-16.42.44:800][665]LogShaderCompilers: Display: Shaders left to compile 0
-[2020.01.22-16.42.44:801][665]LogD3D11RHI: Shutdown
-[2020.01.22-16.42.44:801][665]LogD3D11RHI: CleanupD3DDevice
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
-[2020.01.22-16.42.44:802][665]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2020.01.22-16.42.44:831][665]LogD3D11RHI: ~FD3D11DynamicRHI
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (402)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module SequenceRecorder (400)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module AutomationController (398)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module AutomationWorker (396)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module Voice (394)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module AIModule (392)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module GameplayDebugger (391)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module AITestSuite (389)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module NavigationSystem (387)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module OculusMR (384)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (382)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (380)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module WebMMedia (378)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (376)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (374)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (372)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (370)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (368)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (366)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module CharacterAI (364)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module SessionServices (362)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (360)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module LiveCoding (358)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module LevelSequence (356)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (354)
-[2020.01.22-16.42.44:840][665]LogModuleManager: Shutting down and abandoning module MovieScene (352)
-[2020.01.22-16.42.44:841][665]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (350)
-[2020.01.22-16.42.44:841][665]LogModuleManager: Shutting down and abandoning module PortalServices (348)
-[2020.01.22-16.42.44:841][665]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
-[2020.01.22-16.42.44:841][665]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
-[2020.01.22-16.42.44:841][665]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (342)
-[2020.01.22-16.42.44:842][665]LogModuleManager: Shutting down and abandoning module ProfilerService (340)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module TaskGraph (338)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module SteamVRController (336)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (334)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module OculusInput (332)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module EditableMesh (328)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module CableComponent (324)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module AudioCapture (322)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module AndroidPermission (318)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (316)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (314)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module MediaCompositing (312)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module LinearTimecode (310)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module ImgMedia (308)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (306)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (304)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (302)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module HTML5Networking (300)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (298)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (297)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module BackChannel (290)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module AppleVision (288)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (286)
-[2020.01.22-16.42.44:956][665]LogModuleManager: Shutting down and abandoning module AppleImageUtils (284)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module VariantManagerContent (282)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (280)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module CryptoKeys (278)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (276)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module HotReload (275)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (274)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (270)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module UObjectPlugin (268)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (266)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (264)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module SourceControl (263)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (260)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (258)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module SignificanceManager (256)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (254)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (252)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module PhysXVehicles (250)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (248)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module ActorSequence (246)
-[2020.01.22-16.42.44:957][665]LogModuleManager: Shutting down and abandoning module UdpMessaging (244)
-[2020.01.22-16.42.45:058][665]LogModuleManager: Shutting down and abandoning module TcpMessaging (242)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (240)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (238)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (236)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (234)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapController (232)
-[2020.01.22-16.42.45:719][665]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module MagicLeapAR (230)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module AugmentedReality (229)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (226)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module FacialAnimation (224)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module DataValidation (222)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (220)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module TreeMap (219)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module AnimationSharing (216)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (214)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module AISupportModule (212)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module Paper2D (210)
-[2020.01.22-16.42.45:719][665]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (208)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (206)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module PacketHandler (204)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (202)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (200)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module MediaAssets (198)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module Overlay (196)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module OverlayEditor (195)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (192)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module VREditor (190)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module StringTableEditor (188)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (186)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (184)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module FunctionalTesting (182)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (180)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (179)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module UMG (176)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module UMGEditor (175)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module Sequencer (174)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module MessageLog (171)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module SlateReflector (166)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module Slate (164)
-[2020.01.22-16.42.45:720][665]LogModuleManager: Shutting down and abandoning module EditorStyle (162)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module UnrealEd (160)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module MRMesh (158)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module Messaging (156)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (154)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (152)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module XAudio2 (150)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module Networking (148)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module Core (146)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module KismetCompiler (144)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module MeshUtilities (142)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (141)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (140)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (139)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (137)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (135)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module MaterialBaking (131)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (126)
-[2020.01.22-16.42.45:721][665]LogModuleManager: Shutting down and abandoning module DerivedDataCache (124)
-[2020.01.22-16.42.45:814][665]LogDerivedDataCache: Shutdown
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module XGEController (122)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TargetPlatform (120)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (119)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (117)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (115)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (113)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (111)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (109)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (107)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (105)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (103)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (101)
-[2020.01.22-16.42.45:814][665]LogModuleManager: Shutting down and abandoning module ImageWrapper (100)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (97)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (95)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (93)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (91)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module InputCore (80)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module Settings (78)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module PhysXCooking (76)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module SteamVR (74)
-[2020.01.22-16.42.45:815][665]LogHMD: Freeing OpenVRDLLHandle.
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module OculusHMD (72)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (66)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module XMPP (55)
-[2020.01.22-16.42.45:815][665]LogModuleManager: Shutting down and abandoning module WebSockets (54)
-[2020.01.22-16.42.45:837][665]LogModuleManager: Shutting down and abandoning module HTTP (51)
-[2020.01.22-16.42.45:840][665]LogModuleManager: Shutting down and abandoning module SSL (50)
-[2020.01.22-16.42.45:841][665]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
-[2020.01.22-16.42.45:842][665]LogModuleManager: Shutting down and abandoning module Media (45)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module RenderCore (30)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module Landscape (28)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module Renderer (18)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module Engine (16)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2020.01.22-16.42.45:848][665]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2020.01.22-16.42.45:853][665]LogExit: Exiting.
-[2020.01.22-16.42.45:864][665]Log file closed, 01/22/20 11:42:45
+[2020.01.22-16.50.17:926][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.01.22-16.50.17:926][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.22-16.50.17:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:926][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.22-16.50.17:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.22-16.50.17:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:927][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.22-16.50.17:932][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.22-16.50.17:933][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.22-16.50.17:933][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.22-16.50.17:933][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.22-16.50.17:945][  0]LogHAL: Display: Platform has ~ 16 GB [17058271232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.22-16.50.17:945][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.22-16.50.17:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.22-16.50.17:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.22-16.50.17:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.22-16.50.17:947][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.22-16.50.17:947][  0]LogInit: Computer: GUL-HS-2211SD02
+[2020.01.22-16.50.17:947][  0]LogInit: User: 02tysonwatson
+[2020.01.22-16.50.17:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.22-16.50.17:947][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.22-16.50.17:948][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.22-16.50.17:948][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.22-16.50.17:948][  0]LogMemory: Process Physical Memory: 134.25 MB used, 134.25 MB peak
+[2020.01.22-16.50.17:948][  0]LogMemory: Process Virtual Memory: 112.48 MB used, 112.48 MB peak
+[2020.01.22-16.50.17:948][  0]LogMemory: Physical Memory: 6355.88 MB used,  9912.16 MB free, 16268.04 MB total
+[2020.01.22-16.50.17:948][  0]LogMemory: Virtual Memory: 4812.04 MB used,  134212912.00 MB free, 134217728.00 MB total
+[2020.01.22-16.50.17:979][  0]LogInit: Using OS detected language (en-US).
+[2020.01.22-16.50.17:979][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.22-16.50.17:980][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.22-16.50.18:240][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.22-16.50.18:240][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.22-16.50.18:267][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.22-16.50.18:267][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.22-16.50.18:322][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.22-16.50.18:322][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2020.01.22-16.50.18:325][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.22-16.50.18:326][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.22-16.50.18:326][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.22-16.50.18:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.22-16.50.18:332][  0]LogD3D11RHI:     GPU DeviceId: 0x5912 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.22-16.50.18:332][  0]LogWindows: EnumDisplayDevices:
+[2020.01.22-16.50.18:332][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.01.22-16.50.18:333][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.01.22-16.50.18:333][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.22-16.50.18:333][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.22-16.50.18:333][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 630
+[2020.01.22-16.50.18:333][  0]LogD3D11RHI:   Driver Version: 25.20.100.6374 (internal:25.20.100.6374, unified:25.20.100.6374)
+[2020.01.22-16.50.18:333][  0]LogD3D11RHI:      Driver Date: 11-18-2018
+[2020.01.22-16.50.18:333][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.01.22-16.50.18:376][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.22-16.50.18:380][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.22-16.50.18:380][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.22-16.50.18:380][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.22-16.50.18:382][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.22-16.50.18:705][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.22-16.50.18:717][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.22-16.50.18:729][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.22-16.50.18:735][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.22-16.50.18:735][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.22-16.50.18:743][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.22-16.50.18:787][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Intermediate/Shaders/WorkingDirectory/6940/).
+[2020.01.22-16.50.18:787][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/02tyson.watson/AppData/Local/Temp/UnrealShaderWorkingDir/71A96BAC46C5F316E7573D958B7909E0/'.
+[2020.01.22-16.50.18:789][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.22-16.50.18:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.22-16.50.18:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.22-16.50.19:250][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/02tyson.watson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/02tyson.watson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.22-16.50.19:291][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.22-16.50.19:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.22-16.50.19:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.22-16.50.19:302][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.22-16.50.19:314][  0]LogDerivedDataCache: Using Local data cache path C:/Users/02tyson.watson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.22-16.50.19:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.22-16.50.19:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.22-16.50.19:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.22-16.50.19:334][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.22-16.50.19:334][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.22-16.50.19:425][  0]LogInit: Using OS detected language (en-US).
+[2020.01.22-16.50.19:425][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.22-16.50.19:426][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2020.01.22-16.50.19:426][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2020.01.22-16.50.19:426][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.01.22-16.50.19:426][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.01.22-16.50.19:427][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2020.01.22-16.50.19:434][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2020.01.22-16.50.19:618][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.000510 seconds
+[2020.01.22-16.50.19:753][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.22-16.50.19:873][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.22-16.50.19:873][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.22-16.50.19:873][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.22-16.50.19:873][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.22-16.50.19:873][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.22-16.50.19:882][  0]LogNetVersion: Horror_Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 364352182)
+[2020.01.22-16.50.20:320][  0]LogMoviePlayer: Initializing movie player
+[2020.01.22-16.50.20:438][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.22-16.50.20:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.22-16.50.20:555][  0]SourceControl: Source control is disabled
+[2020.01.22-16.50.20:555][  0]SourceControl: Source control is disabled
+[2020.01.22-16.50.20:556][  0]SourceControl: Source control is disabled
+[2020.01.22-16.50.20:647][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.22-16.50.20:726][  0]LogOcInput: OculusInput pre-init called
+[2020.01.22-16.50.20:734][  0]LogUObjectArray: 46490 objects as part of root set at end of initial load.
+[2020.01.22-16.50.20:734][  0]LogUObjectAllocator: 8177640 out of 0 bytes used by permanent object pool.
+[2020.01.22-16.50.20:734][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.22-16.50.20:857][  0]LogEngine: Initializing Engine...
+[2020.01.22-16.50.20:858][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.22-16.50.20:870][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.22-16.50.20:998][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.22-16.50.21:014][  0]LogInit: XAudio2 using 'Headset Earphone (3- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.22-16.50.21:023][  0]LogInit: FAudioDevice initialized.
+[2020.01.22-16.50.21:035][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.22-16.50.21:038][  0]LogInit: Texture streaming: Enabled
+[2020.01.22-16.50.21:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-16.50.21:178][  0]LogInit: Display: Game Engine Initialized.
+[2020.01.22-16.50.21:223][  0]LogInit: Display: Starting Game.
+[2020.01.22-16.50.21:223][  0]LogNet: Browse: /Game/Maps/Menus?Name=Player
+[2020.01.22-16.50.21:223][  0]LogLoad: LoadMap: /Game/Maps/Menus?Name=Player
+[2020.01.22-16.50.21:245][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.22-16.50.21:283][  0]LogAIModule: Creating AISystem for world Menus
+[2020.01.22-16.50.21:283][  0]LogLoad: Game class is 'MainmenuGM_C'
+[2020.01.22-16.50.21:285][  0]LogWorld: Bringing World /Game/Maps/Menus.Menus up for play (max tick rate 0) at 2020.01.22-11.50.21
+[2020.01.22-16.50.21:285][  0]LogWorld: Bringing up level for play took: 0.000568
+[2020.01.22-16.50.21:286][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.22-16.50.21:290][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.01.22-16.50.21:290][  0]LogLoad: Took 0.066166 seconds to LoadMap(/Game/Maps/Menus)
+[2020.01.22-16.50.21:343][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.01.22-16.50.21:343][  0]LogLoad: (Engine Initialization) Total time: 6.21 seconds
+[2020.01.22-16.50.21:343][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.22-16.50.21:398][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.22-16.50.26:780][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.50.26:877][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-16.50.28:410][421]LogInit: WinSock: I am GUL-HS-2211SD02 (192.168.56.1:0)
+[2020.01.22-16.50.30:555][554]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.30:748][566]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.30:958][579]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.31:152][591]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.35:653][871]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.35:701][874]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050599 seconds
+[2020.01.22-16.50.35:701][874]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.35:701][874]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.38:669][ 58]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.38:717][ 61]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051275 seconds
+[2020.01.22-16.50.38:717][ 61]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.38:717][ 61]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.49:202][711]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.49:250][714]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052025 seconds
+[2020.01.22-16.50.49:250][714]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.49:250][714]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.51:734][867]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.51:975][882]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.52:168][894]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.52:427][910]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.52:637][923]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.52:862][937]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.53:072][950]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.53:314][965]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.53:556][980]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.53:814][996]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.54:039][ 10]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.55:314][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.50.55:991][131]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.50.56:283][150]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.56:331][153]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050881 seconds
+[2020.01.22-16.50.56:331][153]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.56:331][153]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.56:541][166]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.56:589][169]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051400 seconds
+[2020.01.22-16.50.56:590][169]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.56:590][169]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.56:816][183]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.56:863][186]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052652 seconds
+[2020.01.22-16.50.56:863][186]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.56:863][186]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.57:090][200]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.57:138][203]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051697 seconds
+[2020.01.22-16.50.57:138][203]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.57:138][203]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.57:299][213]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.57:348][216]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050526 seconds
+[2020.01.22-16.50.57:348][216]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.57:348][216]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.57:493][225]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.57:541][228]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052456 seconds
+[2020.01.22-16.50.57:541][228]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.57:541][228]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.57:670][236]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.57:718][239]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050543 seconds
+[2020.01.22-16.50.57:718][239]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.57:718][239]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.57:831][246]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.57:879][249]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051550 seconds
+[2020.01.22-16.50.57:879][249]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.57:879][249]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.58:025][258]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.58:073][261]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051149 seconds
+[2020.01.22-16.50.58:074][261]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.58:074][261]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.58:218][270]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.58:266][273]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052414 seconds
+[2020.01.22-16.50.58:266][273]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.58:267][273]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.58:444][284]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.58:493][287]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051417 seconds
+[2020.01.22-16.50.58:493][287]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.58:493][287]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.58:638][296]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.58:686][299]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050905 seconds
+[2020.01.22-16.50.58:686][299]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.58:686][299]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.58:847][309]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.58:896][312]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051436 seconds
+[2020.01.22-16.50.58:896][312]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.58:896][312]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:073][323]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.59:122][326]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051319 seconds
+[2020.01.22-16.50.59:122][326]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.59:122][326]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:267][335]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.59:315][338]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051973 seconds
+[2020.01.22-16.50.59:315][338]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.59:315][338]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:477][348]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.59:525][351]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051867 seconds
+[2020.01.22-16.50.59:525][351]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.59:525][351]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:654][359]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.59:702][362]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051694 seconds
+[2020.01.22-16.50.59:702][362]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.59:702][362]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:847][371]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.50.59:896][374]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050987 seconds
+[2020.01.22-16.50.59:896][374]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.50.59:896][374]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.50.59:993][380]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:041][383]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051999 seconds
+[2020.01.22-16.51.00:041][383]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:041][383]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:154][390]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:202][393]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051589 seconds
+[2020.01.22-16.51.00:202][393]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:202][393]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:283][398]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:331][401]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050990 seconds
+[2020.01.22-16.51.00:331][401]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:331][401]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:445][408]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:493][411]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052136 seconds
+[2020.01.22-16.51.00:493][411]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:493][411]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:573][416]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:622][419]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050252 seconds
+[2020.01.22-16.51.00:622][419]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:622][419]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:719][425]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:767][428]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050864 seconds
+[2020.01.22-16.51.00:767][428]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:768][428]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.00:880][435]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.00:928][438]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051445 seconds
+[2020.01.22-16.51.00:928][438]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.00:929][438]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:041][445]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:089][448]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051935 seconds
+[2020.01.22-16.51.01:089][448]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:089][448]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:203][455]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:252][458]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.065015 seconds
+[2020.01.22-16.51.01:269][458]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:270][458]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:355][464]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:391][466]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051596 seconds
+[2020.01.22-16.51.01:399][466]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:399][466]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:550][476]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:586][478]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051842 seconds
+[2020.01.22-16.51.01:590][478]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:590][478]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:662][483]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:710][486]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.057367 seconds
+[2020.01.22-16.51.01:713][486]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:713][486]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.01:855][495]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.01:903][498]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.054608 seconds
+[2020.01.22-16.51.01:904][498]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.01:904][498]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.02:018][505]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.02:065][508]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052012 seconds
+[2020.01.22-16.51.02:065][508]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.02:065][508]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.02:178][515]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.02:226][518]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052189 seconds
+[2020.01.22-16.51.02:226][518]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.02:226][518]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.02:518][536]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.02:565][539]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051310 seconds
+[2020.01.22-16.51.02:565][539]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.02:565][539]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.02:742][550]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.02:790][553]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.053714 seconds
+[2020.01.22-16.51.02:791][553]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.02:791][553]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.02:952][563]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.02:999][565]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052100 seconds
+[2020.01.22-16.51.02:999][565]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.03:000][566]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:000][566]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:000][566]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:113][573]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:161][575]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050487 seconds
+[2020.01.22-16.51.03:161][575]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.03:162][576]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:162][576]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:162][576]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:290][584]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:339][587]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051616 seconds
+[2020.01.22-16.51.03:339][587]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:339][587]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:372][589]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:420][592]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051034 seconds
+[2020.01.22-16.51.03:420][592]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:420][592]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:565][601]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:613][604]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051717 seconds
+[2020.01.22-16.51.03:613][604]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:613][604]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:678][608]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:727][611]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051056 seconds
+[2020.01.22-16.51.03:727][611]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:727][611]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:888][621]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.03:935][623]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051369 seconds
+[2020.01.22-16.51.03:935][623]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.03:936][624]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.03:936][624]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.03:936][624]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:066][632]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:080][632]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.04:113][634]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051600 seconds
+[2020.01.22-16.51.04:113][634]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.04:114][635]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:114][635]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:114][635]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:114][635]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:242][643]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:291][646]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051392 seconds
+[2020.01.22-16.51.04:291][646]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:291][646]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:436][655]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:485][658]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051459 seconds
+[2020.01.22-16.51.04:485][658]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:485][658]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:517][660]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:565][663]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051100 seconds
+[2020.01.22-16.51.04:565][663]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:566][663]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:613][666]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:645][667]LogOnlineSession: Warning: STEAM: Ignoring game search request while one is pending
+[2020.01.22-16.51.04:661][669]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051576 seconds
+[2020.01.22-16.51.04:662][669]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:662][669]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:662][669]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.04:823][679]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.04:871][682]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051484 seconds
+[2020.01.22-16.51.04:871][682]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.04:871][682]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.05:017][691]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.05:065][694]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051459 seconds
+[2020.01.22-16.51.05:065][694]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.05:065][694]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.05:210][703]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.05:259][706]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051343 seconds
+[2020.01.22-16.51.05:259][706]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.05:259][706]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.05:419][716]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.05:468][719]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051068 seconds
+[2020.01.22-16.51.05:468][719]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.05:468][719]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.05:645][730]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.05:694][733]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051067 seconds
+[2020.01.22-16.51.05:694][733]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.05:694][733]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.05:839][742]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.05:888][745]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052570 seconds
+[2020.01.22-16.51.05:889][745]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.05:889][745]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.06:050][755]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.06:098][758]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050543 seconds
+[2020.01.22-16.51.06:098][758]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.06:098][758]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.06:259][768]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.06:306][771]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051245 seconds
+[2020.01.22-16.51.06:307][771]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.06:307][771]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.06:485][782]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.06:533][785]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052289 seconds
+[2020.01.22-16.51.06:536][785]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.06:536][785]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.06:694][795]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.06:742][798]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051481 seconds
+[2020.01.22-16.51.06:742][798]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.06:742][798]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.06:903][808]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.06:952][811]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051682 seconds
+[2020.01.22-16.51.06:952][811]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.06:952][811]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.07:113][821]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.07:162][824]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050616 seconds
+[2020.01.22-16.51.07:163][824]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.07:163][824]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.07:307][833]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.07:355][836]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051465 seconds
+[2020.01.22-16.51.07:356][836]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.07:356][836]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.07:566][849]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.07:614][852]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052369 seconds
+[2020.01.22-16.51.07:614][852]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.07:614][852]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.07:742][860]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.07:791][863]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051407 seconds
+[2020.01.22-16.51.07:791][863]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.07:791][863]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.08:081][881]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.08:129][884]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050734 seconds
+[2020.01.22-16.51.08:129][884]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.08:129][884]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.08:323][896]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.08:372][899]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051406 seconds
+[2020.01.22-16.51.08:372][899]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.08:372][899]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.08:516][908]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.08:565][911]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052131 seconds
+[2020.01.22-16.51.08:567][911]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.08:567][911]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.11:113][ 69]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.11:161][ 72]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052587 seconds
+[2020.01.22-16.51.11:162][ 72]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.11:162][ 72]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.11:275][ 79]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.11:323][ 82]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051279 seconds
+[2020.01.22-16.51.11:323][ 82]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.11:323][ 82]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.11:630][101]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.11:678][104]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050901 seconds
+[2020.01.22-16.51.11:678][104]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.11:678][104]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.11:791][111]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.11:840][114]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051199 seconds
+[2020.01.22-16.51.11:840][114]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.11:840][114]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:049][127]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:098][130]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051576 seconds
+[2020.01.22-16.51.12:098][130]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:098][130]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:226][138]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:275][141]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051679 seconds
+[2020.01.22-16.51.12:275][141]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:276][141]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:371][147]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:420][150]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051307 seconds
+[2020.01.22-16.51.12:420][150]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:420][150]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:485][154]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:534][157]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051588 seconds
+[2020.01.22-16.51.12:534][157]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:534][157]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:791][173]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:840][176]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050507 seconds
+[2020.01.22-16.51.12:840][176]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:840][176]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.12:904][180]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.12:952][183]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052127 seconds
+[2020.01.22-16.51.12:952][183]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.12:952][183]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.13:049][189]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.13:098][192]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052700 seconds
+[2020.01.22-16.51.13:098][192]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.13:098][192]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.13:324][206]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.13:371][209]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051694 seconds
+[2020.01.22-16.51.13:371][209]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.13:372][209]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.13:469][215]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.13:517][218]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051297 seconds
+[2020.01.22-16.51.13:517][218]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.13:517][218]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.13:613][224]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.13:662][227]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052090 seconds
+[2020.01.22-16.51.13:662][227]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.13:662][227]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.13:727][231]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.13:775][234]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051467 seconds
+[2020.01.22-16.51.13:775][234]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.13:775][234]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.14:468][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.51.14:581][284]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.14:630][287]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051522 seconds
+[2020.01.22-16.51.14:630][287]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.14:630][287]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.14:711][292]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.14:759][295]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050734 seconds
+[2020.01.22-16.51.14:759][295]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.14:759][295]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.14:872][302]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.14:920][305]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051123 seconds
+[2020.01.22-16.51.14:922][305]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.14:922][305]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:131][318]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:180][321]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051256 seconds
+[2020.01.22-16.51.15:180][321]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:180][321]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:259][326]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:307][329]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051745 seconds
+[2020.01.22-16.51.15:307][329]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:308][329]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:404][335]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:452][338]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051490 seconds
+[2020.01.22-16.51.15:452][338]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:452][338]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:533][343]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:581][346]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051343 seconds
+[2020.01.22-16.51.15:583][346]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:583][346]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:662][351]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:710][354]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050496 seconds
+[2020.01.22-16.51.15:710][354]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:711][354]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:808][360]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.15:856][363]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052268 seconds
+[2020.01.22-16.51.15:856][363]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.15:856][363]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.15:952][369]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:001][372]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.052352 seconds
+[2020.01.22-16.51.16:001][372]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:001][372]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:098][378]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:146][381]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050854 seconds
+[2020.01.22-16.51.16:146][381]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:146][381]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:243][387]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:292][390]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051818 seconds
+[2020.01.22-16.51.16:292][390]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:292][390]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:388][396]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:437][399]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051344 seconds
+[2020.01.22-16.51.16:437][399]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:437][399]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:549][406]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:598][409]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051329 seconds
+[2020.01.22-16.51.16:598][409]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:598][409]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:711][416]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:759][419]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051142 seconds
+[2020.01.22-16.51.16:759][419]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:759][419]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.16:855][425]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.16:904][428]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051897 seconds
+[2020.01.22-16.51.16:906][428]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.16:906][428]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:017][435]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:066][438]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051803 seconds
+[2020.01.22-16.51.17:066][438]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:066][438]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:195][446]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:243][449]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051376 seconds
+[2020.01.22-16.51.17:243][449]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:243][449]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:340][455]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:389][458]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050591 seconds
+[2020.01.22-16.51.17:389][458]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:389][458]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:485][464]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:533][467]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050809 seconds
+[2020.01.22-16.51.17:534][467]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:534][467]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:646][474]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:694][477]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051615 seconds
+[2020.01.22-16.51.17:694][477]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:694][477]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:807][484]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.17:856][487]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051500 seconds
+[2020.01.22-16.51.17:856][487]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.17:856][487]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.17:952][493]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.18:001][496]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051998 seconds
+[2020.01.22-16.51.18:001][496]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.18:001][496]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.18:098][502]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.18:146][505]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.050697 seconds
+[2020.01.22-16.51.18:146][505]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.18:146][505]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.18:259][512]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.18:307][515]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051838 seconds
+[2020.01.22-16.51.18:307][515]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.18:307][515]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.18:422][522]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.18:469][525]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051663 seconds
+[2020.01.22-16.51.18:469][525]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.18:469][525]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.18:566][531]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.18:614][534]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051788 seconds
+[2020.01.22-16.51.18:616][534]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.18:616][534]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.18:985][557]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.19:033][560]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051740 seconds
+[2020.01.22-16.51.19:033][560]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.19:033][560]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.19:131][566]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.19:179][569]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051148 seconds
+[2020.01.22-16.51.19:179][569]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.19:180][569]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.20:410][608]LogRenderer: Reallocating scene render targets to support 1920x1060 Format 10 NumSamples 1 (Frame:3611).
+[2020.01.22-16.51.21:636][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.51.21:728][651]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.21:780][652]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.081726 seconds
+[2020.01.22-16.51.21:788][652]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.21:788][652]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.21:820][654]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.21:871][655]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.079588 seconds
+[2020.01.22-16.51.21:879][655]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.21:879][655]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.21:980][659]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:030][660]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.080745 seconds
+[2020.01.22-16.51.22:039][660]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:039][660]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:071][662]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:122][663]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.080155 seconds
+[2020.01.22-16.51.22:129][663]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:129][663]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:161][665]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:212][666]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.080247 seconds
+[2020.01.22-16.51.22:230][666]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:230][666]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:318][670]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:365][671]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.064546 seconds
+[2020.01.22-16.51.22:365][671]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:365][671]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:424][673]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:474][674]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.095087 seconds
+[2020.01.22-16.51.22:483][674]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:483][674]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:614][679]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:665][680]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.094546 seconds
+[2020.01.22-16.51.22:676][680]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:676][680]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:693][682]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:740][683]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.064268 seconds
+[2020.01.22-16.51.22:740][683]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:740][683]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:800][685]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:850][686]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.095761 seconds
+[2020.01.22-16.51.22:859][686]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:859][686]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.22:876][688]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.22:923][688]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.060848 seconds
+[2020.01.22-16.51.22:927][688]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.22:927][688]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:008][692]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:050][692]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.057947 seconds
+[2020.01.22-16.51.23:051][692]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:051][692]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:130][696]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:175][697]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.061956 seconds
+[2020.01.22-16.51.23:178][697]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:178][697]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:237][699]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:286][700]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.094879 seconds
+[2020.01.22-16.51.23:304][700]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:304][700]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:322][702]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:360][702]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.054115 seconds
+[2020.01.22-16.51.23:365][702]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:365][702]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:504][708]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:542][708]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.053708 seconds
+[2020.01.22-16.51.23:548][708]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:548][708]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:565][710]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:612][710]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.062559 seconds
+[2020.01.22-16.51.23:613][710]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:613][710]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:756][716]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:802][717]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.062759 seconds
+[2020.01.22-16.51.23:804][717]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:804][717]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:863][719]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:913][720]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.095622 seconds
+[2020.01.22-16.51.23:927][720]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:927][720]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.23:945][722]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.23:990][722]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.062144 seconds
+[2020.01.22-16.51.23:994][723]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.23:994][723]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.24:055][725]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.24:106][726]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.097583 seconds
+[2020.01.22-16.51.24:114][726]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.24:115][726]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.24:133][728]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.24:173][728]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.056585 seconds
+[2020.01.22-16.51.24:176][728]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.24:176][728]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.24:428][737]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.24:478][738]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.097523 seconds
+[2020.01.22-16.51.24:488][738]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.24:488][738]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.24:505][740]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.24:544][740]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 13' failed in 0.053361 seconds
+[2020.01.22-16.51.24:549][740]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.24:549][740]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.26:191][781]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:3785).
+[2020.01.22-16.51.27:583][858]LogRenderer: Reallocating scene render targets to support 1920x1060 Format 10 NumSamples 1 (Frame:3863).
+[2020.01.22-16.51.28:395][879]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:3885).
+[2020.01.22-16.51.28:903][898]LogRenderer: Reallocating scene render targets to support 1920x1060 Format 10 NumSamples 1 (Frame:3905).
+[2020.01.22-16.51.29:948][933]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.30:006][935]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.072375 seconds
+[2020.01.22-16.51.30:052][935]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.30:053][935]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.30:546][939]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:3947).
+[2020.01.22-16.51.30:726][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.51.30:824][957]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.30:873][960]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051838 seconds
+[2020.01.22-16.51.30:873][960]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.30:873][960]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.31:034][970]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.31:082][973]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051910 seconds
+[2020.01.22-16.51.31:082][973]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.31:082][973]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.31:244][983]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.31:292][986]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051171 seconds
+[2020.01.22-16.51.31:292][986]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.31:293][986]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.31:438][995]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.31:485][998]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051448 seconds
+[2020.01.22-16.51.31:485][998]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.31:485][998]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.31:582][  4]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.31:630][  7]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.051632 seconds
+[2020.01.22-16.51.31:630][  7]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.31:630][  7]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.33:018][ 62]LogRenderer: Reallocating scene render targets to support 1920x1060 Format 10 NumSamples 1 (Frame:4071).
+[2020.01.22-16.51.33:169][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-16.51.33:311][ 73]LogOnlineSession: Warning: STEAM: You must be logged in to an online profile to search for internet games
+[2020.01.22-16.51.33:357][ 73]LogOnline: Warning: OSS: Async task 'FOnlineAsyncTaskSteamFindLobbiesForFindSessions bWasSuccessful: 0 NumResults: 1088421888' failed in 0.061414 seconds
+[2020.01.22-16.51.33:360][ 73]LogOnlineSession: STEAM: Found 0 lobbies, finalizing the search
+[2020.01.22-16.51.33:360][ 73]LogBlueprintUserMessages: [SearrchGames_C_0] HeFaeildello
+[2020.01.22-16.51.34:653][112]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:4122).
+[2020.01.22-16.53.16:837][203]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
