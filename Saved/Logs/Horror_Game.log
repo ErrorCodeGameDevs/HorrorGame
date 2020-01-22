@@ -1415,3 +1415,58 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2020.01.22-16.29.13:520][989]LogHttp: Warning: 0000029DFD0F6340: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
 [2020.01.22-16.29.13:520][989]LogHttp: Warning: 0000029DFD0F6340: libcurl info message cache 8 (Closing connection 29)
 [2020.01.22-16.29.13:861][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E0DE95-42CD-712A-6324-4B9AE9628A43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 1 (  Trying 34.193.111.27...)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.193.111.27) port 443 (#30))
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.22-16.31.14:445][369]LogHttp: Warning: 0000029E01D0E840: libcurl info message cache 8 (Closing connection 30)
+[2020.01.22-16.31.14:781][370]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E0DE95-42CD-712A-6324-4B9AE9628A43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 1 (  Trying 3.226.93.173...)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.226.93.173) port 443 (#31))
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.22-16.33.15:307][365]LogHttp: Warning: 0000029DFD0EA700: libcurl info message cache 8 (Closing connection 31)
+[2020.01.22-16.33.15:643][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E0DE95-42CD-712A-6324-4B9AE9628A43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.22-16.34.14:673][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.01.22-16.34.14:673][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menus' took 0.048
+[2020.01.22-16.34.14:675][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainGi] ([1] browsable assets)...
+[2020.01.22-16.34.14:675][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainGi]
+[2020.01.22-16.34.14:710][324]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/MainGi_Auto3A57F46D545DE126D6E3BBA8638D3B95C.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainGi_Auto3.uasset'
+[2020.01.22-16.34.14:711][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Ui/Games] ([1] browsable assets)...
+[2020.01.22-16.34.14:711][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Ui/Games]
+[2020.01.22-16.34.14:734][324]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Games_Auto357031CD54F9C565F2EA8B3B5BBE7E19A.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Maps/Ui/Games_Auto3.uasset'
+[2020.01.22-16.34.14:734][324]LogFileHelpers: Auto-saving content packages took 0.060
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 1 (  Trying 52.1.90.14...)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.1.90.14) port 443 (#32))
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: 0000029E078D39C0: libcurl info message cache 8 (Closing connection 32)
+[2020.01.22-16.35.16:287][ 72]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E0DE95-42CD-712A-6324-4B9AE9628A43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.22-16.35.59:802][340]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.01.22-16.37.08:288][287]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 1 (  Trying 52.203.213.248...)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.203.213.248) port 443 (#33))
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.22-16.37.16:420][173]LogHttp: Warning: 0000029E2961E5C0: libcurl info message cache 8 (Closing connection 33)
+[2020.01.22-16.37.16:428][174]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E0DE95-42CD-712A-6324-4B9AE9628A43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
