@@ -1,0 +1,979 @@
+﻿Log file open, 01/30/20 10:00:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Horror_Game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.263721
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:873][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:877][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.30-15.00.36:877][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.30-15.00.36:878][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.30-15.00.36:878][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.30-15.00.36:878][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.30-15.00.36:903][  0]LogHAL: Display: Platform has ~ 16 GB [17058271232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.30-15.00.36:903][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.30-15.00.36:903][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.30-15.00.36:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.30-15.00.36:904][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.01.30-15.00.36:904][  0]LogInit: Computer: GUL-HS-2211SD02
+[2020.01.30-15.00.36:904][  0]LogInit: User: 02tysonwatson
+[2020.01.30-15.00.36:904][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.30-15.00.36:904][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.30-15.00.36:904][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.30-15.00.36:904][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.30-15.00.36:905][  0]LogMemory: Process Physical Memory: 98.91 MB used, 98.91 MB peak
+[2020.01.30-15.00.36:905][  0]LogMemory: Process Virtual Memory: 86.63 MB used, 86.63 MB peak
+[2020.01.30-15.00.36:905][  0]LogMemory: Physical Memory: 3737.62 MB used,  12530.42 MB free, 16268.04 MB total
+[2020.01.30-15.00.36:905][  0]LogMemory: Virtual Memory: 4641.05 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.01.30-15.00.36:919][  0]LogInit: Using OS detected language (en-US).
+[2020.01.30-15.00.36:919][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.30-15.00.36:919][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.30-15.00.37:063][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.30-15.00.37:096][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.30-15.00.37:096][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.30-15.00.37:266][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.30-15.00.37:266][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.30-15.00.37:308][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.30-15.00.37:308][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2020.01.30-15.00.37:310][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.30-15.00.37:310][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.30-15.00.37:310][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.30-15.00.37:314][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.30-15.00.37:314][  0]LogD3D11RHI:     GPU DeviceId: 0x5912 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.30-15.00.37:314][  0]LogWindows: EnumDisplayDevices:
+[2020.01.30-15.00.37:314][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.01.30-15.00.37:314][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.01.30-15.00.37:315][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.30-15.00.37:315][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.30-15.00.37:315][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 630
+[2020.01.30-15.00.37:315][  0]LogD3D11RHI:   Driver Version: 25.20.100.6374 (internal:25.20.100.6374, unified:25.20.100.6374)
+[2020.01.30-15.00.37:315][  0]LogD3D11RHI:      Driver Date: 11-18-2018
+[2020.01.30-15.00.37:315][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.01.30-15.00.37:352][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.30-15.00.37:355][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-15.00.37:355][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-15.00.37:355][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.30-15.00.37:357][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.30-15.00.37:591][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.30-15.00.37:601][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.30-15.00.37:613][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.30-15.00.37:624][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.30-15.00.37:635][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.30-15.00.37:646][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.30-15.00.37:658][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.30-15.00.37:669][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.30-15.00.37:674][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.30-15.00.37:740][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.30-15.00.37:741][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.30-15.00.37:742][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.30-15.00.37:799][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.30-15.00.37:799][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.30-15.00.37:824][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.30-15.00.37:824][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.30-15.00.37:834][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.30-15.00.37:844][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.30-15.00.37:854][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.30-15.00.37:865][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.30-15.00.37:901][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.30-15.00.37:901][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.30-15.00.37:901][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.30-15.00.37:907][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.30-15.00.37:945][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Intermediate/Shaders/WorkingDirectory/1688/).
+[2020.01.30-15.00.37:945][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/02tyson.watson/AppData/Local/Temp/UnrealShaderWorkingDir/C173FFAC44ECF9C01D7658B08A8C6462/'.
+[2020.01.30-15.00.37:947][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.30-15.00.37:947][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.30-15.00.37:947][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.30-15.00.38:393][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.30-15.00.38:432][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/02tyson.watson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.30-15.00.38:433][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/02tyson.watson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.30-15.00.38:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.30-15.00.38:433][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.30-15.00.38:433][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.30-15.00.38:433][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.30-15.00.38:443][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.30-15.00.38:443][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.30-15.00.38:443][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.30-15.00.38:455][  0]LogDerivedDataCache: Using Local data cache path C:/Users/02tyson.watson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.30-15.00.38:455][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.30-15.00.38:455][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.30-15.00.38:472][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.30-15.00.38:473][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.30-15.00.38:474][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.30-15.00.38:545][  0]LogAssetRegistry: FAssetRegistry took 0.0311 seconds to start up
+[2020.01.30-15.00.38:823][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.30-15.00.38:930][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.30-15.00.38:930][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.30-15.00.38:930][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.30-15.00.38:930][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.30-15.00.38:930][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.30-15.00.38:938][  0]LogNetVersion: Horror_Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 364352182)
+[2020.01.30-15.00.39:299][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041434 seconds
+[2020.01.30-15.00.39:304][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2020.01.30-15.00.39:304][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2020.01.30-15.00.39:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.30-15.00.40:447][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.30-15.00.40:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.30-15.00.40:567][  0]SourceControl: Source control is disabled
+[2020.01.30-15.00.40:567][  0]SourceControl: Source control is disabled
+[2020.01.30-15.00.40:569][  0]SourceControl: Source control is disabled
+[2020.01.30-15.00.40:570][  0]SourceControl: Source control is disabled
+[2020.01.30-15.00.40:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.30-15.00.40:743][  0]LogOcInput: OculusInput pre-init called
+[2020.01.30-15.00.41:290][  0]LogEngine: Initializing Engine...
+[2020.01.30-15.00.41:290][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.30-15.00.41:291][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.30-15.00.41:460][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.30-15.00.41:474][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.30-15.00.41:485][  0]LogInit: XAudio2 using 'Headset Earphone (3- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.30-15.00.41:507][  0]LogInit: FAudioDevice initialized.
+[2020.01.30-15.00.41:507][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.30-15.00.41:584][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/02tyson.watson/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.30-15.00.41:592][  0]LogInit: Texture streaming: Enabled
+[2020.01.30-15.00.41:609][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.30-15.00.41:626][  0]LogInit: Transaction tracking system initialized
+[2020.01.30-15.00.41:645][  0]BlueprintLog: New page: Editor Load
+[2020.01.30-15.00.41:716][  0]LocalizationService: Localization service is disabled
+[2020.01.30-15.00.41:959][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.30-15.00.41:959][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.30-15.00.42:090][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/' took 0.04s
+[2020.01.30-15.00.42:090][  0]SourceControl: Source control is disabled
+[2020.01.30-15.00.42:090][  0]Cmd: MAP LOAD FILE="../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/Maps/Menus.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.30-15.00.42:095][  0]LightingResults: New page: Lighting Build
+[2020.01.30-15.00.42:097][  0]MapCheck: New page: Map Check
+[2020.01.30-15.00.42:097][  0]LightingResults: New page: Lighting Build
+[2020.01.30-15.00.42:117][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.30-15.00.42:410][  0]LogAIModule: Creating AISystem for world Menus
+[2020.01.30-15.00.42:411][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.30-15.00.42:433][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.01.30-15.00.42:433][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.30-15.00.42:433][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2020.01.30-15.00.42:433][  0]LogFileHelpers: Loading map 'Menus' took 0.344
+[2020.01.30-15.00.42:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.00.42:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.00.42:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.00.42:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.00.42:627][  0]LogCollectionManager: Loaded 0 collections in 0.001320 seconds
+[2020.01.30-15.00.42:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Saved/Collections/' took 0.01s
+[2020.01.30-15.00.42:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/Developers/02tysonwatson/Collections/' took 0.00s
+[2020.01.30-15.00.42:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/Collections/' took 0.00s
+[2020.01.30-15.00.42:663][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.30-15.00.42:673][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2742 classes and 665 folders.
+[2020.01.30-15.00.42:686][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.30-15.00.42:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.42:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.30-15.00.43:099][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.30-15.00.43:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.30-15.00.43:182][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.30-15.00.43:184][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.30-15.00.43:197][  0]LogSlate: Took 0.006687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.30-15.00.43:327][  0]LogRenderer: Reallocating scene render targets to support 1208x560 Format 10 NumSamples 1 (Frame:1).
+[2020.01.30-15.00.43:439][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.30-15.00.43:439][  0]LogLoad: (Engine Initialization) Total time: 8.97 seconds
+[2020.01.30-15.00.43:439][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.30-15.00.43:510][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.30-15.00.43:748][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:3).
+[2020.01.30-15.00.43:749][  0]LogSlate: Took 0.015498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.30-15.00.43:779][  1]LogAssetRegistry: Asset discovery search completed in 5.2560 seconds
+[2020.01.30-15.00.43:786][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.30-15.00.43:786][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2020.01.30-15.00.44:524][ 31]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.30-15.00.48:783][227]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/' took 5.32s
+[2020.01.30-15.01.01:837][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-15.01.02:521][873]Cmd: SELECT NONE
+[2020.01.30-15.01.12:558][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:565][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:576][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:581][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:586][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:594][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:598][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:604][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:636][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:641][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:646][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:670][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:687][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:692][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:699][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:705][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.12:709][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:021][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.01.30-15.01.13:021][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.01.30-15.01.13:035][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.01.30-15.01.13:036][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.01.30-15.01.13:081][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:086][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:091][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:096][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:101][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:107][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:119][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:123][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:128][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:140][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:146][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:156][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:179][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:187][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:195][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:202][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:214][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:218][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:223][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:230][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:242][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:246][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:251][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:257][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:280][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:284][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:289][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:295][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:306][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:310][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:315][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:324][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:336][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:340][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:345][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:351][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:363][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:367][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:372][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:379][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:390][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:394][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:398][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:405][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:426][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:431][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:437][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:443][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:455][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:459][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:464][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:471][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:482][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:486][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:491][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:498][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:509][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:513][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:518][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:525][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:539][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:543][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:552][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:561][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:584][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:590][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:602][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:608][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:614][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:620][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:627][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:638][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:647][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:654][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:667][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:671][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:681][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:688][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:704][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:711][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:718][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:725][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:737][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:741][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:746][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:752][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:764][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:768][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:774][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:780][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:787][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:793][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:797][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:802][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:809][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:814][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:820][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:825][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:830][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:840][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:845][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:851][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:856][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:860][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:867][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_012.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:872][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:877][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:882][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:887][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:897][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_013.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:906][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:913][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:918][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:923][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:929][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/sword_pommel_014.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:941][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:946][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:951][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:958][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:963][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:969][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:973][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:978][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:984][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:991][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.13:997][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:001][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:006][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:013][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:018][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:024][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:028][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:033][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:041][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:047][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:052][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:056][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:061][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:068][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:074][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:092][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:098][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:103][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:110][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:115][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:121][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:127][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:133][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:139][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:143][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:148][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:155][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:160][371]LogLinker: Warning: Asset '../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.30-15.01.14:587][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.01.30-15.01.14:587][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.01.30-15.01.14:588][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.01.30-15.01.14:588][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.01.30-15.01.14:675][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.01.30-15.01.14:675][371]LoadErrors: Failed to load /Game/HousingPack02/Textures/T_Lighting_Fixtures_01.T_Lighting_Fixtures_01 Referenced by MI_Lighting_Fixtures_01
+[2020.01.30-15.01.14:676][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.01.30-15.01.14:687][371]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.01.30-15.01.14:687][371]LoadErrors: Failed to load /Game/HousingPack02/Textures/T_Cladding_01_RMA.T_Cladding_01_RMA Referenced by MI_Cladding_01
+[2020.01.30-15.01.14:688][371]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.01.30-15.01.15:636][371]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MaterialSlot.MaterialSlot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.01.30-15.01.15:934][371]LogStaticMesh: Building static mesh No_hilt...
+[2020.01.30-15.01.15:940][371]LogStaticMesh: Built static mesh [0.01s] /Game/FreeFurniturePack/Meshes/Hilt_Drawers/No_hilt.No_hilt
+[2020.01.30-15.01.16:028][371]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.01.30-15.01.16:048][371]LogBlueprintUserMessages: [ModularWeapon81] LOG: ModularWeapon creation FAILED
+[2020.01.30-15.01.16:050][371]LogBlueprintUserMessages: [ModularWeapon82] LOG: ModularWeapon creation FAILED
+[2020.01.30-15.01.16:076][371]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant
+[2020.01.30-15.01.16:104][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.30-15.01.16:105][371]Cmd: MAP LOAD FILE="../../../../../Users/02tyson.watson/Desktop/Tyson Watson/Unreal Prjects/HorrorGame/Content/Maps/Warped_Quarters_Mutant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.30-15.01.16:105][371]LightingResults: New page: Lighting Build
+[2020.01.30-15.01.16:105][371]LoadErrors: New page: Loading map: Warped_Quarters_Mutant.umap
+[2020.01.30-15.01.16:105][371]MapCheck: New page: Map Check
+[2020.01.30-15.01.16:105][371]LightingResults: New page: Lighting Build
+[2020.01.30-15.01.16:125][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.30-15.01.16:144][371]LogBlueprintUserMessages: [ModularWeapon81] LOG: ModularWeapon creation FAILED
+[2020.01.30-15.01.16:146][371]LogBlueprintUserMessages: [ModularWeapon82] LOG: ModularWeapon creation FAILED
+[2020.01.30-15.01.16:152][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.30-15.01.16:191][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.30-15.01.16:234][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.30-15.01.16:234][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2020.01.30-15.01.16:234][371]LogFileHelpers: Loading map 'Warped_Quarters_Mutant' took 0.130
+[2020.01.30-15.01.19:741][485]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.30-15.01.19:765][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.01.19:766][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.30-15.01.19:767][485]PIE: New page: PIE session: Warped_Quarters_Mutant (Jan 30, 2020, 5:01:19 AM)
+[2020.01.30-15.01.19:767][485]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.01.30-15.01.19:780][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.01.30-15.01.19:797][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017450s)
+[2020.01.30-15.01.19:798][485]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.01.30-15.01.19:798][485]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2020.01.30-15.01.19:798][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.018230s)
+[2020.01.30-15.01.19:817][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.01.30-15.01.19:825][485]LogInit: XAudio2 using 'Headset Earphone (3- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.30-15.01.19:832][485]LogInit: FAudioDevice initialized.
+[2020.01.30-15.01.19:839][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.20:816][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.30-15.01.20:822][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.01.30-10.01.20
+[2020.01.30-15.01.20:835][485]LogWorld: Bringing up level for play took: 0.017356
+[2020.01.30-15.01.20:859][485]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.30-15.01.20:881][485]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'iteamstoSpawnBlade' of length 20 in '/Game/Opening_Things/Random_cabnets/Cabnet_spawner.Cabnet_spawner_C'!
+[2020.01.30-15.01.20:881][485]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.30-15.01.20:894][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.99
+[2020.01.30-15.01.20:894][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.01.20:952][486]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.01.30-15.01.22:548][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.22:581][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.22:616][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.25:591][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.25:626][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 0 (  Trying 34.193.111.27...)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.111.27) port 443 (#0))
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.30-15.01.43:638][161]LogHttp: Warning: 0000011431FAD300: libcurl info message cache 7 (Closing connection 0)
+[2020.01.30-15.01.43:670][162]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B865549D9-4ABB-6559-2E4F-9EB7A2B570D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=e66348784f1eaaea444124a5778a32cb%7C6ca0b73ba31d4c2080aece94ca7e163f%7Cb91d9d9a-b4e9-476a-bf0c-6c808ef911e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-15.01.59:612][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.01.59:612][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.01.59:639][640]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.30-15.01.59:692][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.30-15.01.59:692][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.01.59:725][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.01.30-15.01.59:739][641]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.30-15.02.11:389][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Modern_small/Hilt_Open_1.Hilt_Open_1
+[2020.01.30-15.02.13:915][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:915][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:915][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End  is deprecated; Please use GetEndTime instead
+[2020.01.30-15.02.13:932][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:932][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:932][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Play Dialogue with Sequence  is deprecated; Please use GetEndTime instead
+[2020.01.30-15.02.13:944][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:944][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2020.01.30-15.02.13:944][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Is Interacted?  is deprecated; Please use GetEndTime instead
+[2020.01.30-15.02.14:173][947]LogBlueprint: Warning: [Compiler BP_BaseCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.01.30-15.02.15:414][947]LogBlueprint: Warning: [Compiler BP_Mission_Component] [0100.94] Compile of BP_Mission_Component successful, but with 9 Warning(s) [in 1,969 ms] (/Game/AdvancedMissionSys/ProjectFiles/Blueprints/Player/BP_Mission_Component.BP_Mission_Component)
+[2020.01.30-15.02.15:414][947]LogBlueprint: Warning: [Compiler BP_BaseCharacter] [0100.94] Compile of BP_BaseCharacter successful, but with 1 Warning(s) [in 1,969 ms] (/Game/AdvancedMissionSys/ProjectFiles/Blueprints/Player/BP_BaseCharacter.BP_BaseCharacter)
+[2020.01.30-15.02.15:924][947]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MeleeCollisionType.MeleeCollisionType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.01.30-15.02.15:983][947]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.30-15.02.16:828][947]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.02.16:829][947]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.02.16:829][947]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.02.16:844][947]LogSlate: Took 0.005121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.30-15.02.16:989][948]LogSlate: Took 0.005365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.30-15.02.20:418][338]LogRenderer: Reallocating scene render targets to support 1272x724 Format 10 NumSamples 1 (Frame:1).
+[2020.01.30-15.02.24:351][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-15.02.27:350][571]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.01.30-15.02.55:950][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-15.03.07:718][951]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.01.30-15.03.12:806][951]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.30-15.03.12:895][951]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Opening_Things/Modern_small/Childeren/Hilt_Empty.Hilt_Empty
+	Asset Name: /Game/Opening_Things/Modern_small/Childeren/Hilt_3.Hilt_3
+	Asset Name: /Game/Opening_Things/Modern_small/Childeren/Hilt_1.Hilt_1
+	Asset Name: /Game/Opening_Things/Modern_small/Childeren/Hilt_2.Hilt_2
+[2020.01.30-15.03.15:622][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.01.30-15.03.16:458][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.01.30-15.03.16:486][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.30-15.03.16:514][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.01.30-15.03.16:547][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.30-15.03.16:577][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.01.30-15.03.16:605][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.30-15.03.24:260][107]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Modern_small/Hilt_Open_1.Hilt_Open_1
+[2020.01.30-15.03.24:632][107]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.03.24:633][107]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.03.24:633][107]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.03.26:981][373]BlueprintLog: New page: Compile Hilt_Open_1
+[2020.01.30-15.03.27:178][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.30-15.03.28:472][447]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.30-15.03.28:509][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.03.28:509][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.30-15.03.28:509][447]PIE: New page: PIE session: Warped_Quarters_Mutant (Jan 30, 2020, 5:03:28 AM)
+[2020.01.30-15.03.28:520][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.01.30-15.03.28:537][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016369s)
+[2020.01.30-15.03.28:537][447]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.01.30-15.03.28:537][447]LogPlayLevel: PIE: World Init took: (0.000410s)
+[2020.01.30-15.03.28:537][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.016923s)
+[2020.01.30-15.03.28:571][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.30-15.03.28:576][447]LogInit: XAudio2 using 'Headset Earphone (3- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.30-15.03.28:583][447]LogInit: FAudioDevice initialized.
+[2020.01.30-15.03.28:589][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.03.28:619][447]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.30-15.03.28:625][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.01.30-10.03.28
+[2020.01.30-15.03.28:626][447]LogWorld: Bringing up level for play took: 0.005983
+[2020.01.30-15.03.28:640][447]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.30-15.03.28:640][447]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.30-15.03.28:643][447]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'iteamstoSpawnBlade' of length 20 in '/Game/Opening_Things/Random_cabnets/Cabnet_spawner.Cabnet_spawner_C'!
+[2020.01.30-15.03.28:644][447]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.01.30-15.03.28:651][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.743
+[2020.01.30-15.03.28:651][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.03.35:563][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.03.35:563][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-15.03.35:590][650]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.30-15.03.35:638][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.30-15.03.35:638][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.03.35:680][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.30-15.03.35:715][651]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.30-15.03.43:809][167]LogHttp: Warning: 0000011485AC9A80: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 1 (  Trying 100.24.78.173...)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (100.24.78.173) port 443 (#1))
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.30-15.03.43:810][167]LogHttp: Warning: 0000011485AC9A80: libcurl info message cache 8 (Closing connection 1)
+[2020.01.30-15.03.43:835][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B865549D9-4ABB-6559-2E4F-9EB7A2B570D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=e66348784f1eaaea444124a5778a32cb%7C6ca0b73ba31d4c2080aece94ca7e163f%7Cb91d9d9a-b4e9-476a-bf0c-6c808ef911e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-15.04.16:886][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-15.04.22:924][402]LogEditorViewport: Clicking on Actor (LMB): Hilt_Open_1_C (Hilt_Open_1)
+[2020.01.30-15.04.25:479][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-15.04.41:684][929]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Modern_small/Hilt_Open_1_Child.Hilt_Open_1_Child
+[2020.01.30-15.04.42:008][929]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.04.42:008][929]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.04.42:008][929]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.01.30-15.04.44:509][  6]LogSlate: Window 'Hilt_Open_1_Child' being destroyed
+[2020.01.30-15.05.21:639][ 92]LogEditorTransaction: Undo Modify Component(s)
+[2020.01.30-15.05.43:963][908]LogHttp: Warning: 000001146E4C5A80: request failed, libcurl error: 35 (SSL connect error)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 1 (  Trying 18.208.48.150...)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (18.208.48.150) port 443 (#2))
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: 000001146E4C5A80: libcurl info message cache 8 (Closing connection 2)
+[2020.01.30-15.05.43:964][908]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B865549D9-4ABB-6559-2E4F-9EB7A2B570D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=e66348784f1eaaea444124a5778a32cb%7C6ca0b73ba31d4c2080aece94ca7e163f%7Cb91d9d9a-b4e9-476a-bf0c-6c808ef911e8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-15.05.49:709][118]LogEditorTransaction: Undo Modify Component(s)
+[2020.01.30-15.05.56:387][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-15.06.14:604][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.30-15.06.27:206][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.30-15.06.27:303][445]BlueprintLog: New page: Compile Hilt_Open_1_Child
+[2020.01.30-15.06.27:510][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.30-15.06.30:758][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.30-15.06.30:788][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.01.30-15.06.30:788][552]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.30-15.06.30:790][552]LogPlayLevel: [PlayLevel] Compiling Hilt_Open_1 before play...
+[2020.01.30-15.06.30:790][552]LogPlayLevel: [PlayLevel]   Compiling Hilt_Open_1_Child as a dependent...
+[2020.01.30-15.06.31:012][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.01.30-15.06.31:012][552]LogPlayLevel: PlayLevel: Blueprint regeneration took 224 ms (2 blueprints)
+[2020.01.30-15.06.31:012][552]PIE: New page: PIE session: Warped_Quarters_Mutant (Jan 30, 2020, 5:06:31 AM)
+[2020.01.30-15.06.31:013][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.01.30-15.06.31:014][552]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Hilt_Open_2 Hilt_Open_1_C
+[2020.01.30-15.06.31:015][552]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.30-15.06.31:650][552]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.635 s
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: 
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2184]
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Hilt_Open_2 Hilt_Open_1_C
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: Stack: 
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e3f4d98 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e3399fc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e3382dc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e33a4ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e114697 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e0fb651 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1b690c6b UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1b6cf230 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e33b6e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1e33ae3e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd199fc758 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1b4c29d7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd199f90d3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd19a1b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd19a3319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd1950fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd19d2d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ff6f4df6bb1 UE4Editor.exe!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ff6f4e0554c UE4Editor.exe!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ff6f4e055ca UE4Editor.exe!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ff6f4e1316c UE4Editor.exe!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ff6f4e15b8e UE4Editor.exe!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd6a687bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: [Callstack] 0x00007ffd6ad2ced1 ntdll.dll!UnknownFunction []
+[2020.01.30-15.06.31:650][552]LogOutputDevice: Error: 
+[2020.01.30-15.06.31:659][552]LogStats:                SubmitErrorReport -  0.000 s
