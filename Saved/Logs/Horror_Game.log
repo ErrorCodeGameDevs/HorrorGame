@@ -1292,3 +1292,1096 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-14.28.50:295][917]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/TestingA518DF7E40ABA4958E4230B2184AAC13.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/Maps/Testing.umap'
 [2020.02.13-14.28.50:320][917]LogFileHelpers: Saving map 'Testing' took 1.154
 [2020.02.13-14.28.50:567][917]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Enemy_Alien_Soldier45F5EB5649F52711D84A56B75BC0DF4A.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier.uasset'
+[2020.02.13-14.34.09:433][906]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.13-14.34.26:805][531]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.34.26:889][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.34.26:889][531]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.34.26:893][531]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2020.02.13-14.34.26:895][531]LogPlayLevel: [PlayLevel]   Compiling Enemy_Alien_Soldier as a dependent...
+[2020.02.13-14.34.27:832][531]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.34.28:939][531]LogUObjectHash: Compacting FUObjectHashTables data took  15.60ms
+[2020.02.13-14.34.28:940][531]LogPlayLevel: PlayLevel: Blueprint regeneration took 2050 ms (3 blueprints)
+[2020.02.13-14.34.28:940][531]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:34:28 AM)
+[2020.02.13-14.34.28:943][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.34.29:096][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152673s)
+[2020.02.13-14.34.29:097][531]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.34.29:097][531]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2020.02.13-14.34.29:097][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.154379s)
+[2020.02.13-14.34.29:186][531]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.02.13-14.34.29:275][531]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.34.29:307][531]LogInit: FAudioDevice initialized.
+[2020.02.13-14.34.29:320][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.34.29:363][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.34.29:423][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.34.29
+[2020.02.13-14.34.29:426][531]LogWorld: Bringing up level for play took: 0.061006
+[2020.02.13-14.34.29:446][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.34.29:446][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.34.29:449][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 2.09
+[2020.02.13-14.34.29:450][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.34.43:160][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.34.43:160][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.34.43:234][  7]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.34.43:298][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.34.43:298][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.34.43:430][  7]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.02.13-14.34.43:472][  8]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.13-14.34.48:097][283]LogRenderer: Reallocating scene render targets to support 1272x708 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-14.34.53:158][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.35.08:894][880]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.35.08:995][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.35.08:995][880]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.35.09:026][880]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.35.10:077][880]LogUObjectHash: Compacting FUObjectHashTables data took  15.01ms
+[2020.02.13-14.35.10:077][880]LogPlayLevel: PlayLevel: Blueprint regeneration took 1081 ms (1 blueprints)
+[2020.02.13-14.35.10:077][880]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:35:10 AM)
+[2020.02.13-14.35.10:078][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.35.10:231][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153139s)
+[2020.02.13-14.35.10:232][880]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.35.10:232][880]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2020.02.13-14.35.10:233][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.155144s)
+[2020.02.13-14.35.10:321][880]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2020.02.13-14.35.10:405][880]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.35.10:440][880]LogInit: FAudioDevice initialized.
+[2020.02.13-14.35.10:453][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.10:492][880]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.35.10:554][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.35.10
+[2020.02.13-14.35.10:557][880]LogWorld: Bringing up level for play took: 0.062868
+[2020.02.13-14.35.10:577][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.10:577][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.10:580][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.221
+[2020.02.13-14.35.10:581][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.35.40:440][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.35.40:440][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.40:512][883]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.35.40:569][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.35.40:570][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.35.40:690][883]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2020.02.13-14.35.40:750][884]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.13-14.35.48:257][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.13-14.35.49:776][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.35.49:863][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.35.49:864][ 81]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.35.49:891][ 81]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.35.50:955][ 81]LogUObjectHash: Compacting FUObjectHashTables data took  14.61ms
+[2020.02.13-14.35.50:955][ 81]LogPlayLevel: PlayLevel: Blueprint regeneration took 1091 ms (1 blueprints)
+[2020.02.13-14.35.50:956][ 81]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:35:50 AM)
+[2020.02.13-14.35.50:956][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.35.51:125][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168337s)
+[2020.02.13-14.35.51:126][ 81]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.35.51:126][ 81]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2020.02.13-14.35.51:126][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.169901s)
+[2020.02.13-14.35.51:222][ 81]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2020.02.13-14.35.51:310][ 81]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.35.51:342][ 81]LogInit: FAudioDevice initialized.
+[2020.02.13-14.35.51:357][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.51:399][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.35.51:463][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.35.51
+[2020.02.13-14.35.51:467][ 81]LogWorld: Bringing up level for play took: 0.065893
+[2020.02.13-14.35.51:487][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.51:487][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.35.51:490][ 81]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 2.13
+[2020.02.13-14.35.51:490][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.27:793][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.27:794][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.27:869][322]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.36.27:935][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.36.27:935][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.28:076][322]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2020.02.13-14.36.28:102][323]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.13-14.36.32:954][438]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.36.33:045][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.33:045][438]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.36.33:074][438]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.36.34:097][438]LogUObjectHash: Compacting FUObjectHashTables data took  14.14ms
+[2020.02.13-14.36.34:097][438]LogPlayLevel: PlayLevel: Blueprint regeneration took 1051 ms (1 blueprints)
+[2020.02.13-14.36.34:097][438]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:36:34 AM)
+[2020.02.13-14.36.34:098][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.36.34:250][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152513s)
+[2020.02.13-14.36.34:251][438]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.36.34:252][438]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2020.02.13-14.36.34:252][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.154042s)
+[2020.02.13-14.36.34:344][438]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.02.13-14.36.34:425][438]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.36.34:458][438]LogInit: FAudioDevice initialized.
+[2020.02.13-14.36.34:472][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.34:513][438]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.36.34:575][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.36.34
+[2020.02.13-14.36.34:579][438]LogWorld: Bringing up level for play took: 0.064135
+[2020.02.13-14.36.34:599][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.34:599][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.34:602][438]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.243
+[2020.02.13-14.36.34:603][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.40:725][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.40:726][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.40:800][631]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.36.40:862][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.36.40:863][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.40:985][631]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.02.13-14.36.41:046][632]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.02.13-14.36.52:459][897]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.02.13-14.36.54:314][932]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.36.54:401][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.54:401][932]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.36.54:429][932]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.36.55:510][932]LogUObjectHash: Compacting FUObjectHashTables data took  14.20ms
+[2020.02.13-14.36.55:510][932]LogPlayLevel: PlayLevel: Blueprint regeneration took 1108 ms (1 blueprints)
+[2020.02.13-14.36.55:511][932]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:36:55 AM)
+[2020.02.13-14.36.55:511][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.36.55:673][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162409s)
+[2020.02.13-14.36.55:674][932]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.36.55:674][932]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2020.02.13-14.36.55:674][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.164067s)
+[2020.02.13-14.36.55:772][932]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.02.13-14.36.55:854][932]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.36.55:885][932]LogInit: FAudioDevice initialized.
+[2020.02.13-14.36.55:899][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.55:939][932]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.36.55:999][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.36.55
+[2020.02.13-14.36.56:002][932]LogWorld: Bringing up level for play took: 0.061851
+[2020.02.13-14.36.56:022][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.56:022][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.56:028][932]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.669
+[2020.02.13-14.36.56:029][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.58:166][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.58:167][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.36.58:242][992]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.36.58:304][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.36.58:305][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.36.58:435][992]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.02.13-14.36.58:502][993]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.02.13-14.37.43:648][928]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.37.43:748][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.37.43:748][928]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.37.43:775][928]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.37.44:765][928]LogUObjectHash: Compacting FUObjectHashTables data took  13.92ms
+[2020.02.13-14.37.44:765][928]LogPlayLevel: PlayLevel: Blueprint regeneration took 1016 ms (1 blueprints)
+[2020.02.13-14.37.44:765][928]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:37:44 AM)
+[2020.02.13-14.37.44:766][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.37.44:918][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152046s)
+[2020.02.13-14.37.44:919][928]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.37.44:919][928]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2020.02.13-14.37.44:919][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.153533s)
+[2020.02.13-14.37.45:007][928]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2020.02.13-14.37.45:092][928]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.37.45:123][928]LogInit: FAudioDevice initialized.
+[2020.02.13-14.37.45:138][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.37.45:177][928]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.37.45:245][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.37.45
+[2020.02.13-14.37.45:250][928]LogWorld: Bringing up level for play took: 0.071069
+[2020.02.13-14.37.45:271][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.37.45:271][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.37.45:274][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.915
+[2020.02.13-14.37.45:274][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.37.56:366][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.37.56:366][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.37.56:442][281]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.37.56:505][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.37.56:506][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.37.56:633][281]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.02.13-14.37.56:673][282]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.02.13-14.38.53:356][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.39.46:607][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.39.51:323][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor31)
+[2020.02.13-14.39.53:894][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.39.56:792][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.39.59:617][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.40.01:027][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.41.01:809][830]LogUObjectHash: Compacting FUObjectHashTables data took  10.44ms
+[2020.02.13-14.41.06:060][830]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Warped_Quarters_Mutant_Auto1FF9CBE284B6487F1ADBE1BB0F0F7ACAB.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Maps/Warped_Quarters_Mutant_Auto1.umap'
+[2020.02.13-14.41.06:078][830]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Warped_Quarters_Mutant' took 4.417
+[2020.02.13-14.41.06:078][830]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.417
+[2020.02.13-14.41.06:084][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier] ([1] browsable assets)...
+[2020.02.13-14.41.06:168][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier.Enemy_Alien_Soldier]
+[2020.02.13-14.41.06:168][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier]
+[2020.02.13-14.41.06:516][830]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Enemy_Alien_Soldier_Auto1E494302148CD40D88E8A899F8CFC8331.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier_Auto1.uasset'
+[2020.02.13-14.41.06:518][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.02.13-14.41.06:607][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.02.13-14.41.06:607][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.02.13-14.41.07:088][830]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/ThirdPersonCharacter_Auto1603FE6574B54AB085F3699AD4E755A7F.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.02.13-14.41.07:090][830]LogFileHelpers: Auto-saving content packages took 1.006
+[2020.02.13-14.45.01:382][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.02:649][311]Cmd: CAMERA SNAP
+[2020.02.13-14.45.02:649][311]Snapped camera to the first selected object.
+[2020.02.13-14.45.03:923][380]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor86)
+[2020.02.13-14.45.04:062][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.08:174][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.11:186][743]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor90)
+[2020.02.13-14.45.11:322][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.13:612][829]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.13-14.45.13:714][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.14:237][848]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.13-14.45.20:943][111]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor61)
+[2020.02.13-14.45.21:062][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.24:330][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_Half_267)
+[2020.02.13-14.45.31:110][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.43:525][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.45.53:312][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.45.53:382][347]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.45.53:477][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.45.53:477][347]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.45.53:506][347]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.02.13-14.45.54:522][347]LogUObjectHash: Compacting FUObjectHashTables data took  14.91ms
+[2020.02.13-14.45.54:523][347]LogPlayLevel: PlayLevel: Blueprint regeneration took 1045 ms (1 blueprints)
+[2020.02.13-14.45.54:523][347]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:45:54 AM)
+[2020.02.13-14.45.54:524][347]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.45.54:673][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149633s)
+[2020.02.13-14.45.54:674][347]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.45.54:675][347]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2020.02.13-14.45.54:675][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.151332s)
+[2020.02.13-14.45.54:769][347]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.02.13-14.45.54:852][347]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.45.54:883][347]LogInit: FAudioDevice initialized.
+[2020.02.13-14.45.54:917][347]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.45.54:973][347]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.45.54
+[2020.02.13-14.45.54:976][347]LogWorld: Bringing up level for play took: 0.057991
+[2020.02.13-14.45.54:997][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.45.54:997][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.45.54:997][347]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.638
+[2020.02.13-14.45.54:998][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.04:508][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.04:509][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.04:579][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.46.04:580][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.04:677][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.04:702][676]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.02.13-14.46.04:758][677]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.02.13-14.46.05:589][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.46.05:661][741]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.46.05:747][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.05:747][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.46.05:747][741]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:46:05 AM)
+[2020.02.13-14.46.05:748][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.46.05:902][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155255s)
+[2020.02.13-14.46.05:903][741]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.46.05:903][741]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2020.02.13-14.46.05:904][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.156803s)
+[2020.02.13-14.46.05:996][741]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.02.13-14.46.06:091][741]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.46.06:122][741]LogInit: FAudioDevice initialized.
+[2020.02.13-14.46.06:170][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.46.06:226][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.46.06
+[2020.02.13-14.46.06:229][741]LogWorld: Bringing up level for play took: 0.056710
+[2020.02.13-14.46.06:248][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.06:248][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.06:249][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.89
+[2020.02.13-14.46.06:250][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.06:278][742]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055007 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.02.13-14.46.11:658][964]Set new viewmode: Wireframe
+[2020.02.13-14.46.14:142][108]Set new viewmode: Wireframe
+[2020.02.13-14.46.15:421][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.15:421][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.15:490][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.46.15:491][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.15:586][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.15:612][183]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.02.13-14.46.15:676][184]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.02.13-14.46.22:256][573]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.02.13-14.46.23:195][623]Cmd: DELETE
+[2020.02.13-14.46.23:195][623]Cmd: ACTOR DELETE
+[2020.02.13-14.46.23:235][623]LogEditorActor: Deleted Actor: PointLight
+[2020.02.13-14.46.23:324][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.13-14.46.23:325][623]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2020.02.13-14.46.30:448][ 58]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2020.02.13-14.46.31:458][111]Cmd: DELETE
+[2020.02.13-14.46.31:458][111]Cmd: ACTOR DELETE
+[2020.02.13-14.46.31:490][111]LogEditorActor: Deleted Actor: PointLight
+[2020.02.13-14.46.31:587][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.13-14.46.31:588][111]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2020.02.13-14.46.53:609][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.46.53:660][634]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.46.53:750][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.53:750][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.46.53:750][634]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:46:53 AM)
+[2020.02.13-14.46.53:751][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.46.53:911][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160116s)
+[2020.02.13-14.46.53:912][634]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.46.53:912][634]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2020.02.13-14.46.53:913][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.161699s)
+[2020.02.13-14.46.54:008][634]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2020.02.13-14.46.54:094][634]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.46.54:128][634]LogInit: FAudioDevice initialized.
+[2020.02.13-14.46.54:162][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.46.54:226][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.46.54
+[2020.02.13-14.46.54:230][634]LogWorld: Bringing up level for play took: 0.066118
+[2020.02.13-14.46.54:250][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.54:250][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.54:251][634]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.892
+[2020.02.13-14.46.54:252][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.55:805][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.55:806][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.55:873][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.46.55:874][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.55:963][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.55:988][699]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2020.02.13-14.46.56:051][700]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.13-14.46.56:697][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.46.56:780][749]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.46.56:865][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.46.56:866][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.46.56:866][749]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:46:56 AM)
+[2020.02.13-14.46.56:866][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.46.57:018][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152498s)
+[2020.02.13-14.46.57:019][749]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.46.57:019][749]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2020.02.13-14.46.57:020][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.154168s)
+[2020.02.13-14.46.57:109][749]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2020.02.13-14.46.57:189][749]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.46.57:221][749]LogInit: FAudioDevice initialized.
+[2020.02.13-14.46.57:258][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.46.57:316][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.46.57
+[2020.02.13-14.46.57:319][749]LogWorld: Bringing up level for play took: 0.058976
+[2020.02.13-14.46.57:338][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.57:339][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.46.57:339][749]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.02
+[2020.02.13-14.46.57:340][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.00:900][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.00:900][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.00:979][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.47.00:980][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.01:077][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.01:102][879]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.02.13-14.47.01:185][880]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.02.13-14.47.02:055][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.47.02:126][945]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.47.02:209][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.02:210][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.47.02:210][945]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:47:02 AM)
+[2020.02.13-14.47.02:210][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.47.02:365][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154761s)
+[2020.02.13-14.47.02:366][945]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.47.02:367][945]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2020.02.13-14.47.02:367][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.156350s)
+[2020.02.13-14.47.02:455][945]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.02.13-14.47.02:537][945]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.47.02:568][945]LogInit: FAudioDevice initialized.
+[2020.02.13-14.47.02:599][945]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.47.02:682][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.47.02
+[2020.02.13-14.47.02:687][945]LogWorld: Bringing up level for play took: 0.086420
+[2020.02.13-14.47.02:708][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.02:708][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.02:709][945]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.35
+[2020.02.13-14.47.02:709][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.14:630][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.14:630][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.14:704][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.47.14:704][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.14:802][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.14:830][364]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2020.02.13-14.47.14:899][365]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.02.13-14.47.20:540][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.47.57:060][536]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.47.57:143][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.57:143][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.47.57:143][536]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:47:57 AM)
+[2020.02.13-14.47.57:144][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.47.57:299][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155010s)
+[2020.02.13-14.47.57:300][536]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.47.57:300][536]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2020.02.13-14.47.57:301][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.156731s)
+[2020.02.13-14.47.57:395][536]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2020.02.13-14.47.57:477][536]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.47.57:508][536]LogInit: FAudioDevice initialized.
+[2020.02.13-14.47.57:522][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.57:561][536]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.47.57:624][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.47.57
+[2020.02.13-14.47.57:627][536]LogWorld: Bringing up level for play took: 0.064441
+[2020.02.13-14.47.57:651][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.57:651][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.57:657][536]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.298
+[2020.02.13-14.47.57:658][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.58:725][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.58:726][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.47.58:805][561]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.47.58:885][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.47.58:885][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.47.59:020][561]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.02.13-14.47.59:166][562]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.02.13-14.48.04:638][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.48.04:680][939]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.48.04:760][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.04:761][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.48.04:761][939]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:48:04 AM)
+[2020.02.13-14.48.04:761][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.48.04:919][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157113s)
+[2020.02.13-14.48.04:920][939]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.48.04:920][939]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2020.02.13-14.48.04:920][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.158794s)
+[2020.02.13-14.48.05:008][939]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2020.02.13-14.48.05:090][939]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.48.05:122][939]LogInit: FAudioDevice initialized.
+[2020.02.13-14.48.05:153][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.48.05:215][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.48.05
+[2020.02.13-14.48.05:220][939]LogWorld: Bringing up level for play took: 0.065032
+[2020.02.13-14.48.05:241][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.05:241][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.05:241][939]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.118
+[2020.02.13-14.48.05:242][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.06:436][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.06:436][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.06:517][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.48.06:517][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.06:621][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.06:645][987]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.02.13-14.48.06:708][988]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.02.13-14.48.09:034][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.48.14:584][410]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.48.14:664][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.14:664][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.48.14:664][410]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:48:14 AM)
+[2020.02.13-14.48.14:665][410]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.48.14:820][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154975s)
+[2020.02.13-14.48.14:821][410]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.48.14:822][410]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2020.02.13-14.48.14:822][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.156885s)
+[2020.02.13-14.48.14:917][410]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.02.13-14.48.14:998][410]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.48.15:030][410]LogInit: FAudioDevice initialized.
+[2020.02.13-14.48.15:043][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.15:081][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.48.15:139][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.48.15
+[2020.02.13-14.48.15:142][410]LogWorld: Bringing up level for play took: 0.059416
+[2020.02.13-14.48.15:163][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.15:163][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.15:167][410]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.192
+[2020.02.13-14.48.15:168][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.16:354][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.16:355][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.16:430][444]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.13-14.48.16:501][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.48.16:502][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.16:623][444]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.02.13-14.48.16:770][445]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.13-14.48.24:279][780]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.48.24:358][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.24:358][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.48.24:359][780]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:48:24 AM)
+[2020.02.13-14.48.24:359][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.48.24:519][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159578s)
+[2020.02.13-14.48.24:520][780]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.48.24:521][780]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2020.02.13-14.48.24:521][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.162035s)
+[2020.02.13-14.48.24:621][780]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2020.02.13-14.48.24:712][780]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.48.24:745][780]LogInit: FAudioDevice initialized.
+[2020.02.13-14.48.24:785][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.48.24:850][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.48.24
+[2020.02.13-14.48.24:853][780]LogWorld: Bringing up level for play took: 0.066740
+[2020.02.13-14.48.24:874][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.24:874][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.24:875][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.515
+[2020.02.13-14.48.24:875][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.27:343][853]Set new viewmode: Wireframe
+[2020.02.13-14.48.38:067][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.48.57:776][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.57:777][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.57:842][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.48.57:843][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.48.57:951][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.48.57:978][  6]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2020.02.13-14.48.58:166][  7]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.13-14.49.12:824][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.49.12:849][560]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.49.12:930][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.12:930][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.49.12:930][560]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:49:12 AM)
+[2020.02.13-14.49.12:931][560]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.49.13:093][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161332s)
+[2020.02.13-14.49.13:093][560]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.49.13:094][560]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2020.02.13-14.49.13:094][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.162875s)
+[2020.02.13-14.49.13:189][560]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.02.13-14.49.13:277][560]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.49.13:310][560]LogInit: FAudioDevice initialized.
+[2020.02.13-14.49.13:341][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.49.13:401][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.49.13
+[2020.02.13-14.49.13:405][560]LogWorld: Bringing up level for play took: 0.062413
+[2020.02.13-14.49.13:426][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.13:426][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.13:426][560]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.067
+[2020.02.13-14.49.13:427][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.18:520][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.18:521][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.18:611][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.49.18:612][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.18:705][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.18:729][728]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.02.13-14.49.18:921][729]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.13-14.49.19:706][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.49.32:789][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.49.32:873][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.32:873][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.49.32:875][233]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2020.02.13-14.49.32:878][233]LogPlayLevel: [PlayLevel]   Compiling Enemy_Alien_Soldier as a dependent...
+[2020.02.13-14.49.33:788][233]LogUObjectHash: Compacting FUObjectHashTables data took  14.58ms
+[2020.02.13-14.49.33:789][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 915 ms (2 blueprints)
+[2020.02.13-14.49.33:789][233]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:49:33 AM)
+[2020.02.13-14.49.33:790][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.49.33:953][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163801s)
+[2020.02.13-14.49.33:953][233]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.49.33:954][233]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2020.02.13-14.49.33:954][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.165428s)
+[2020.02.13-14.49.34:049][233]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2020.02.13-14.49.34:130][233]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.49.34:162][233]LogInit: FAudioDevice initialized.
+[2020.02.13-14.49.34:207][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.49.34:265][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.49.34
+[2020.02.13-14.49.34:268][233]LogWorld: Bringing up level for play took: 0.060107
+[2020.02.13-14.49.34:287][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.34:287][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.34:288][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.929
+[2020.02.13-14.49.34:289][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.36:293][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.36:294][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.36:367][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.49.36:368][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.36:473][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.36:497][297]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.02.13-14.49.36:576][298]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.02.13-14.49.37:919][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.49.37:997][353]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.49.38:104][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.38:104][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.49.38:104][353]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:49:38 AM)
+[2020.02.13-14.49.38:105][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.49.38:257][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152483s)
+[2020.02.13-14.49.38:258][353]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.49.38:259][353]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2020.02.13-14.49.38:259][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.154279s)
+[2020.02.13-14.49.38:353][353]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2020.02.13-14.49.38:435][353]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.49.38:466][353]LogInit: FAudioDevice initialized.
+[2020.02.13-14.49.38:497][353]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.49.38:555][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.49.38
+[2020.02.13-14.49.38:559][353]LogWorld: Bringing up level for play took: 0.059608
+[2020.02.13-14.49.38:577][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.38:577][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.38:578][353]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.219
+[2020.02.13-14.49.38:579][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.41:306][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.41:307][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.41:374][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.49.41:375][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.41:475][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.41:500][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2020.02.13-14.49.41:666][451]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.02.13-14.49.42:199][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.49.46:590][638]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.49.46:669][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.46:669][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.49.46:669][638]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:49:46 AM)
+[2020.02.13-14.49.46:670][638]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.49.46:824][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153598s)
+[2020.02.13-14.49.46:825][638]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.49.46:825][638]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.02.13-14.49.46:826][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.155212s)
+[2020.02.13-14.49.46:914][638]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.02.13-14.49.46:999][638]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.49.47:032][638]LogInit: FAudioDevice initialized.
+[2020.02.13-14.49.47:076][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.49.47:140][638]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.49.47
+[2020.02.13-14.49.47:145][638]LogWorld: Bringing up level for play took: 0.067065
+[2020.02.13-14.49.47:164][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.47:165][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.47:165][638]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.194
+[2020.02.13-14.49.47:166][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.47:220][639]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053533 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.02.13-14.49.49:245][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.49:245][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.49:322][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.49.49:323][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.49.49:415][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.49.49:440][713]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2020.02.13-14.49.49:606][714]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.02.13-14.49.50:541][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.50.00:033][110]BlueprintLog: New page: Compile Enemy_Alien_Soldier
+[2020.02.13-14.50.00:893][110]LogUObjectHash: Compacting FUObjectHashTables data took  12.75ms
+[2020.02.13-14.54.36:219][ 37]LogUObjectHash: Compacting FUObjectHashTables data took  14.68ms
+[2020.02.13-14.54.38:628][ 37]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Warped_Quarters_Mutant_Auto288A377504CF4FBCAFB218C92F5435A5E.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Maps/Warped_Quarters_Mutant_Auto2.umap'
+[2020.02.13-14.54.38:634][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Warped_Quarters_Mutant' took 2.523
+[2020.02.13-14.54.38:634][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.523
+[2020.02.13-14.54.38:640][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier] ([1] browsable assets)...
+[2020.02.13-14.54.38:690][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier.Enemy_Alien_Soldier]
+[2020.02.13-14.54.38:691][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier]
+[2020.02.13-14.54.38:886][ 37]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Enemy_Alien_Soldier_Auto20D49356C480C51D85CD36C82C54B4244.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier_Auto2.uasset'
+[2020.02.13-14.54.38:888][ 37]LogFileHelpers: Auto-saving content packages took 0.249
+[2020.02.13-14.54.50:973][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.56.13:414][396]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Element not found.]
+[2020.02.13-14.56.19:930][478]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.56.20:067][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.20:068][478]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.56.20:071][478]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2020.02.13-14.56.20:073][478]LogPlayLevel: [PlayLevel]   Compiling Enemy_Alien_Soldier as a dependent...
+[2020.02.13-14.56.21:038][478]LogUObjectHash: Compacting FUObjectHashTables data took  15.84ms
+[2020.02.13-14.56.21:038][478]LogPlayLevel: PlayLevel: Blueprint regeneration took 971 ms (2 blueprints)
+[2020.02.13-14.56.21:039][478]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:56:21 AM)
+[2020.02.13-14.56.21:039][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.56.21:232][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192623s)
+[2020.02.13-14.56.21:233][478]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.56.21:234][478]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2020.02.13-14.56.21:234][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.194745s)
+[2020.02.13-14.56.21:337][478]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2020.02.13-14.56.21:421][478]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.56.21:455][478]LogInit: FAudioDevice initialized.
+[2020.02.13-14.56.21:499][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.56.21:560][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.56.21
+[2020.02.13-14.56.21:563][478]LogWorld: Bringing up level for play took: 0.062682
+[2020.02.13-14.56.21:583][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.21:583][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.21:584][478]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 2.225
+[2020.02.13-14.56.21:585][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.22:372][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.22:373][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.22:422][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.56.22:423][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.22:522][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.22:547][496]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2020.02.13-14.56.22:605][497]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.02.13-14.56.23:226][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.56.25:117][582]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.25:367][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.26:222][607]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.26:477][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.27:086][625]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.27:325][625]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.27:822][644]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.56.28:089][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.28:604][659]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.28:868][659]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.29:528][679]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.29:792][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.30:455][698]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.30:726][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.31:364][717]LogEditorTransaction: Undo Add Node
+[2020.02.13-14.56.31:629][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.32:360][740]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.32:627][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.33:191][757]LogEditorTransaction: Undo Create Pin Link
+[2020.02.13-14.56.33:465][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.34:042][774]LogEditorTransaction: Undo Move Node
+[2020.02.13-14.56.34:310][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.34:906][792]LogEditorTransaction: Undo Delete current selection
+[2020.02.13-14.56.35:208][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-14.56.58:031][499]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.56.58:151][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.58:151][499]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.13-14.56.58:154][499]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2020.02.13-14.56.58:156][499]LogPlayLevel: [PlayLevel]   Compiling Enemy_Alien_Soldier as a dependent...
+[2020.02.13-14.56.59:077][499]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2020.02.13-14.56.59:077][499]LogPlayLevel: PlayLevel: Blueprint regeneration took 925 ms (2 blueprints)
+[2020.02.13-14.56.59:077][499]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:56:59 AM)
+[2020.02.13-14.56.59:078][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.56.59:233][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155819s)
+[2020.02.13-14.56.59:234][499]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.56.59:234][499]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2020.02.13-14.56.59:234][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.157336s)
+[2020.02.13-14.56.59:326][499]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.02.13-14.56.59:408][499]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.56.59:441][499]LogInit: FAudioDevice initialized.
+[2020.02.13-14.56.59:481][499]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.56.59:542][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.56.59
+[2020.02.13-14.56.59:545][499]LogWorld: Bringing up level for play took: 0.062747
+[2020.02.13-14.56.59:564][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.59:565][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.56.59:565][499]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 2.206
+[2020.02.13-14.56.59:566][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.56.59:711][500]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055620 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2020.02.13-14.57.03:021][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-14.57.08:757][681]LogSlate: Window 'Enemy_Alien_Soldier' being destroyed
+[2020.02.13-14.57.11:452][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.11:453][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.11:523][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.57.11:523][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.11:623][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.11:649][787]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2020.02.13-14.57.11:683][788]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.02.13-14.57.12:488][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.57.20:796][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-14.57.20:910][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.20:910][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-14.57.20:910][ 42]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 13, 2020, 4:57:20 AM)
+[2020.02.13-14.57.20:911][ 42]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.13-14.57.21:068][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157201s)
+[2020.02.13-14.57.21:069][ 42]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.13-14.57.21:070][ 42]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.02.13-14.57.21:070][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.158728s)
+[2020.02.13-14.57.21:164][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2020.02.13-14.57.21:259][ 42]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-14.57.21:291][ 42]LogInit: FAudioDevice initialized.
+[2020.02.13-14.57.21:327][ 42]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-14.57.21:386][ 42]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.13-09.57.21
+[2020.02.13-14.57.21:391][ 42]LogWorld: Bringing up level for play took: 0.061813
+[2020.02.13-14.57.21:410][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.21:411][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.21:411][ 42]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 0.052
+[2020.02.13-14.57.21:412][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.26:553][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.26:553][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.26:646][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-14.57.26:647][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.13-14.57.26:753][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-14.57.26:777][218]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2020.02.13-14.57.26:952][219]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.13-14.57.29:404][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.57.29:876][332]LogSlate: Window 'Enemy_Alien_Soldier' being destroyed
+[2020.02.13-14.57.32:045][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-14.57.32:185][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.13-14.57.32:948][455]LogSlate: Window 'Save Content' being destroyed
+[2020.02.13-14.57.33:102][455]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.02.13-14.57.33:964][455]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/TestingE78199F04E4E2897696630BFFC7A6DC2.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/Maps/Testing.umap'
+[2020.02.13-14.57.33:983][455]LogFileHelpers: Saving map 'Testing' took 1.001
+[2020.02.13-14.57.34:094][455]LogUObjectHash: Compacting FUObjectHashTables data took   9.63ms
+[2020.02.13-14.57.36:834][455]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Warped_Quarters_Mutant3A829977476E1094017206BBD9A2A5F7.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/Maps/Warped_Quarters_Mutant.umap'
+[2020.02.13-14.57.37:083][455]LogFileHelpers: Saving map 'Warped_Quarters_Mutant' took 3.095
+[2020.02.13-14.57.37:346][455]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/Enemy_Alien_Soldier8C69510A482750FCC8E20C98266F87FC.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/ThirdPersonBP/Blueprints/Enemy/Enemy_Alien_Soldier.uasset'
+[2020.02.13-14.57.37:690][455]LogSavePackage: Moving '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Saved/ThirdPersonCharacterD53580714C03A0F00229428E457DE859.tmp' to '../../../../../Git/GitHub/Unreal Projects/HorrorGame RnD 2019-2020/HorrorGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.13-14.57.39:249][455]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.13-14.57.39:340][455]LogSlate: Window 'Horror_Game - Unreal Editor' being destroyed
+[2020.02.13-14.57.39:341][455]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.13-14.57.39:650][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.02.13-14.57.39:789][456]Cmd: QUIT_EDITOR
+[2020.02.13-14.57.40:141][456]LogExit: Preparing to exit.
+[2020.02.13-14.57.41:137][456]LogExit: Editor shut down
+[2020.02.13-14.57.41:137][456]LogExit: Transaction tracking system shut down
+[2020.02.13-14.57.41:705][456]LogExit: Object subsystem successfully closed.
+[2020.02.13-14.57.41:749][456]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.13-14.57.41:761][456]LogD3D11RHI: Shutdown
+[2020.02.13-14.57.41:761][456]LogD3D11RHI: CleanupD3DDevice
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-14.57.41:762][456]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-14.57.42:399][456]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.13-14.57.42:430][456]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (660)
+[2020.02.13-14.57.42:430][456]LogModuleManager: Shutting down and abandoning module Voice (658)
+[2020.02.13-14.57.42:430][456]LogModuleManager: Shutting down and abandoning module PinnedCommandList (656)
+[2020.02.13-14.57.42:430][456]LogModuleManager: Shutting down and abandoning module SkeletonEditor (654)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module AnimationEditor (652)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (648)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (646)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2020.02.13-14.57.42:431][456]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2020.02.13-14.57.42:432][456]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2020.02.13-14.57.42:433][456]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2020.02.13-14.57.42:434][456]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2020.02.13-14.57.42:435][456]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2020.02.13-14.57.43:208][456]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2020.02.13-14.57.43:209][456]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2020.02.13-14.57.43:254][456]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2020.02.13-14.57.43:255][456]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2020.02.13-14.57.43:255][456]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2020.02.13-14.57.43:282][456]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2020.02.13-14.57.43:283][456]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2020.02.13-14.57.43:283][456]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2020.02.13-14.57.43:283][456]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2020.02.13-14.57.43:283][456]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2020.02.13-14.57.43:284][456]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2020.02.13-14.57.43:285][456]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2020.02.13-14.57.43:285][456]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2020.02.13-14.57.43:285][456]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2020.02.13-14.57.43:285][456]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2020.02.13-14.57.43:285][456]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2020.02.13-14.57.43:290][456]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2020.02.13-14.57.43:476][456]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (372)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (370)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (368)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.02.13-14.57.43:477][456]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2020.02.13-14.57.43:478][456]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module ActorSequence (288)
+[2020.02.13-14.57.43:479][456]LogModuleManager: Shutting down and abandoning module UdpMessaging (286)
+[2020.02.13-14.57.43:580][456]LogModuleManager: Shutting down and abandoning module TcpMessaging (284)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (282)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (280)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (278)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (276)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapController (274)
+[2020.02.13-14.57.43:681][456]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module MagicLeapAR (272)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module AugmentedReality (271)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2020.02.13-14.57.43:681][456]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2020.02.13-14.57.43:682][456]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2020.02.13-14.57.43:683][456]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2020.02.13-14.57.43:683][456]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2020.02.13-14.57.43:683][456]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2020.02.13-14.57.43:683][456]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2020.02.13-14.57.43:684][456]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module AnimationSharing (244)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module AISupportModule (240)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (234)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (220)
+[2020.02.13-14.57.43:686][456]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.02.13-14.57.43:687][456]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module UnrealEd (188)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2020.02.13-14.57.43:690][456]LogModuleManager: Shutting down and abandoning module Core (176)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (169)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (167)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.02.13-14.57.43:691][456]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2020.02.13-14.57.43:759][456]LogDerivedDataCache: Shutdown
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2020.02.13-14.57.43:759][456]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2020.02.13-14.57.43:760][456]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2020.02.13-14.57.43:761][456]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.02.13-14.57.43:761][456]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.02.13-14.57.43:762][456]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.02.13-14.57.43:762][456]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.02.13-14.57.43:762][456]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.02.13-14.57.43:763][456]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.02.13-14.57.43:763][456]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.02.13-14.57.43:764][456]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.02.13-14.57.43:764][456]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.02.13-14.57.43:774][456]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (101)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (99)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (97)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (95)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (93)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (91)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (89)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (87)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (85)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module InputCore (82)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module Settings (80)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (78)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module PhysXCooking (76)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module SteamVR (74)
+[2020.02.13-14.57.43:775][456]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module OculusHMD (72)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (70)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2020.02.13-14.57.43:775][456]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (66)
+[2020.02.13-14.57.43:776][456]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
+[2020.02.13-14.57.43:777][456]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.13-14.57.43:777][456]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.13-14.57.43:785][456]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.13-14.57.43:785][456]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.02.13-14.57.43:785][456]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6673D0C-45EF-2130-D9D9-F68BDB1E1ADA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=0c6049884ba95836bf5f29b9b5bc0793%7C6ca0b73ba31d4c2080aece94ca7e163f%7Cf0c54d22-ed76-4069-8d78-b2f065824aef&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.13-14.57.43:785][456]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6673D0C-45EF-2130-D9D9-F68BDB1E1ADA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=0c6049884ba95836bf5f29b9b5bc0793%7C6ca0b73ba31d4c2080aece94ca7e163f%7Cf0c54d22-ed76-4069-8d78-b2f065824aef&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.13-14.57.43:792][456]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.13-14.57.43:794][456]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.13-14.57.43:796][456]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.13-14.57.43:804][456]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.13-14.57.43:804][456]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.13-14.57.43:805][456]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.13-14.57.43:806][456]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.13-14.57.43:808][456]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.13-14.57.43:823][456]LogExit: Exiting.
+[2020.02.13-14.57.43:869][456]Log file closed, 02/13/20 09:57:43
