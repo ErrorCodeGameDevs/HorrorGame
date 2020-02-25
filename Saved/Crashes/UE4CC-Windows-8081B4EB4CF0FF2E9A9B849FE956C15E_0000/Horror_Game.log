@@ -1,0 +1,1287 @@
+﻿Log file open, 02/25/20 10:36:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Horror_Game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286232
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertFrontend
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Found config from plugin[ConcertSyncCore] C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:370][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:373][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-15.36.49:374][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-15.36.49:374][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.25-15.36.49:472][  0]LogHAL: Display: Platform has ~ 16 GB [17106104320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.25-15.36.49:472][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.25-15.36.49:472][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.25-15.36.49:472][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Scalability.ini]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.25-15.36.49:473][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Config/Windows/Engine.ini]
+[2020.02.25-15.36.49:473][  0]LogInit: Computer: GUL-HS-GAMESD01
+[2020.02.25-15.36.49:473][  0]LogInit: User: 02kadenseeger
+[2020.02.25-15.36.49:473][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.02.25-15.36.49:473][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.25-15.36.49:473][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.25-15.36.49:473][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.25-15.36.49:473][  0]LogMemory: Process Physical Memory: 103.02 MB used, 103.02 MB peak
+[2020.02.25-15.36.49:473][  0]LogMemory: Process Virtual Memory: 90.56 MB used, 90.56 MB peak
+[2020.02.25-15.36.49:473][  0]LogMemory: Physical Memory: 4812.31 MB used,  11501.34 MB free, 16313.65 MB total
+[2020.02.25-15.36.49:473][  0]LogMemory: Virtual Memory: 4665.55 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.02.25-15.36.49:484][  0]LogInit: Using OS detected language (en-US).
+[2020.02.25-15.36.49:484][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.25-15.36.49:485][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.25-15.36.49:595][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.25-15.36.49:613][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.25-15.36.49:613][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.25-15.36.49:725][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-15.36.49:725][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.25-15.36.49:779][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.02.25-15.36.49:779][  0]LogD3D11RHI:       5991/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.25-15.36.49:780][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.25-15.36.49:780][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.25-15.36.49:780][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.25-15.36.49:785][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.25-15.36.49:785][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.25-15.36.49:785][  0]LogWindows: EnumDisplayDevices:
+[2020.02.25-15.36.49:786][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2020.02.25-15.36.49:786][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2020.02.25-15.36.49:786][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.25-15.36.49:786][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.25-15.36.49:786][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.25-15.36.49:786][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.02.25-15.36.49:786][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2020.02.25-15.36.49:786][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2020.02.25-15.36.49:786][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.02.25-15.36.49:821][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.25-15.36.49:823][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-15.36.49:823][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-15.36.49:823][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.25-15.36.49:830][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.25-15.36.50:066][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.25-15.36.50:076][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.25-15.36.50:086][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.25-15.36.50:095][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.25-15.36.50:105][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.25-15.36.50:115][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.25-15.36.50:125][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.25-15.36.50:135][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.25-15.36.50:140][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.25-15.36.50:200][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.25-15.36.50:201][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.25-15.36.50:242][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.25-15.36.50:242][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.25-15.36.50:260][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.25-15.36.50:260][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.25-15.36.50:269][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.25-15.36.50:278][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.25-15.36.50:287][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.25-15.36.50:296][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.25-15.36.50:329][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.25-15.36.50:329][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.25-15.36.50:329][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.25-15.36.50:334][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.25-15.36.50:364][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Intermediate/Shaders/WorkingDirectory/12284/).
+[2020.02.25-15.36.50:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/02kaden.seeger/AppData/Local/Temp/UnrealShaderWorkingDir/4A90CBBA41921F49C99134B32A7BD09C/'.
+[2020.02.25-15.36.50:365][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.25-15.36.50:365][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.25-15.36.50:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.25-15.36.50:769][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-15.36.50:810][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.25-15.36.50:820][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.25-15.36.50:820][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.25-15.36.50:820][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.25-15.36.50:832][  0]LogDerivedDataCache: Using Local data cache path C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.25-15.36.50:832][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.25-15.36.50:832][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.25-15.36.50:848][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.25-15.36.50:849][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.25-15.36.50:849][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.25-15.36.50:914][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2020.02.25-15.36.51:152][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.25-15.36.51:248][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.25-15.36.51:248][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.25-15.36.51:248][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.25-15.36.51:248][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.25-15.36.51:248][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.25-15.36.51:255][  0]LogNetVersion: Horror_Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 364352182)
+[2020.02.25-15.36.51:580][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.032240 seconds
+[2020.02.25-15.36.51:585][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2020.02.25-15.36.51:585][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2020.02.25-15.36.51:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.25-15.36.52:178][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.25-15.36.52:191][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.25-15.36.52:309][  0]SourceControl: Source control is disabled
+[2020.02.25-15.36.52:309][  0]SourceControl: Source control is disabled
+[2020.02.25-15.36.52:310][  0]SourceControl: Source control is disabled
+[2020.02.25-15.36.52:311][  0]SourceControl: Source control is disabled
+[2020.02.25-15.36.52:316][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.25-15.36.52:316][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.25-15.36.52:404][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.25-15.36.52:458][  0]LogOcInput: OculusInput pre-init called
+[2020.02.25-15.36.52:935][  0]LogEngine: Initializing Engine...
+[2020.02.25-15.36.52:936][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.25-15.36.52:937][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.25-15.36.53:096][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.25-15.36.53:105][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.25-15.36.53:149][  0]LogInit: XAudio2 using 'Headset Earphone (2- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-15.36.53:165][  0]LogInit: FAudioDevice initialized.
+[2020.02.25-15.36.53:165][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.25-15.36.53:210][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/02kaden.seeger/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.25-15.36.53:217][  0]LogInit: Texture streaming: Enabled
+[2020.02.25-15.36.53:231][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.25-15.36.53:244][  0]LogInit: Transaction tracking system initialized
+[2020.02.25-15.36.53:258][  0]BlueprintLog: New page: Editor Load
+[2020.02.25-15.36.53:317][  0]LocalizationService: Localization service is disabled
+[2020.02.25-15.36.53:416][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.25-15.36.53:416][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.25-15.36.53:535][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.25-15.36.53:535][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.25-15.36.53:653][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/' took 0.02s
+[2020.02.25-15.36.53:653][  0]SourceControl: Source control is disabled
+[2020.02.25-15.36.53:653][  0]Cmd: MAP LOAD FILE="../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Maps/Menus.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-15.36.53:654][  0]LightingResults: New page: Lighting Build
+[2020.02.25-15.36.53:655][  0]MapCheck: New page: Map Check
+[2020.02.25-15.36.53:655][  0]LightingResults: New page: Lighting Build
+[2020.02.25-15.36.53:676][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.25-15.36.53:777][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Invalid property 'attachedWepon' class, replaced with Object.  Please fix or remove.
+[2020.02.25-15.36.53:805][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Invalid property 'attachedWepon' class, replaced with Object.  Please fix or remove.
+[2020.02.25-15.36.53:837][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0007.63] Compile of ThirdPersonCharacter successful, but with 2 Warning(s) [in 62 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2020.02.25-15.36.54:161][  0]LogAIModule: Creating AISystem for world Menus
+[2020.02.25-15.36.54:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-15.36.54:205][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.25-15.36.54:205][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-15.36.54:205][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.02.25-15.36.54:205][  0]LogFileHelpers: Loading map 'Menus' took 0.552
+[2020.02.25-15.36.54:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.36.54:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.36.54:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.36.54:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-15.36.54:331][  0]LogCollectionManager: Loaded 0 collections in 0.000996 seconds
+[2020.02.25-15.36.54:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Collections/' took 0.01s
+[2020.02.25-15.36.54:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Developers/02kadenseeger/Collections/' took 0.00s
+[2020.02.25-15.36.54:346][  0]LogFileCache: Scanning file cache for directory 'C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Collections/' took 0.00s
+[2020.02.25-15.36.54:346][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.25-15.36.54:352][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2751 classes and 678 folders.
+[2020.02.25-15.36.54:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.25-15.36.54:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.25-15.36.54:381][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.25-15.36.54:385][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.25-15.36.54:433][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.25-15.36.54:435][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.25-15.36.54:437][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.25-15.36.54:485][  0]LogRenderer: Reallocating scene render targets to support 1168x700 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-15.36.54:622][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.25-15.36.54:622][  0]LogLoad: (Engine Initialization) Total time: 8.42 seconds
+[2020.02.25-15.36.54:622][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.25-15.36.54:720][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.25-15.36.54:754][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-15.36.55:707][104]LogStaticMesh: Building static mesh Key_Drawer...
+[2020.02.25-15.36.55:708][104]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.25-15.36.55:712][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-15.36.55:805][104]LogStaticMesh: Built static mesh [0.10s] /Game/Opening_Things/Key_System/Key_Drawer.Key_Drawer
+[2020.02.25-15.36.55:850][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-15.36.55:852][104]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Key_System/Key_Open.Key_Open
+[2020.02.25-15.36.55:980][104]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.02.25-15.36.56:597][104]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-15.36.56:597][104]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-15.36.56:598][104]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-15.36.56:623][104]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.25-15.36.56:702][105]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.25-15.36.59:760][433]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/' took 5.11s
+[2020.02.25-15.37.02:964][789]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.25-15.37.03:107][805]LogAssetRegistry: Asset discovery search completed in 12.2142 seconds
+[2020.02.25-15.37.03:109][805]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.02.25-15.37.04:179][929]LogSlate: Window 'Key_Open' being destroyed
+[2020.02.25-15.37.04:575][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 0 (  Trying 52.86.70.22...)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.70.22) port 443 (#0))
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: 000001B880256E80: libcurl info message cache 7 (Closing connection 0)
+[2020.02.25-15.37.55:404][ 74]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.38.19:050][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-15.38.19:208][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Key_System/Big_Key.Big_Key
+[2020.02.25-15.38.20:393][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:393][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:393][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End  is deprecated; Please use GetEndTime instead
+[2020.02.25-15.38.20:408][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:409][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Play Dialogue with Sequence  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:409][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Play Dialogue with Sequence  is deprecated; Please use GetEndTime instead
+[2020.02.25-15.38.20:419][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:419][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Set Playback Position generated from expanding Is Interacted?  is deprecated; Please use PlayToFrame instead
+[2020.02.25-15.38.20:419][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] Get Playback End generated from expanding Is Interacted?  is deprecated; Please use GetEndTime instead
+[2020.02.25-15.38.20:620][919]LogBlueprint: Warning: [Compiler BP_BaseCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.02.25-15.38.21:712][919]LogBlueprint: Warning: [Compiler BP_Mission_Component] [0095.50] Compile of BP_Mission_Component successful, but with 9 Warning(s) [in 1,737 ms] (/Game/AdvancedMissionSys/ProjectFiles/Blueprints/Player/BP_Mission_Component.BP_Mission_Component)
+[2020.02.25-15.38.21:712][919]LogBlueprint: Warning: [Compiler BP_BaseCharacter] [0095.50] Compile of BP_BaseCharacter successful, but with 1 Warning(s) [in 1,737 ms] (/Game/AdvancedMissionSys/ProjectFiles/Blueprints/Player/BP_BaseCharacter.BP_BaseCharacter)
+[2020.02.25-15.38.21:968][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:970][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:971][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:971][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:973][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:973][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:974][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:974][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:974][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:975][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:975][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:976][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:976][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:976][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:977][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:977][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:977][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:977][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:977][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:979][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:979][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:979][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:980][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:981][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:981][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:982][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:983][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Blade_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:984][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:984][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:986][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:986][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:986][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:987][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:988][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:988][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:988][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:989][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:990][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:990][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:990][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:991][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:992][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:992][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:992][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:993][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:994][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:994][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:994][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:995][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:996][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:996][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:996][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:997][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:998][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:998][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:999][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.21:999][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:000][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:000][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:001][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:001][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:002][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:002][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:003][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:003][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:004][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:004][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:005][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:005][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:006][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:006][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:007][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:007][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:008][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:008][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:009][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:009][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:010][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:010][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:011][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:011][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:013][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:013][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:014][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:014][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:015][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:015][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:016][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:017][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:017][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:018][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:018][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:019][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:019][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:020][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:020][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:021][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:021][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:022][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:022][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:023][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:023][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:024][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:024][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:025][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:025][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:026][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:026][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:026][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:027][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:027][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:027][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:027][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:027][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:028][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:028][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:029][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:029][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:029][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:030][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:030][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:031][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_012.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:031][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:031][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:032][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:032][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:033][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_013.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:033][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:033][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:034][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:034][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:035][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/sword_pommel_014.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:035][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:036][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:036][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:037][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:037][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:037][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:038][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:038][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:039][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:039][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:040][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:040][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:040][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:041][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:041][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:042][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:042][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:042][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:043][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:043][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:044][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:044][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:044][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:045][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:045][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:046][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:046][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:046][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:047][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:047][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:047][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:048][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:048][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:049][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:049][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:049][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:050][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:050][919]LogLinker: Warning: Asset '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/ModularWeapons/Materials/MI_Sword_Pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.02.25-15.38.22:157][919]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MaterialSlot.MaterialSlot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.25-15.38.22:265][919]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MeleeCollisionType.MeleeCollisionType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.25-15.39.30:275][920]LogSlate: Took 0.004034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.25-15.39.44:834][648]BlueprintLog: New page: Compile Key_Open
+[2020.02.25-15.39.45:112][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 1 (  Trying 50.17.106.84...)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (50.17.106.84) port 443 (#1))
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 8 (Closing connection 1)
+[2020.02.25-15.39.55:482][876]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 1 (  Trying 52.204.199.110...)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.204.199.110) port 443 (#2))
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.41.55:558][273]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 8 (Closing connection 2)
+[2020.02.25-15.41.55:567][274]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 1 (  Trying 34.197.237.78...)
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.197.237.78) port 443 (#3))
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.43.55:667][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.43.55:668][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.43.55:668][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.43.55:668][670]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 8 (Closing connection 3)
+[2020.02.25-15.43.55:668][670]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 1 (  Trying 3.226.55.227...)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.226.55.227) port 443 (#4))
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.45.55:809][ 69]LogHttp: Warning: 000001B88DABAC00: libcurl info message cache 8 (Closing connection 4)
+[2020.02.25-15.45.55:818][ 70]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.46.55:484][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.25-15.46.55:484][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menus' took 0.032
+[2020.02.25-15.46.55:485][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Opening_Things/Key_System/Key_Open] ([1] browsable assets)...
+[2020.02.25-15.46.55:505][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Opening_Things/Key_System/Key_Open.Key_Open]
+[2020.02.25-15.46.55:505][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Opening_Things/Key_System/Key_Open]
+[2020.02.25-15.46.55:552][210]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Key_Open_Auto1D0C4BF6A45DDE49348325089C589DD71.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Opening_Things/Key_System/Key_Open_Auto1.uasset'
+[2020.02.25-15.46.55:553][210]LogFileHelpers: Auto-saving content packages took 0.069
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 34.232.229.224...)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.232.229.224) port 443 (#5))
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 5)
+[2020.02.25-15.47.55:910][210]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 52.205.241.63...)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.205.241.63) port 443 (#6))
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 6)
+[2020.02.25-15.49.56:023][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 54.208.9.142...)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.208.9.142) port 443 (#7))
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.51.56:110][709]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 7)
+[2020.02.25-15.51.56:118][710]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 3.232.217.203...)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.232.217.203) port 443 (#8))
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.53.56:214][ 98]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 8)
+[2020.02.25-15.53.56:215][ 98]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 3.94.140.213...)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.94.140.213) port 443 (#9))
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.55.56:318][497]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 9)
+[2020.02.25-15.55.56:327][498]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 3.82.255.212...)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.82.255.212) port 443 (#10))
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 10)
+[2020.02.25-15.57.56:442][898]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 34.239.213.224...)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.239.213.224) port 443 (#11))
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 11)
+[2020.02.25-15.59.56:540][294]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 52.73.243.175...)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.73.243.175) port 443 (#12))
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 12)
+[2020.02.25-16.01.56:689][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 54.87.181.63...)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.87.181.63) port 443 (#13))
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.03.56:788][987]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 13)
+[2020.02.25-16.03.56:797][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 1 (  Trying 54.87.181.63...)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.87.181.63) port 443 (#14))
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.05.56:889][385]LogHttp: Warning: 000001B86CC91800: libcurl info message cache 8 (Closing connection 14)
+[2020.02.25-16.05.56:897][386]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 1 (  Trying 34.197.129.254...)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.197.129.254) port 443 (#15))
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.07.57:018][720]LogHttp: Warning: 000001B88DAE5E40: libcurl info message cache 8 (Closing connection 15)
+[2020.02.25-16.07.57:019][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.09.46:050][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.25-16.09.46:050][687]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menus' took 0.031
+[2020.02.25-16.09.46:051][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Opening_Things/Key_System/Big_Key] ([1] browsable assets)...
+[2020.02.25-16.09.46:062][687]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Opening_Things/Key_System/Big_Key.Big_Key]
+[2020.02.25-16.09.46:063][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Opening_Things/Key_System/Big_Key]
+[2020.02.25-16.09.46:106][687]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Big_Key_Auto29AB14C554E3E47746592B1B888A178E1.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Opening_Things/Key_System/Big_Key_Auto2.uasset'
+[2020.02.25-16.09.46:107][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Opening_Things/Key_System/Key_Open] ([1] browsable assets)...
+[2020.02.25-16.09.46:118][687]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Opening_Things/Key_System/Key_Open.Key_Open]
+[2020.02.25-16.09.46:118][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Opening_Things/Key_System/Key_Open]
+[2020.02.25-16.09.46:168][687]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Key_Open_Auto21425067546330DDAA662C2A5025F2DAA.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Autosaves/Game/Opening_Things/Key_System/Key_Open_Auto2.uasset'
+[2020.02.25-16.09.46:169][687]LogFileHelpers: Auto-saving content packages took 0.118
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 1 (  Trying 34.196.69.246...)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.196.69.246) port 443 (#16))
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.09.57:128][977]LogHttp: Warning: 000001B812A534C0: libcurl info message cache 8 (Closing connection 16)
+[2020.02.25-16.09.57:137][978]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 1 (  Trying 54.86.42.229...)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.86.42.229) port 443 (#17))
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.11.57:328][545]LogHttp: Warning: 000001B8128F3240: libcurl info message cache 8 (Closing connection 17)
+[2020.02.25-16.11.57:336][546]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.13.09:413][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.02.25-16.13.09:413][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.02.25-16.13.09:423][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.02.25-16.13.09:423][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.02.25-16.13.09:621][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.02.25-16.13.09:621][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.02.25-16.13.09:621][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.02.25-16.13.09:621][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.02.25-16.13.09:699][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Cladding_01_RMA'
+[2020.02.25-16.13.09:699][151]LoadErrors: Failed to load /Game/HousingPack02/Textures/T_Cladding_01_RMA.T_Cladding_01_RMA Referenced by MI_Cladding_01
+[2020.02.25-16.13.09:700][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Cladding_01_RMA' while loading NULL.
+[2020.02.25-16.13.09:744][151]LogLinker: Warning: Can't find file '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01'
+[2020.02.25-16.13.09:744][151]LoadErrors: Failed to load /Game/HousingPack02/Textures/T_Lighting_Fixtures_01.T_Lighting_Fixtures_01 Referenced by MI_Lighting_Fixtures_01
+[2020.02.25-16.13.09:745][151]LogLinker: Warning: Can't find file for asset '/Game/HousingPack02/Textures/T_Lighting_Fixtures_01' while loading NULL.
+[2020.02.25-16.13.09:909][151]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.25-16.13.09:956][151]LogBlueprintUserMessages: [ModularWeapon81] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:958][151]LogBlueprintUserMessages: [ModularWeapon82] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:959][151]LogBlueprintUserMessages: [ModularWeapon83] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:961][151]LogBlueprintUserMessages: [ModularWeapon84] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:962][151]LogBlueprintUserMessages: [ModularWeapon85] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:964][151]LogBlueprintUserMessages: [ModularWeapon86] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.09:973][151]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant
+[2020.02.25-16.13.10:010][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.25-16.13.11:418][151]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-16.13.11:461][151]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Big_Key0E97510C463F640C6B66579501FCFB03.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Opening_Things/Key_System/Big_Key.uasset'
+[2020.02.25-16.13.11:521][151]LogSavePackage: Moving '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Saved/Key_Open4F0082FE4EF1126E536EFC88E9261A15.tmp' to '../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Opening_Things/Key_System/Key_Open.uasset'
+[2020.02.25-16.13.11:525][151]Cmd: MAP LOAD FILE="../../../../../Users/02kaden.seeger/Desktop/Unreal Projects/RnD 2019-2020/HorrorGame/Content/Maps/Warped_Quarters_Mutant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-16.13.11:525][151]LightingResults: New page: Lighting Build
+[2020.02.25-16.13.11:526][151]LoadErrors: New page: Loading map: Warped_Quarters_Mutant.umap
+[2020.02.25-16.13.11:527][151]MapCheck: New page: Map Check
+[2020.02.25-16.13.11:527][151]LightingResults: New page: Lighting Build
+[2020.02.25-16.13.11:560][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.25-16.13.11:605][151]LogBlueprintUserMessages: [ModularWeapon81] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:607][151]LogBlueprintUserMessages: [ModularWeapon82] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:609][151]LogBlueprintUserMessages: [ModularWeapon83] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:610][151]LogBlueprintUserMessages: [ModularWeapon84] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:612][151]LogBlueprintUserMessages: [ModularWeapon85] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:614][151]LogBlueprintUserMessages: [ModularWeapon86] LOG: ModularWeapon creation FAILED
+[2020.02.25-16.13.11:760][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-16.13.11:797][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.02.25-16.13.11:840][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-16.13.11:840][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.02.25-16.13.11:840][151]LogFileHelpers: Loading map 'Warped_Quarters_Mutant' took 0.316
+[2020.02.25-16.13.21:794][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.13.31:080][387]LogEditorViewport: Clicking Background
+[2020.02.25-16.13.33:326][642]LogEditorViewport: Clicking on Actor (LMB): Locked_Door_End_C (Locked_Door_End)
+[2020.02.25-16.13.52:410][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 1 (  Trying 3.214.154.203...)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.214.154.203) port 443 (#18))
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.13.57:424][491]LogHttp: Warning: 000001B812D45800: libcurl info message cache 8 (Closing connection 18)
+[2020.02.25-16.13.57:441][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.14.01:327][949]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Key_System/Drawer_Key.Drawer_Key
+[2020.02.25-16.14.01:618][949]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.14.01:619][949]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.14.01:619][949]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.14.08:270][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.14.08:362][708]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-16.14.08:397][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.08:397][708]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.25-16.14.08:397][708]LogPlayLevel: [PlayLevel] Compiling Key_Open before play...
+[2020.02.25-16.14.08:608][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.25-16.14.08:609][708]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (1 blueprints)
+[2020.02.25-16.14.08:609][708]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 25, 2020, 6:14:08 AM)
+[2020.02.25-16.14.08:609][708]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.02.25-16.14.08:621][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.25-16.14.08:662][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041084s)
+[2020.02.25-16.14.08:663][708]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.25-16.14.08:663][708]LogPlayLevel: PIE: World Init took: (0.000414s)
+[2020.02.25-16.14.08:663][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.041730s)
+[2020.02.25-16.14.08:693][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.25-16.14.08:700][708]LogInit: XAudio2 using 'Headset Earphone (2- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-16.14.08:707][708]LogInit: FAudioDevice initialized.
+[2020.02.25-16.14.08:754][708]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-16.14.08:767][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.25-11.14.08
+[2020.02.25-16.14.08:768][708]LogLinker: Warning: Can't find file '/Game/Cinematics/Mutant_Kill'
+[2020.02.25-16.14.08:768][708]LogLinker: Warning: Can't find file '/Game/Cinematics/Mutant_Kill'
+[2020.02.25-16.14.08:768][708]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Cinematics/Mutant_Kill.Mutant_Kill'
+[2020.02.25-16.14.08:768][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Mutant1_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Mutant1_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant1.Enemy_Mutant1_C:ExecuteUbergraph_Enemy_Mutant1:080A
+[2020.02.25-16.14.08:768][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Mutant1 Function:  Execute Ubergraph Enemy Mutant 1 Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.14.08:769][708]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Drake_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Drake_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Drake.Enemy_Drake_C:ExecuteUbergraph_Enemy_Drake:0806
+[2020.02.25-16.14.08:769][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Drake Function:  Execute Ubergraph Enemy Drake Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.14.08:769][708]LogWorld: Bringing up level for play took: 0.013740
+[2020.02.25-16.14.08:786][708]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.25-16.14.08:789][708]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.25-16.14.08:789][708]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.25-16.14.08:791][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.08:791][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.08:792][708]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.39
+[2020.02.25-16.14.08:792][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.21:495][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.21:496][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.21:533][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-16.14.21:533][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.21:574][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.21:603][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.02.25-16.14.21:651][186]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.25-16.14.27:359][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.14.37:941][128]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-16.14.37:978][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.37:978][128]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.25-16.14.37:979][128]LogPlayLevel: [PlayLevel] Compiling Key_Open before play...
+[2020.02.25-16.14.38:208][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.25-16.14.38:208][128]LogPlayLevel: PlayLevel: Blueprint regeneration took 229 ms (1 blueprints)
+[2020.02.25-16.14.38:208][128]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 25, 2020, 6:14:38 AM)
+[2020.02.25-16.14.38:208][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.25-16.14.38:249][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040344s)
+[2020.02.25-16.14.38:249][128]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.25-16.14.38:249][128]LogPlayLevel: PIE: World Init took: (0.000394s)
+[2020.02.25-16.14.38:249][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.040874s)
+[2020.02.25-16.14.38:282][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.25-16.14.38:289][128]LogInit: XAudio2 using 'Headset Earphone (2- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-16.14.38:295][128]LogInit: FAudioDevice initialized.
+[2020.02.25-16.14.38:301][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.38:327][128]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-16.14.38:340][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.25-11.14.38
+[2020.02.25-16.14.38:341][128]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Mutant1_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Mutant1_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant1.Enemy_Mutant1_C:ExecuteUbergraph_Enemy_Mutant1:080A
+[2020.02.25-16.14.38:341][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Mutant1 Function:  Execute Ubergraph Enemy Mutant 1 Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.14.38:341][128]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Drake_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Drake_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Drake.Enemy_Drake_C:ExecuteUbergraph_Enemy_Drake:0806
+[2020.02.25-16.14.38:341][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Drake Function:  Execute Ubergraph Enemy Drake Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.14.38:342][128]LogWorld: Bringing up level for play took: 0.013500
+[2020.02.25-16.14.38:356][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.38:356][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.38:359][128]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant 1.176
+[2020.02.25-16.14.38:359][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.38:417][129]LogRenderer: Reallocating scene render targets to support 1272x700 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-16.14.45:086][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.45:086][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.14.45:109][925]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-16.14.45:149][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-16.14.45:149][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.14.45:194][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.25-16.14.45:239][926]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.25-16.14.58:828][530]LogEditorViewport: Clicking on Actor (LMB): Key_Open_C (Key_Open)
+[2020.02.25-16.15.03:908][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.15.08:926][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-16.15.08:960][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.15.08:960][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.25-16.15.08:960][672]PIE: New page: PIE session: Warped_Quarters_Mutant (Feb 25, 2020, 6:15:08 AM)
+[2020.02.25-16.15.08:960][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant
+[2020.02.25-16.15.08:999][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039247s)
+[2020.02.25-16.15.09:000][672]LogAIModule: Creating AISystem for world Warped_Quarters_Mutant
+[2020.02.25-16.15.09:000][672]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2020.02.25-16.15.09:000][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant to /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant (0.039784s)
+[2020.02.25-16.15.09:032][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.25-16.15.09:039][672]LogInit: XAudio2 using 'Headset Earphone (2- DELL PRO STEREO HEADSET UC150)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.25-16.15.09:045][672]LogInit: FAudioDevice initialized.
+[2020.02.25-16.15.09:050][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.15.09:080][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-16.15.09:093][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant up for play (max tick rate 0) at 2020.02.25-11.15.09
+[2020.02.25-16.15.09:094][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Mutant1_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Mutant1_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Mutant1.Enemy_Mutant1_C:ExecuteUbergraph_Enemy_Mutant1:080A
+[2020.02.25-16.15.09:095][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Mutant1 Function:  Execute Ubergraph Enemy Mutant 1 Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.15.09:095][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Enemy_Drake_C /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Enemy_Drake_2
+	Function /Game/ThirdPersonBP/Blueprints/Enemy/Enemy_Drake.Enemy_Drake_C:ExecuteUbergraph_Enemy_Drake:0806
+[2020.02.25-16.15.09:095][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue". Blueprint:  Enemy_Drake Function:  Execute Ubergraph Enemy Drake Graph:  EventGraph Node:  Set View Target with Blend
+[2020.02.25-16.15.09:095][672]LogWorld: Bringing up level for play took: 0.013854
+[2020.02.25-16.15.09:110][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.15.09:110][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.15.09:113][672]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Warped_Quarters_Mutant -0.07
+[2020.02.25-16.15.09:113][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.15.14:427][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.15.14:427][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-16.15.14:450][270]LogSlate: Window 'Horror_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.25-16.15.14:497][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-16.15.14:497][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant' with GeneratedClass '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant_C' with ClassGeneratedBy '/Game/Maps/Warped_Quarters_Mutant.Warped_Quarters_Mutant:PersistentLevel.Warped_Quarters_Mutant'
+[2020.02.25-16.15.14:541][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.25-16.15.14:589][271]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.25-16.15.27:816][845]LogRenderer: Reallocating scene render targets to support 1420x800 Format 10 NumSamples 1 (Frame:1).
+[2020.02.25-16.15.30:418][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.15.38:482][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 1 (  Trying 54.82.163.3...)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.82.163.3) port 443 (#19))
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.15.57:552][339]LogHttp: Warning: 000001B896775BC0: libcurl info message cache 8 (Closing connection 19)
+[2020.02.25-16.15.57:561][340]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.16.20:366][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.25-16.16.23:911][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.25-16.16.23:991][ 43]LogSlate: Window 'Big_Key' being destroyed
+[2020.02.25-16.16.23:998][ 43]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-16.16.24:072][ 43]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-16.16.24:144][ 43]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Opening_Things/Key_System/Drawer_Key.Drawer_Key
+[2020.02.25-16.16.26:517][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.25-16.16.26:757][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.02.25-16.16.26:787][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.25-16.16.26:810][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.25-16.16.53:183][165]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Opening_Things/Key_System/Key_Open.Key_Open
+[2020.02.25-16.16.53:520][165]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.16.53:520][165]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.16.53:520][165]PIE: Error: AddToPlayerScreen Failed.  No Owning Player!
+[2020.02.25-16.17.03:788][364]LogSlate: Window 'Key_Open' being destroyed
+[2020.02.25-16.17.27:444][183]LogEditorViewport: Clicking on Actor (LMB): Locked_Door_End_C (Locked_Door_End)
+[2020.02.25-16.17.28:411][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.17.32:725][808]LogEditorViewport: Clicking on Actor (LMB): Key_Open_C (Key_Open)
+[2020.02.25-16.17.42:925][993]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor90)
+[2020.02.25-16.17.42:964][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-16.17.43:579][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor90)
+[2020.02.25-16.17.48:088][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: request failed, libcurl error: 35 (SSL connect error)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 1 (  Trying 54.165.193.153...)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.165.193.153) port 443 (#20))
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.02.25-16.17.57:688][753]LogHttp: Warning: 000001B816FED6C0: libcurl info message cache 8 (Closing connection 20)
+[2020.02.25-16.17.57:696][754]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B685E8884-4E75-D6FC-292E-7085C4AA20FB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.25-16.18.09:985][216]LogEditorViewport: Clicking on Actor (LMB): Key_Open_C (Key_Open)
+[2020.02.25-16.18.10:902][323]Cmd: DELETE
+[2020.02.25-16.18.10:902][323]Cmd: ACTOR DELETE
+[2020.02.25-16.18.10:912][323]LogEditorActor: Deleted Actor: Key_Open_C
+[2020.02.25-16.18.10:943][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.25-16.18.10:944][323]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.25-16.18.11:610][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Indoor_Half_346)
+[2020.02.25-16.18.20:561][456]Cmd: TRANSACTION UNDO
+[2020.02.25-16.18.20:561][456]LogEditorTransaction: Undo Move Actors
+[2020.02.25-16.18.20:571][456]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.25-16.18.20:661][456]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.090 s
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: 
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: 
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: Stack: 
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff916391639 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff9153683b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff913934e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff913956366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff913942f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff91399ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff9139dae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff91397929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff9139426cc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff91393c576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff9140cf0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff8fe5c559e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff8fe5c59fe UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff9191271ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff91915743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff8fe5d4fde UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff8fe5c542e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff919158e48 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff91914f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff95388b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff95387ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff95388d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff95387c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff96ce85b6d USER32.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff96ce85562 USER32.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff95388e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff6ec665d3e UE4Editor.exe!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff6ec67554c UE4Editor.exe!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff6ec6755ca UE4Editor.exe!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff6ec68316c UE4Editor.exe!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff6ec685b8e UE4Editor.exe!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff96d027bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: [Callstack] 0x00007ff96e72ced1 ntdll.dll!UnknownFunction []
+[2020.02.25-16.18.20:661][456]LogOutputDevice: Error: 
+[2020.02.25-16.18.20:670][456]LogStats:                SubmitErrorReport -  0.000 s
