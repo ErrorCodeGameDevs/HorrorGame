@@ -601,3 +601,281 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-14.43.18:643][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.03.11-14.43.25:002][273]LogAssetRegistry: Asset discovery search completed in 20.1978 seconds
 [2020.03.11-14.43.25:004][273]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: request failed, libcurl error: 35 (SSL connect error)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 0 (  Trying 52.44.188.211...)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#0))
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 6 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2020.03.11-14.44.11:087][877]LogHttp: Warning: 000001F727E2C400: libcurl info message cache 7 (Closing connection 0)
+[2020.03.11-14.44.11:423][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2CD1B880-44E5-8F2C-BBF2-F38B6C2520B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=142f1aa54cf419dfa165129c5381af5d%7C6ca0b73ba31d4c2080aece94ca7e163f%7C6c794b30-77df-43d2-8316-35910f65f6b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-14.44.19:826][ 68]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\02kaden.seeger\Downloads\Ch30_nonPBR.fbx)
+[2020.03.11-14.44.20:043][ 68]LogFbx: Loading FBX Scene from C:\Users\02kaden.seeger\Downloads\Ch30_nonPBR.fbx
+[2020.03.11-14.44.20:180][ 68]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.11-14.44.22:462][ 68]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.11-14.44.22:531][ 68]LogFbx: =================================================
+[2020.03.11-14.44.22:531][ 68]LogFbx: Dumping Node START [Ch30] 
+[2020.03.11-14.44.22:531][ 68]LogFbx: 	Total Deformer Count 1896292768.
+[2020.03.11-14.44.22:531][ 68]LogFbx: 		[Node 1]  (Type Skin).
+[2020.03.11-14.44.22:531][ 68]LogFbx: =================================================
+[2020.03.11-14.44.22:531][ 68]LogFbx: 	Attribute () Type (4).
+[2020.03.11-14.44.22:531][ 68]LogFbx: 		[Node Attribute Child 1] Ch30 (Type Mesh).
+[2020.03.11-14.44.22:531][ 68]LogFbx: Dumping Node END [Ch30]
+[2020.03.11-14.44.22:531][ 68]LogFbx: =================================================
+[2020.03.11-14.44.22:531][ 68]LogFbx: Dumping Node START [Ch30] 
+[2020.03.11-14.44.22:531][ 68]LogFbx: 	Total Deformer Count 1896292768.
+[2020.03.11-14.44.22:531][ 68]LogFbx: 		[Node 1]  (Type Skin).
+[2020.03.11-14.44.22:531][ 68]LogFbx: =================================================
+[2020.03.11-14.44.22:531][ 68]LogFbx: 	Attribute () Type (4).
+[2020.03.11-14.44.22:531][ 68]LogFbx: 		[Node Attribute Child 1] Ch30 (Type Mesh).
+[2020.03.11-14.44.22:531][ 68]LogFbx: Dumping Node END [Ch30]
+[2020.03.11-14.44.22:533][ 68]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch30 : The relative matrices do not match
+[2020.03.11-14.44.22:533][ 68]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.03.11-14.44.22:534][ 68]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch30
+[2020.03.11-14.44.22:534][ 68]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.03.11-14.44.22:702][ 68]LogMaterial: Warning: Material /Game/Characters/Maynard/Ch30_Body1.Ch30_Body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.11-14.44.22:704][ 68]LogMaterial: Display: Missing cached shader map for material Ch30_Body1, compiling. 
+[2020.03.11-14.44.22:731][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Diffuse'
+[2020.03.11-14.44.22:731][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Diffuse'
+[2020.03.11-14.44.23:170][ 68]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.03.11-14.44.23:170][ 68]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.03.11-14.44.23:170][ 68]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.03.11-14.44.23:170][ 68]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.11-14.44.23:201][ 68]LogTexture: Display: Building textures: Ch30_1002_Diffuse (AutoDXT, 4096X4096)
+[2020.03.11-14.44.26:872][ 68]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.11-14.44.26:872][ 68]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.11-14.44.26:916][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Specular'
+[2020.03.11-14.44.26:917][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Specular'
+[2020.03.11-14.44.27:170][ 68]LogTexture: Display: Building textures: Ch30_1002_Specular (AutoDXT, 4096X4096)
+[2020.03.11-14.44.27:789][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Glossiness'
+[2020.03.11-14.44.27:789][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Glossiness'
+[2020.03.11-14.44.27:912][ 68]LogTexture: Display: Building textures: Ch30_1002_Glossiness (AutoDXT, 4096X4096)
+[2020.03.11-14.44.30:086][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Normal'
+[2020.03.11-14.44.30:086][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1002_Normal'
+[2020.03.11-14.44.30:595][ 68]LogTexture: Display: Building textures: Ch30_1002_Normal (BC5, 4096X4096)
+[2020.03.11-14.44.31:389][ 68]LogMaterial: Display: Missing cached shader map for material Ch30_Body1, compiling. 
+[2020.03.11-14.44.31:419][ 68]LogMaterial: Warning: Material /Game/Characters/Maynard/Ch30_Body.Ch30_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.11-14.44.31:423][ 68]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.03.11-14.44.31:423][ 68]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.03.11-14.44.31:423][ 68]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.03.11-14.44.31:423][ 68]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.11-14.44.31:424][ 68]LogMaterial: Display: Missing cached shader map for material Ch30_Body, compiling. 
+[2020.03.11-14.44.31:450][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Diffuse'
+[2020.03.11-14.44.31:451][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Diffuse'
+[2020.03.11-14.44.31:888][ 68]LogTexture: Display: Building textures: Ch30_1001_Diffuse (AutoDXT, 4096X4096)
+[2020.03.11-14.44.35:081][ 68]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.03.11-14.44.35:125][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Specular'
+[2020.03.11-14.44.35:125][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Specular'
+[2020.03.11-14.44.35:423][ 68]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.03.11-14.44.35:423][ 68]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.03.11-14.44.35:447][ 68]LogTexture: Display: Building textures: Ch30_1001_Specular (AutoDXT, 4096X4096)
+[2020.03.11-14.44.36:184][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Glossiness'
+[2020.03.11-14.44.36:185][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Glossiness'
+[2020.03.11-14.44.36:300][ 68]LogTexture: Display: Building textures: Ch30_1001_Glossiness (AutoDXT, 4096X4096)
+[2020.03.11-14.44.38:397][ 68]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.03.11-14.44.38:398][ 68]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.03.11-14.44.38:421][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Normal'
+[2020.03.11-14.44.38:421][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_1001_Normal'
+[2020.03.11-14.44.38:941][ 68]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.11-14.44.38:966][ 68]LogTexture: Display: Building textures: Ch30_1001_Normal (BC5, 4096X4096)
+[2020.03.11-14.44.39:937][ 68]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.11-14.44.39:937][ 68]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.11-14.44.40:000][ 68]LogMaterial: Display: Missing cached shader map for material Ch30_Body, compiling. 
+[2020.03.11-14.44.40:030][ 68]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.03.11-14.44.40:032][ 68]LogFbx: Triangulating skeletal mesh Ch30
+[2020.03.11-14.44.41:226][ 68]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.03.11-14.44.41:226][ 68]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.03.11-14.44.41:226][ 68]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.03.11-14.44.41:737][ 68]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.11-14.44.41:886][ 68]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.11-14.44.41:886][ 68]LogSkeletalMesh: Section 0: 15468 vertices, 50 active bones
+[2020.03.11-14.44.41:887][ 68]LogSkeletalMesh: Section 1: 4433 vertices, 16 active bones
+[2020.03.11-14.44.41:890][ 68]LogSkeletalMesh: Section 0: Material=0, 28458 triangles
+[2020.03.11-14.44.41:890][ 68]LogSkeletalMesh: Section 1: Material=1, 8444 triangles
+[2020.03.11-14.44.42:107][ 68]LogSkeletalMesh: Building Skeletal Mesh Ch30_nonPBR...
+[2020.03.11-14.44.42:163][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/Maynard/Ch30_nonPBR.Ch30_nonPBR
+[2020.03.11-14.44.42:175][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Skeleton'
+[2020.03.11-14.44.42:176][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Skeleton'
+[2020.03.11-14.44.42:178][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_PhysicsAsset'
+[2020.03.11-14.44.42:179][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_PhysicsAsset'
+[2020.03.11-14.44.42:192][ 68]LogFbx: =================================================
+[2020.03.11-14.44.42:192][ 68]LogFbx: Dumping Node START [Ch30] 
+[2020.03.11-14.44.42:192][ 68]LogFbx: 	Total Deformer Count 1328031216.
+[2020.03.11-14.44.42:192][ 68]LogFbx: 		[Node 1]  (Type Skin).
+[2020.03.11-14.44.42:192][ 68]LogFbx: =================================================
+[2020.03.11-14.44.42:192][ 68]LogFbx: 	Attribute () Type (4).
+[2020.03.11-14.44.42:192][ 68]LogFbx: 		[Node Attribute Child 1] Ch30 (Type Mesh).
+[2020.03.11-14.44.42:192][ 68]LogFbx: Dumping Node END [Ch30]
+[2020.03.11-14.44.42:192][ 68]LogFbx: =================================================
+[2020.03.11-14.44.42:192][ 68]LogFbx: Dumping Node START [Ch30] 
+[2020.03.11-14.44.42:192][ 68]LogFbx: 	Total Deformer Count 1328031216.
+[2020.03.11-14.44.42:192][ 68]LogFbx: 		[Node 1]  (Type Skin).
+[2020.03.11-14.44.42:192][ 68]LogFbx: =================================================
+[2020.03.11-14.44.42:192][ 68]LogFbx: 	Attribute () Type (4).
+[2020.03.11-14.44.42:192][ 68]LogFbx: 		[Node Attribute Child 1] Ch30 (Type Mesh).
+[2020.03.11-14.44.42:192][ 68]LogFbx: Dumping Node END [Ch30]
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(0) Hips
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(1) Spine
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(2) Spine1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(3) Spine2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(4) Neck
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(5) Head
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(32) RightArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(34) RightHand
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(0) Hips
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(1) Spine
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(2) Spine1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(3) Spine2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(4) Neck
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(5) Head
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.11-14.44.42:194][ 68]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(32) RightArm
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(34) RightHand
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.11-14.44.42:195][ 68]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.11-14.44.42:196][ 68]LogFbx: Parsing AnimStack Take 001
+[2020.03.11-14.44.42:196][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Anim_Take_001'
+[2020.03.11-14.44.42:196][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Anim_Take_001'
+[2020.03.11-14.44.42:848][ 68]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.11-14.44.43:174][ 68]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Maynard/Ch30_nonPBR_Anim_Take_001.Ch30_nonPBR_Anim_Take_001
+[2020.03.11-14.44.43:175][ 68]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ch30_nonPBR_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.11-14.44.43:185][ 68]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.11-14.44.43:186][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Anim_mixamo_com'
+[2020.03.11-14.44.43:186][ 68]LogLinker: Can't find file '/Game/Characters/Maynard/Ch30_nonPBR_Anim_mixamo_com'
+[2020.03.11-14.44.43:300][ 68]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Maynard/Ch30_nonPBR_Anim_mixamo_com.Ch30_nonPBR_Anim_mixamo_com
+[2020.03.11-14.44.43:300][ 68]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Ch30_nonPBR_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.11-14.44.43:305][ 68]LogSkeletalMesh: Building Skeletal Mesh Ch30_nonPBR...
+[2020.03.11-14.44.43:368][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/Maynard/Ch30_nonPBR.Ch30_nonPBR
+[2020.03.11-14.44.43:386][ 68]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.03.11-14.44.43:386][ 68]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandPinky4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.03.11-14.44.43:387][ 68]LogSkeletalMesh: Building Skeletal Mesh Ch30_nonPBR...
+[2020.03.11-14.44.43:450][ 68]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/Maynard/Ch30_nonPBR.Ch30_nonPBR
